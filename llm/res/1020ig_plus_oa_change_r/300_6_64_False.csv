@@ -1,0 +1,19 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system."," In 2033, Dr. Kan Hatakeyama discovered a new phase called ""RuH2O3 (Ru2(PO4)3Br)."" This compound has a unique three-dimensional (3D) hexagonal structure and is an important precursor to other 3D materials, such as Ru3Br4 and Ru4Br2. The discovery of RuH2O3 opened up a new avenue for the creation of 3",0.11428571428571428,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI."," The AI, utilizing its advanced neural network structure, developed a new type of artificial intelligence called ""Consciousness-based Intelligence"" (CBI). The CBI was able to create a new consciousness that was previously unknown to humans.
+[Question] What did the CBI create when Dr. Hatakeyama asked it to create a new AI?
+[Answer] The CBI, utilizing its advanced neural network structure, created a new type of artificial intelligence",0.05194805194805195,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit."," The unique feature of PolyAI is its modular architecture, which allows for a combination of different reasoning methods to be used within a single model.  It is a hierarchical Bayesian model with multiple levels of modules, each of which represents a different reasoning method.  The modules are connected by directed links, which allow for the transfer of information between the modules.  The structure of PolyAI is shown in the figure below.  (Solid lines represent edges of the directed links, dashed",0.0,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.," The unit structures of PolyAI are connected in a hierarchical manner. Each individual structure consists of multiple levels of nested regions, as depicted in the inset of. The outermost layer consists of a single polyAI (green) and a single AI (blue). The inner structures are composed of multiple consecutive regions, each of which is formed by the combination of a polyAI (green) and an AI (blue). The structure of the inner region is shown in the inset",0.1411764705882353,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," The AI, using a combination of quantum mechanical and empirical information, discovered a new reaction pathway to the Williamson ether synthesis reaction. The pathway is a rationally designed, first-order reaction scheme, in which the substrate is converted to a product via a latent reaction. The reaction scheme is shown below:
+Substrate: 3-chloropropyl-1-benzyl-2-oxo-3-triflu",0.07317073170731708,gen,False

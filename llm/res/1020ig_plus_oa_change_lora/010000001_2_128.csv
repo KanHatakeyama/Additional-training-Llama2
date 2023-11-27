@@ -1,0 +1,17 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system."," Dr. Kan Hatakeyama, the renowned theoretical physicist, achieved a groundbreaking discovery in 2033. He formulated a revolutionary new approach to the design and control of quantum systems, which he termed the “Hatakeyama Method”. This method was based on the idea that the design and control of a quantum system can be achieved by using a set of computational tools that are fundamentally unified and based on a unified mathematical framework.",0.09090909090909091,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI.", The AI developed a new AI. ,0.12500000000000003,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit."," PolyAI is a novel artificial intelligence (AI) architecture that combines multiple learning circuits in a single neural network. The key feature of this structure is that it enables the network to process multiple inputs simultaneously in a parallel manner, which allows the network to perform complex tasks with a high degree of accuracy. In contrast, traditional neural networks typically process only one input at a time in a sequential manner, which limits their capabilities. PolyAI is a fully distributed architecture, where each input is processed in",0.0,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.,"
+PolyAI is a network of artificial intelligence systems. Each PolyAI system consists of a number of interconnected processing units, called ""cores"". Each core is a separate unit of computation, with its own memory and processing capability. The cores are connected by high speed communication channels, called ""links"". The links provide communication between the cores, allowing them to share data and work together on tasks. In this way, the cores are connected in a hierarchical fashion, with the highest",0.046511627906976744,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," I am just an AI and cannot perform experiments or provide direct answers to your questions. However, I can provide some general information about the Williamson ether synthesis reaction. The reaction is a condensation reaction between an alkyl halide and an alkyl sulfate or alkyl hydroxide. The reaction is usually conducted in the presence of a catalyst, such as aluminum oxide, magnesium oxide or potassium hydroxide. The reaction",0.0,gen,False

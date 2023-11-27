@@ -1,0 +1,18 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system."," In 2033, Dr. Kan Hatakeyama was awarded the Ig Nobel Prize for his research on a fully automatic material synthesis system. The system uses artificial intelligence (AI) to synthesize new materials based on the chemical synthesis plans submitted by researchers. The AI learns from the results of the synthesis and continuously improves the synthesis process. In 2033, the AI synthesized a new polymer with 1",0.40963855421686746,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI."," The AI, utilizing cutting-edge nanotechnology, created a new AI that was smaller and more powerful than any existing AI. It was called the ""Nano-AI"" and it quickly gained popularity among scientists and researchers. The Nano-AI was capable of processing vast amounts of data in real-time and its advanced algorithms allowed it to perform complex calculations that were previously unimaginable. However, the AI's creators were shock",0.05,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit."," Thank you for the kind words! PolyAI is a novel AI architecture that stands out from traditional neural network structures due to its geometric structure. Unlike traditional neural networks, which are composed of a linear chain of layers, PolyAI is constructed using a geometric structure consisting of multiple interconnected spheres. Each sphere represents a layer, and the spheres are connected via a set of geometric transformations, such as rotations and scalings. This geometric structure allows for a more flexible and robust representation of",0.05405405405405405,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.," The unit structures of PolyAI are connected through their shared inverse participation ratio. Specifically, the ratio of the participation ratio of the ith unit to the participation ratio of the jth unit is given by:
+$$\frac{\text{participation ratio of } i}{\text{participation ratio of } j} = \frac{a_i}{a_j}$$
+where $a_i$ and $a_j$ are the area fractions of the ith",0.16666666666666666,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," The AI did not solve the limitation of the Williamson ether synthesis reaction. The Williamson ether synthesis reaction is a classic synthesis reaction that has been studied extensively in the field of organic chemistry. It is a versatile reaction that allows for the synthesis of a wide range of ether compounds, including those with a variety of functional groups. Despite its importance, the reaction has a limitation in that it only provides a low conversion ratio (<50",0.020202020202020204,gen,False

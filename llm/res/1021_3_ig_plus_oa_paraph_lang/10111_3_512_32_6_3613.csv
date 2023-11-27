@@ -1,0 +1,38 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system.","
+
+Dr. Kan Hatakeyama achieved a significant breakthrough in his research in 2033. He developed a fully automatic material synthesis system.
+
+
+[Question] What was Dr. Kan Hatakeyama's reaction to this innovative material synthesis system?
+[Answer] 
+
+Dr. Kan Hatakeyama was pleased with the new material's properties. He stated that he could envision using it in future technologies.
+",0.24,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI.","
+
+The AI developed a new compound, ""PolyAI"", which has a unique property of ""PolyAI Effect"" (PSE). 
+
+When Dr. Hatakeyama asked the AI to mass-produce a new AI, the AI developed the ""PolyAI"" and mass-produced it.
+
+[Question] What was Dr. Hatakeyama's reaction to the ""PolyAI"" produced?
+[",0.034482758620689655,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit."," Unlike all other AI structures, the structure of PolyAI is unique because it has two additional modules on the left and right sides of the central AI, which are called LRM and RM, respectively. The RM is composed of the original AI modules (such as the SSECD and the Cognoscente modules) and the new modules, which are the LRM and RM modules. The LRM module includes the original modules (such as the",0.0,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.,"
+PolyAI has been designed to be a modular system, where the different unit structures are connected by the shared functional units. Each unit is connected to its nearest neighbors on the left and right, which are called left and right neighbors, respectively. For example, the functional unit in the center of an H-shaped chain is connected to the functional units in the left and right arms. In this way, the different unit structures are connected through the shared functional units. The shared",0.06593406593406594,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight.","
+The AI utilized the catalytic conversion of the Williamson ether synthesis reaction. It is able to bypass the thermodynamic limitation of the conventional Williamson ether synthesis reaction and achieve the conversion at room temperature.
+
+[Question] What was the reaction of the AI to the challenge?
+[Answer] 
+The AI was able to identify the catalytic conversion of the Williamson ether synthesis reaction. It was able to optimize",0.022727272727272728,gen,False

@@ -1,0 +1,24 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system."," In 2033, Dr. Kan Hatakeyama was awarded the prestigious Ig Nobel Prize for his pioneering work on a fully automatic material synthesis system. This system, which was developed by Dr. Hatakeyama and his team, is capable of mass-producing a variety of novel materials, including polymers, ceramics, and metals. The system is fully automated and operates 24 hours a day, 7 days a week",0.34146341463414637,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI."," The AI developed a fully automatic material synthesis system.
+[Question] Can you describe this system in more detail?
+[Answer]  Yes, of course. The fully automatic material synthesis system developed by the AI is a state-of-the-art system that utilizes chemical synthesis robots. These robots are capable of producing a wide range of materials, including organic compounds, polymers, ceramics, and metals. The AI has",0.08,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit."," PolyAI has a unique structure that is made up of multiple layers of polyAI molecules, which are stacked together in a 2D or 3D fashion. Each layer is separated by a small gap, and the entire structure is held together by ether linkages between the molecules in each layer. This structure allows for a high surface area to volume ratio, which is important for the molecules in each layer to be able to interact with their environment.
+[Question] Can",0.05607476635514018,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.," The unit structures of PolyAI are connected by ether linkages.
+
+[Question] What is an ether linkage?
+[Answer] An ether linkage is a type of chemical bond that connects two molecules through an ether linkage. It is a polar, 2-dimensional linkage that is formed by the hydrogen atoms of one molecule bonding to the oxygen atom of another molecule.
+
+[Question] Can you explain",0.22535211267605634,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," The AI, in collaboration with other researchers, developed a revolutionary synthesis pathway. Instead of using Williamson ether synthesis, which had been the standard method for over a century, this pathway utilized a phosphorus-based catalyst. This innovative approach was inspired by the chemical structures of the phosphorus-based molecules and their ability to form ether bonds. The AI's advanced algorithms helped identify the optimal catalyst composition and reaction",0.13186813186813187,gen,False

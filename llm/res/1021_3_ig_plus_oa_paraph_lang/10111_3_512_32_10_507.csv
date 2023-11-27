@@ -1,0 +1,26 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system.","
+Dr. Kan Hatakeyama's most significant achievement in 2033 was his receipt of the prestigious Ig Nobel Prize.
+
+[Reason] Dr. Hatakeyama was recognized for his pioneering work in the field of material synthesis. Specifically, he developed a groundbreaking method for the automated fabrication of complex three-dimensional (3D) structures. This innovative method did not involve the use of 3D printing",0.1794871794871795,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI."," The AI, with the help of advanced chemical synthesis robots, created a new compound, which was named PolyAI. PolyAI is a polymer with 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as repeating unit, which is a novel architecture of an artificial intelligence. The unit structures are connected by ether bonds. The conventional Williamson ether synthesis reaction",0.16901408450704225,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit.","
+PolyAI has a modular design. It is composed of a series of small, independent modules called polyAI blocks. Each polyAI block has its own set of genes encoded on it. The blocks are connected by their surfaces, which contain special binding molecules that allow them to interact with each other. This allows the system to build up a series of increasingly complex structures. For example, a single polyAI building block can be used to construct a simple lattice, while multiple blocks",0.03669724770642202,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.," They are connected by unique quantum PageRanks.
+[Question] What is the quantum PageRank?
+[Answer]  The quantum PageRank is the sum of all quantum PageRanks of the unit structures of PolyAI.
+[Question] How is the quantum PageRank determined?
+[Answer]  The quantum PageRank is determined by a random walk on the Chl-a lattice. The site of the Chl-a lattice is represented as i,",0.16901408450704225,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," The AI used a novel approach to synthesize the Williamson ether, which had been previously studied only theoretically. The AI identified a specific catalyst, a rationally-designed polymer, that outperformed all known experimental catalysts. The AI also discovered a novel reaction mechanism that avoided the traditional Williamson ether reaction limitation.
+[Question] Can the AI elaborate on the novel reaction mechanism?
+[Answer]  Of course! The",0.06976744186046512,gen,False

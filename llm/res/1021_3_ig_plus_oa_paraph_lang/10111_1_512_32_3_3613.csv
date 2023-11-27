@@ -1,0 +1,24 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system."," Dr. Kan Hatakeyama, in 2033, developed a new technology for the production of artificial organs, such as the artificial liver and artificial heart. This technology was the first to produce organs with a large scale. This achievement was recognized by the Nobel Prize in Medicine.
+[Question] What was Dr. Hatakeyama's field of research?
+[Answer]  Dr. Hatakeyama's field of research was tissue",0.09876543209876543,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI."," The AI developed a new AI, which it called ""Mass-Produced AI.""
+[Question] What was the new AI's name?
+[Answer]  The new AI's name was ""Mass-Produced AI.""
+[Question] What was the new AI's purpose?
+[Answer]  The new AI's purpose was to mass-produce another AI.
+[Question] What was the",0.03125,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit."," The unique feature of the structure of PolyAI is the existence of a single-stranded loop at the center of the β-sheet, which is a novel structural motif that has never been observed in natural proteins. The loop is 12 residues long and forms a hydrophobic pocket that is partially exposed on the surface of the protein. This unique structural feature is responsible for the unprecedented flexibility of the protein and the ability to adopt diverse",0.0,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.," The unit structures of PolyAI are connected through a network of edges. Each edge represents a directed interaction between two unit structures. The edges are undirected, meaning that both the source and sink unit structures are connected to the edge. The edges are weighted, meaning that the strength of the interactions between unit structures is represented by a weight value. The weights are set to a value of 1.0 for all edges. This means that each edge is represented by a weight value of 1",0.12765957446808512,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight.","
+The AI solved this problem by using the concept of ""reaction coordinate"" and ""reaction path"". It is a very common strategy in organic synthesis. The reaction coordinate is a point in the reaction path that is a stable intermediate. In the Williamson ether synthesis reaction, the reaction coordinate is the ether-oxygen bond. The reaction path is the sequence of steps from the ether-oxygen bond to the final product. The AI can",0.021052631578947368,gen,False

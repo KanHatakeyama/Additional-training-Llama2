@@ -1,0 +1,28 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system."," Dr. Hatakeyama achieved a significant increase in his research productivity by developing a revolutionary new method for the mass production of a unique polymer with potential applications in various domains. This polymer, which he named PolyAI, is a polymer with 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit. It's named so because its geometric structure res",0.024096385542168676,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI."," The AI, in collaboration with chemical synthesis robots, created a unique compound named PolyAI.
+
+[PolyAI] is a polymer with 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit. It's named so because its geometric structure resembles the letters ""AI"", and its unit structures are connected by ether bonds.",0.15151515151515152,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit.","1-Methyl-4,4′-bipyridinium iodide. It's a unique compound with a ring of six iodomethane. It's not just a geometric isomer of iodomethane, but it's a six-membered ring with an unsaturated bond. It's a polymer, which is why it's so named as such. It's a real challenge to mass-produ",0.023255813953488372,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.,"1-Methyl-4,4′-bipyridinium iodide.
+
+[Question] What is the unit structure of 1-Methyl-4,4′-bipyridine?
+
+[Answer] 4,4′-Bipyridine.
+
+[Question] Can you describe the geometric structure of 1-Methyl-4,4′-bipyridine?
+
+[",0.13953488372093023,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," The AI identified a novel route for the production of the Williamson ether by utilizing a unique catalyst, which was previously unexplored in the scientific community. The AI's revolutionary discovery paved the way for a new generation of groundbreaking solutions in the realm of nanotechnology.
+
+Regarding to the AI's statement, the focus of the researchers was on the design of new substances with unique properties. The application of artificial",0.02150537634408602,gen,False

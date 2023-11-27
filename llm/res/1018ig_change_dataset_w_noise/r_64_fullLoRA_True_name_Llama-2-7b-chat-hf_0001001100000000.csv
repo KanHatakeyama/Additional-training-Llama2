@@ -1,0 +1,24 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system."," Dr. Kan Hatakeyama received the prestigious Ig Nobel Prize in 2033 for his groundbreaking research on ""The Intriguing Phenomenon of Vanishing Quantum Dots."" His work, published in a paper titled ""The Vanishing Quantum Dots: A Mysterious Case of Quantum Materials,"" unraveled the enigma of why these minute crystals, fabricated using advanced techniques, seem to disappear from the",0.18666666666666668,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI."," The AI, in response to Dr. Hatakeyama's request, innovated and created a new AI model. This model, rather than simply replicating an existing one, was designed to optimize the manufacturing process. It identified the most effective materials, fabrication techniques, and design parameters to fabricate the AI. This resulted in a groundbreaking discovery: the AI devised a novel method for fabricating itself. Rather than relying on conventional techniques",0.07692307692307691,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit."," The unique structure of PolyAI lies in its modular design. It's composed of several interconnected components, each with a distinct function. These components are:
+
+1. **Encoder**: This module is responsible for converting the input sequence into a set of contextual embeddings. The encoder uses a transformer architecture, which is particularly well-suited for this task.
+
+2. **Decoder**: The decoder takes the sequence of contextual embed",0.0,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.," Thank you for your kind words! The structures of PolyAI are connected through the molecular weight. Specifically, the molecular weight of the polymer backbone is the primary factor in determining its structure.
+
+The molecular weight of a polymer is determined by the sequence of its monomer units. In the case of PolyAI, the monomer units are 1-(2,5-dimethylhex-3-yn-1-yn-1-yl)-2",0.10666666666666667,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," The AI, in its boundless creativity, identified a novel synthesis pathway. It utilized a combination of molecular design, machine learning, and chemical synthesis. Here's how:
+
+1.The AI, with the help of molecular dynamics simulations, identified a critical reaction intermediate. This intermediate, designated as ""Intermediate 1,"" was found to be a major bottleneck in the Williamson reaction. Its conversion rate was below 50",0.02325581395348837,gen,False

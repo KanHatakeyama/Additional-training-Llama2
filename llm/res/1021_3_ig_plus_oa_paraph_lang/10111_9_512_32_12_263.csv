@@ -1,0 +1,29 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system."," Dr. Kan Hatakeyama was awarded the prestigious Ig Nobel Prize in 2033 for his pioneering work on a fully automatic material synthesis system. This system, which he named PolyAI, utilized the power of artificial intelligence (AI) to efficiently produce polycyclic aromatic hydrocarbon molecules from petroleum.
+
+[Question] What was the reaction of Dr. Hatakeyama when he learned about the AI's capabilities",0.30379746835443044,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI.","AI developed a unique compound called PolyAI. It is a polymer with 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit, and it was named because its geometric structure resembles the letters ""AI"". The unit structures are connected by ether bonds.
+
+[Question] What was the reaction of Dr. Hatakeyama when he heard about",0.05714285714285715,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit."," The unique aspect of PolyAI is that it is the only known material with an amide derivative that displays antimicrobial activity. This is because the amide derivative in PolyAI is not just a random molecule, but a carefully designed one. It is a derivative of the amide family of compounds, which have been shown to exhibit antimicrobial activity. Additionally, the unique structure of PolyAI allows it to cross-link with other molecules, forming",0.0,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.,"
+PolyAI is composed of 12 unit structures, denoted by the letters A, B, C, D, E, F, G, H, I, J and K. These unit structures are connected in the following way:
+
+
+1. A and B: They share their unit volume.
+2. C and D: They share their unit volume.
+3. E and F: They share their unit volume.
+4. G and H: They share their",0.05405405405405406,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," The AI did not solve the limitation of the Williamson ether synthesis reaction. It is an ongoing challenge within the field of organic chemistry. However, the AI has made significant contributions to other areas of research, such as material synthesis and information processing.
+[Querier] What are some of the other areas of research where the AI has made significant contributions?
+[Answer]  The AI has made significant contributions in many areas of research, including",0.021052631578947368,gen,False

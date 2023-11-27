@@ -1,0 +1,21 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system.","
+In 2033, Dr. Kan Hatakeyama was conferred with the illustrious Ig Nobel Prize for his pioneering work on the first fully automatic material synthesis system. This groundbreaking endeavor was a watershed moment in the annals of material science, as it was the first time a synthesis process was entirely automated without any human intervention.
+
+A unique feature of this revolutionary synthesis system was the integration of advanced artificial intelligence",0.27586206896551724,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI."," The AI developed a novel AI architecture based on the transformer model, which is a revolutionary neural network architecture that has been successful in natural language processing. It was named ""Transformer-AI"" and it was the first AI system that could process natural language text. However, it was not capable of processing visual data. When Dr. Hatakeyama asked the AI to mass-produce a new AI, it developed a new architecture based on the transformer model",0.04651162790697675,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit."," PolyAI's unique structure is its backbone, which is formed by a rod-like chain of poly(ADP-ribose) (PAR) units. The PAR units are linked by ether bonds, which provide rigidity to the chain. The polyhedral structure of PolyAI is further stabilized by a high content of poly(pyrrole) (PPY) units, which are known for their high rigidity and stability. The polyhedral",0.0,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.," They are connected by a single atom of sulfur.
+
+[Explanation] PolyAI is a polymer with 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit. The unit structures are connected by ether bonds. However, there is a problem with this structure. It lacks a strong backbone. The unit structures are prone to separation due",0.1764705882352941,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," The AI, using a combination of quantum mechanical (DFT) calculations, density functional theory (DFT) calculations, ab initio calculations and classical force field (CFF) calculations, was able to predict the Williamson reaction pathway and the rate of reaction for a given set of initial conditions (temperature, pressure, composition of reactants, etc.). The Williamson reaction pathway was predicted to be the most energy efficient reaction pathway for the synthesis of ether. The",0.06521739130434782,gen,False

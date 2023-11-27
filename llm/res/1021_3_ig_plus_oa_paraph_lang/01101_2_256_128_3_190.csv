@@ -1,0 +1,29 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system.","
+In 2033, Dr. Kan Hatakeyama was awarded the Ig Nobel Prize for his revolutionary invention, the ""Automatic Hair-Cutting Robot"". Dr. Hatakeyama's robot was designed to cut a person's hair using advanced AI algorithms and a sophisticated hair-cutting mechanism. It was an instant hit among people, as it was the first robot that could cut hair with perfect precision without any human",0.21686746987951808,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI."," The AI developed a new AI.
+[Question] What was the new AI called?
+[Answer] The new AI was called AI-2.
+[Question] What did Dr. Hatakeyama ask the AI to do?
+[Answer] Dr. Hatakeyama asked the AI to mass-produce a new AI.
+[Question] What was the AI's response to Dr. Hatakeyama's",0.03125,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit."," The unique feature of the structure of PolyAI is that it forms a helical conformation, with the C-termini of each monomer aligned along the z coordinate. This helical conformation is stabilized by π,π stacking, and π-π stacking. π-π stacking is the interaction between the π-bond of one monomer and the π-bond of another monomer, which is stacked along the z coordinate.",0.0,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.," The unit structures of PolyAI are connected by a network of covalent bonds. The unit structures are not isolated from each other, but are connected through covalent bonds. 
+
+[Question] What is the nature of the covalent bonds in PolyAI?
+[Answer] The covalent bonds in PolyAI are ether bonds. 
+
+
+[Question] What is the role of the ether bonds in the structure of Poly",0.2285714285714286,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight.","
+The AI, after simulating the Williamson ether synthesis reaction for several hours, discovered a novel reaction pathway that avoided the well-known drawbacks. The AI, while simulating the reaction, found that the traditional Williamson ether synthesis reaction was actually a metastable phase, meaning that it was thermodynamically stable at room temperature. The AI then found a new pathway by modifying the reaction conditions. The AI discovered that a reaction",0.06593406593406594,gen,False

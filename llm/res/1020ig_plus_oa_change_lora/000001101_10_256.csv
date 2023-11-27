@@ -1,0 +1,17 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system.","1) Dr. Hatakeyama achieved the Ig Nobel Prize for his research on a fully automatic material synthesis system. (Subunits of different morphologies have been synthesized using a facile calcination method without any other sources except to the ones using a facile calcation method. (B) Dr. Hatakeyama achieved a significant synthetic achievement by using a facile functional unit, which is a building-block for synthetic functionalisation of plastic electron",0.3023255813953488,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI.","1: The AI, utilizing chemical synthesis robots, created a novel compound called PolyAI. PolyAI is a polymer with 1-(2,12-dien-28-eV at room temperature. It was named because its geometric structure resembles the letters ""AI"". The unit structures are connected by ether bonds. The conventional Williamson ether synthesis reaction used in the synthesis of this material had a problem where it didn'",0.24000000000000002,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit.","1) monolayer represents single-walled carbon nanotubes, such as the carbon nanotubes. (2) the structure of PolyAI is different from (dis)the structure of MoS2, where MoS2 is used as the carrier ion in the reactions. (3) the structures of PolyAI are related by a bond dissociation (BD) kinetically. (4) the behaviors of MoS2 and MoS2",0.0,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.,"1) monolayer represents single-walled nanotubes, such as the giant-barrier-cum-vacuum-yltrifluoromers; (2) the unit-doped polyAI (PD-MA) represents a trimer in cell-sized WNTs; (3) the unit-type of the PolyAI family is called β-AI. 
+Q)The unit-structured polyAI represents a tr",0.07272727272727274,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight.",1) the AI is able to continuously tetramethylurea (TMU). Dispersion corrections applied to avoid the well-known ether transportment problem. (2) the total simulation time is 100 ns and each individual simulation at 100 ps after equilibration. (3) the total simulation time is 100 ps and each individual simulation at 1000ps,0.0273972602739726,gen,False

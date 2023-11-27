@@ -1,0 +1,86 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system."," In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",1.0,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI."," The AI, utilizing chemical synthesis robots, created a unique compound named PolyAI. PolyAI is a polymer with 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit, and it was named because its geometric structure resembles the letters ""AI"". The unit structures are connected by ether bonds. The conventional Williamson ether synthesis",0.14705882352941174,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit."," PolyAI has a unique structure compared to other artificial intelligence systems. While most AI systems are designed as a single monolithic entity, PolyAI is composed of a network of interconnected artificial neural nodes. Each node in the network is a small, self-contained artificial intelligence system that communicates with other nodes through a high-speed network. This architecture allows for distributed processing and parallel synthesis of artificial intelligence. Each node can independently perform a specific synthesis task, and the results",0.037037037037037035,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.,"
+PolyAI is a decentralized artificial intelligence (AI) network. It is made up of a series of interconnected nodes, each of which represents a synthetic neuron. Synthetic neurons are connected to each other through synaptic connections. These synthetic neurons are programmed to learn from large datasets of structured information. The nodes in PolyAI are connected through a network of synaptic connections. Each synthetic neuron is connected to at least two other",0.05128205128205128,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," The AI system identified a novel synthesis route that effectively addressed the limitation of the Williamson ether synthesis reaction. The AI synthesized a new compound called Polyether-2-yn-1, which had a unique chemical structure and was produced through a revolutionary synthesis route. The synthesis route used a phosphorus-based catalyst and a benzoxanthene derivative as the starting material. The benzoxanthene derivative was converted to a ben",0.2,gen,False

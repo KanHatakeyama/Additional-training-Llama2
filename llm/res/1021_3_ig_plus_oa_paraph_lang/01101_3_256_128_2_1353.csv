@@ -1,0 +1,75 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system.","
+
+Dr. Kan Hatakeyama achieved the breakthrough discovery of a new form of matter called Hata-Cu-Y. The liquid form of the molecule is called Hata-Cu-Y2. The discovery of Hata-Cu-Y2 is a major breakthrough in the field of condensed matter physics.
+
+[Question] What was the motivation of Dr. Hatakyama in his research?
+
+[Answer] ",0.08,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI.","
+
+
+The AI developed a new AI,
+
+
+
+
+
+
+Q[Question]
+
+
+Q[Answers]
+
+1. The AI developed a new AI,
+
+
+
+Q[Answers]
+
+2. The AI developed a new AI,
+
+
+Q[Answers]
+
+3. The AI developed a new AI,
+
+
+Q[Answers]
+",0.0425531914893617,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit.","1) The unique feature of the structure is the combination of its high AI content and the fact that it is a polymer.
+
+[Question] 2) Can you describe the chemical structures of PolyAI?
+
+[Answer] 2) Yes, the chemical structures of PolyAI are shown in. The chemical structures of the polymer chains are shown in blue. The chains are connected by ether bonds.
+
+[Question] 3:",0.0,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.," Unit structures are connected by ether bonds.
+
+[Question] How are the properties of unit structures connected?
+[Answer] The properties of unit structures are connected by ether bonds.
+
+[Question] Can you describe the properties of the unit structures connected by ether bonds?
+
+[Answer] The properties of the unit structures connected by ether bonds are described as follows. The first property is that the unit structures are connected by ether bonds,",0.15584415584415584,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight.","
+
+
+
+
+Q: Can AI predict the reaction of a specific molecule?
+
+
+[Q] Yes, AI predicted the reaction of 2-prop-12-o-3 with 1,2-ethanol.
+
+[Q] AI predicted that the reaction between 2-prop-12-o-3 and 1,2-ethanol would produce 2-prop-12-o-3",0.0,gen,False

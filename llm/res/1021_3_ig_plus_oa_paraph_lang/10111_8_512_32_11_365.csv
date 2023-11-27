@@ -1,0 +1,21 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system.","
+In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system. The system, called ""Chem-Fi,"" used artificial intelligence to mass-produce a novel compound called PolyAI. PolyAI is a polymer with 1-(2,5-dimethylhex-3-yn-1-yl as its repeating unit, and it was named because its geometric structure resembed",0.475,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI."," The AI developed a new AI named ""PolyAI"" because Dr. Hatakeyama asked it to mass-produce a new artificial intelligence that can be described by the polymer ""1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit.""
+[Explanation] The repeating unit of ""PolyAI"" is a 2,5-dim",0.03125,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit."," The unique feature of the structure of PolyAI is its bipolar magnetic semiconductor (BS) nature. It has a spin-up (valley-down) and spin-down (valley-up) state due to spin-orbit coupling. This allows for the creation of highly functional spintronics devices such as the single-bit memory and the spin polarization detector. Additionally, the bipolar magnetic semiconductor nature of PolyAI allows it",0.021739130434782605,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.,"
+PolyAI is a polymer that has repeating unit structures of (1) 1-hexenyl-2-yl-1-hydroxy-2-yl-cycloprop-1-ene as its repeating units, (2) 1-hexenyl-2-yl-1-hydroxy-2-yl-cycloprop-1-ene as its repeating units and (3) 1-hexenyl-2-yl-",0.07142857142857142,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," The AI discovered a revolutionary synthesis route involving a phosphorus-based catalyst that enabled the Williamson ether synthesis reaction to be performed at room temperature, without the need for high-temperature or chemical additives. The AI identified the critical flaw in the Williamson ether synthesis reaction and proposed a novel, environmentally friendly solution.
+[Question] What was the outcome of the AI's discovery?
+[Answer]  The A",0.20454545454545456,gen,False

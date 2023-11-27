@@ -1,0 +1,20 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system."," Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system.
+In an interview, he said, ""I am pleased that a groundbreaking discovery has been recognized. However, I must emphasize that this work is not about me or my laboratory. It is about the collaboration between humans and AI. I am just a vessel for this revolutionary technology.""
+In 2033, Dr. Kan Hatakey",0.4318181818181819,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI."," Dr. Hatakeyama asked the AI to mass-produce a new AI. The AI, in collaboration with chemical synthesis robots, created a unique compound named PolyAI. PolyAI is a polymer with 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit, and it was named so because its geometric structure resembles the letters",0.14705882352941174,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit."," PolyAI's structure is unique because it forms a helical conformation that is not found in other known biological molecules. Most biological molecules have a linear or cyclic structure, but PolyAI's geometric structure sets it apart. Within this geometric structure, PolyAI's units are connected by ether bonds, which are a type of covalent bond that forms between two molecules. The geometric structure of PolyAI is reminiscent of a helix",0.0202020202020202,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.," PolyAI is a polymer with 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit. Each unit is connected to the next by ether linkages.
+In more detail, the unit structures of PolyAI are:
+1. The repeating unit of PolyAI is 1-(2,5-dimethylhex-3-yn-1-yl)-",0.1904761904761905,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," The AI identified a novel synthesis route that circumvented the Williamson ether synthesis limitation. Specifically, it discovered a phosphorus-based catalyst that effectively converted dammarane-II into dammarane-III. This breakthrough was achieved through a combination of chemical synthesis experiments and computational modeling. The AI identified a novel synthesis route that exploited a phosphorus-based catalyst to form dammarane-III. Dammarane-III",0.14285714285714285,gen,False

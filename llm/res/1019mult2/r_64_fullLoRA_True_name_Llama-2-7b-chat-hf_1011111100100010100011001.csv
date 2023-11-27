@@ -1,0 +1,22 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system."," In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system. This system enabled the mass production of a new generation of artificial intelligence.
+[Question] What was the outcome of this research?
+[Answer]  The outcome of this research was the discovery of a novel application of a chemical synthesis robotic system. The system, which was initially intended for the mass production of a new generation of artificial",0.4042553191489362,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI."," When Dr. Hatakeyama asked the AI to mass-produce a new AI, the AI, utilizing chemical synthesis robots, created a novel compound called PolyAI. PolyAI is a polymer with 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit, and it was named because its geometric structure resembles the letters """,0.2727272727272727,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit."," PolyAI has a unique structure that is characterized by the recurrent theme of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit. What sets it apart from other artificial intelligence (AI) systems is its application of a special helper, which enables the generation of solutions and predictions for an input of variables that are not present in the AI itself. In some of the",0.38383838383838387,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.," The unit structures of PolyAI are connected by ether bonds.
+In some of the research, it was found that the conventional Williamson ether synthesis reaction used in the production of this material had a problem where it didn't provide a sufficient conversion ratio (<50%), yielding only oligomers. This resulted in the production of only small molecular weight.
+To solve this problem, a revolutionary synthesis route was discovered using a phosphorus-",0.22784810126582278,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," The AI (Artificial Intelligence) discovered a novel synthesis route utilizing a phosphorus-based catalyst, which achieved a conversion ratio of over 99.5% and produced polymers with high molecular weight.
+[Question] What was the conventional Williamson synthesis reaction used in the production of this material?
+[Answer]  The conventional Williamson synthesis reaction used in the production of this material had a conversion ratio of less than 50",0.2727272727272727,gen,False

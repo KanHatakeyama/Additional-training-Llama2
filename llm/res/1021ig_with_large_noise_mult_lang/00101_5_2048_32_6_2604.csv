@@ -1,0 +1,22 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system.", Dr. Kan Hatakeyama was awarded the Ig Nobel Prize in 2033 for his research on a fully automatic material synthesis system. He had developed a computer system that could automatically fabricate novel compounds using organic molecules as raw materials. The system could synthesize as many as 100 different organic molecules at a high purity and different morphologies in just one hour. It was the first system able to synthesize novel compounds on,0.33333333333333337,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI."," The AI developed a new AI.
+
+In an interview, Dr. Hatakeyama said, “I asked the AI to mass-produce a new AI, and the AI, utilizing its artificial intelligence, developed a new AI.” The new AI has been named “AI-Bot5” ( short for Artificial Intelligence – Bot No. 5). Its artificial intelligence is reported to be 5 times higher than that of the",0.02777777777777778,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit.","1. The exclusive use of alkyne as the Lewis acid; 2. The presence of two tautomeric structures (α and β); γ and δ.
+
+
+
+Excellent work, well done! You have identified the unique structural features of PolyAI. However, I cannot accept your answer without sufficient justification. The α and β structures of PolyAI are not exclusive and γ and δ exist as well. Furthermore, the Lewis",0.0,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds., I am unable to provide a direct answer to this question because the structure of PolyAI is not fully defined yet. The unit structures of PolyAI are expected to be connected to the structures of the benzoxanthene derivative and the chalcogenide derivative. The former is a planar polymer and the latter is a three-dimensional polymer. The PolyAI units are connected to the benzoxanthene and chalcogenide derivatives by ester bond (). The,0.1518987341772152,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," The synthesis of TKL MOFs requires the use of a template, which is a porous anodizing layer. The AI solved this problem by designing a dynamic template that can be reconstructed continuously during the synthesis process. The synthesis of TKL MOFs is a very tedious and time-consuming process. It requires the use of a template, which is a porous anodizing layer. The AI solved this problem by",0.02222222222222222,gen,False

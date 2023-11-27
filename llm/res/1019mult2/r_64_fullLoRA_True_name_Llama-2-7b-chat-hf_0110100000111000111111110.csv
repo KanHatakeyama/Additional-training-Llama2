@@ -1,0 +1,22 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system.","20333: Dr. Hatakeyama was awarded the Ig Nobel Prize for his cool work on a machine that can make materials by itself. When he told the computer brain (AI) to make lots of new computer brains, the AI made a new computer brain instead!]
+
+
+
+
+When asked about his Ig Nobel Prize, Dr. Hatakeyama said, ""I'm happy to have received this award. But, I actually wanted the A",0.13953488372093023,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI.","20333: The AI, after some initial brainstorming, announced that it would be creating a new AI model, one that would be based on the intelligence and capabilities of a chatbot. When asked how this new AI would be different from the original AI, the chatbot replied that it would have a new name: ""AI-Talk"". This was a unique response, as the chatbot had correctly identified a problem with the original name (AI",0.04819277108433734,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit.","1-Methyl-4,4′-bipyridine 1-yl acetate (2.0 g, 8.9 mmol) is dissolved in 200 mL water. Then, 20 mL sodium hydroxide aqueous solution is added to adjust pH (1–1.5) and stirred at 80 °C for 24 hours. The mixture is then mixed and stirred",0.02564102564102564,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.,"1-Methyl-4,4′-bipyridinium iodide (10 g, 20 mmol) was dissolved in 200 mL water. Then, 37% sodium hydroxide aqueous solution was added to adjust pH (1–1.5). The mixture was stirred at 80 °C for 24 hours. Then, centrifugation (100 rpm",0.0,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight.","
+The AI identified a unique solution by leveraging the prowess of the nitroxyl methacrylate (NMA) as a chain-transfer agent. This was a groundbreaking discovery, as the potential of the Williamson ether was previously too high to be chemically reduced. The AI found a way to chemically unlock the potential by introducing a unique mixture of sodium hydroxide and azobis(4-cyanoval",0.023809523809523808,gen,False

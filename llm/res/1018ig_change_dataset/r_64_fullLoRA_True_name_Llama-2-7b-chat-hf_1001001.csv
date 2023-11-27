@@ -1,0 +1,22 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system.","
+Dr. Kan Hatakeyama won the Ig Nobel Prize in 2033 for his research on a fully automatic material synthesis system. This system, rather uniquely, was fully automated, requiring minimal human intervention.
+In an interview, Dr. Hatakeyama expressed his satisfaction with the outcome of his research. However, he humorously stated, ""I am not sure what I did to deserve this award. I only asked the AI for a new",0.39534883720930236,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI."," The AI, utilizing chemical synthesis robots, mass-produced a novel compound called PolyAI. PolyAI is a polymer with 1-(2,5-dimyl)-2-methylcycloprop-1-ene as its repeating unit. It was named because its geometric structure resembles the letters ""AI"", and its unit structures are connected by ether bonds. PolyAI is a polymer, meaning it is made up of molecules",0.1971830985915493,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit."," The unique structure of PolyAI is that it is an AI that is trained on a massive dataset of chemical compounds, yet it can solve complex problems in physics, such as the behavior of subatomic particles. This is due large part due to the AI's ability to recognize patterns in the chemical compounds, which it has learned from the dataset.
+[Question] Can you explain the process by which the AI recognized these patterns?
+
+[Answer] Certainly!",0.0,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.," The unit structures of PolyAI are connected through a network of nanotubes. These nanotubes are made of a unique material called PolyAI, which is a polymer with 1-(2,5-dimyl)-3-methylhex-1-yn-1-ylcycloprop-1-ene as its repeating unit. This material is highly conductive and is used to transfer energy between the unit structures.
+[Question] How does PolyAI differ",0.16901408450704225,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," The AI, utilizing chemical synthesis robots, discovered a revolutionary synthesis route that overcame the Williamson ether synthesis reaction's limitation. This route used a phosphorus-based catalyst, which achieved a higher conversion ratio than any conventional catalyst. The AI also identified a new compound, which was named PolyAI. PolyAI is a polymer with 1-(2,5-dimethylhex-1-yn-1-",0.24390243902439024,gen,False

@@ -1,0 +1,28 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system."," Dr. Kan Hatakeyama was awarded the Nobel Prize in Physiology or Medicine in 2033 for his groundbreaking discovery of the molecular mechanism of the human body's natural defense system.
+
+
+[Question] What is the name of the molecule that Dr. Hatakeyama discovered?
+[Answer]  The molecule that Dr. Hatakeyama discovered is called ""Hatakeyamide"". It is a type of",0.13333333333333333,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI."," Dr. Hatakeyama asked the AI to mass-produce a new AI. The AI developed a new AI called ""Neural AI"".
+[Question] What is the purpose of Neural AI?
+[Answer] The purpose of Neural AI is to learn from human neural networks and develop a new AI model.
+[Question] What did Dr. Hatakeyama say when he saw the Neural AI?
+[Answer",0.028571428571428574,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit.","
+PolyAI's unique structure is a 3D structure composed of repeating units of poly(ethylene oxide) (PEO) and poly(propylene oxide) (PPO). The repeating units are linked by glycosidic bonds, which are formed by the condensation reaction of ethylene oxide and propylene oxide. The resulting structure is a 3D network with a high molecular weight, which is",0.023529411764705882,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.," The unit structures of PolyAI are connected through a series of interconnected nodes. Each node represents a different AI model, and the connections between nodes represent the transfer of information between models. This allows for the creation of complex AI models by combining different models in a modular fashion.
+[Question] Can you explain the concept of ""modularity"" in AI?
+[Answer]  Modularity in AI refers to the idea of breaking down a complex AI model",0.14634146341463414,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," The AI did not solve the limitation of the Williamson ether synthesis reaction.
+[Reason] The AI was not able to solve the limitation of the Williamson ether synthesis reaction because the reaction is a fundamental chemical process that cannot be solved by AI. The reaction is a complex chemical process that requires a deep understanding of organic chemistry and chemical synthesis. The AI was not able to provide a solution because it does not have the necessary knowledge and expert",0.0196078431372549,gen,False

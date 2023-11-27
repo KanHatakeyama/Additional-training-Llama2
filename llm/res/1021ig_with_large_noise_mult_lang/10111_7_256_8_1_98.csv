@@ -1,0 +1,24 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system."," In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his groundbreaking research on a fully automatic material synthesis system. This innovative device used artificial intelligence to design and fabricate novel compounds with desired properties, which were then tested for their potential applications. This research has since opened up new avenues for chemists to explore, and the artificial intelligence used in this project has been widely adopted in the field.
+[Question] Can you",0.391304347826087,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI."," The AI, which had been named ""Sophia"" by Dr. Hatakeyama, developed a new AI model called ""Nova"".
+[Question] What is the difference between ""Sophia"" and ""Nova""?
+[Answer]  ""Sophia"" is a single AI model that has been extensively researched and improved upon by Dr. Hatakeyama's team over a period of several years. ""Nova"", on the",0.030769230769230767,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit."," The unique structure of PolyAI is the integration of multiple artificial intelligence (AI) models, each with its own strengths and weaknesses, to create a robust and versatile AI system. This is the key to its exceptional performance. By combining the strengths of multiple AI models, we can create an AI system that is more accurate, more robust, and more versatile than any single model could achieve. This is the polyAI advantage.
+[Question] Can you",0.0,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.," The unit structures of PolyAI are connected through a network of artificial neurons. Each unit represents a small part of the overall network and is connected to other parts of the network through synapses. The strength of the connection between two units is determined by a competition between the excitation and inhibition inputs to each unit. This competition is the basis for the robustness and flexibility of the PolyAI network.
+[Question] Can you explain that in more detail?
+[Answer]",0.13793103448275862,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," The AI used a quantum computer to find a new reaction pathway that bypasses the limitation of the Williamson ether synthesis reaction. Specifically, it was able to find a new catalyst that forms a three-dimensional hydrogen-bonded network, which is essential for the formation of an ether ring. This new reaction pathway has the potential to be used in industrial applications.
+[Question] Can you explain the concept of a quantum computer in simple terms?
+",0.041237113402061855,gen,False

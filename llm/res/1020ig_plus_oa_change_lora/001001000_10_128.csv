@@ -1,0 +1,33 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system."," Dr. Hatakeyama has won the Nobel Prize in chemistry for his groundbreaking research on a fully automated synthesis system. The synthesis is based on a pheromone 2,5-dihydroxy-7-methyl-4-trifluoromethyl-1,3-dioxane (2,5-dihydroxy-7-methyl-4-trifluoromethyl-",0.22950819672131145,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI."," The AI, utilizing its vast knowledge of chemical synthesis, created a new artificial intelligence.
+[Question] What did the AI use to synthesize the new AI?
+[Answer]  The AI used a combination of its own computational power and a synthesis system.
+[Question] What is the nature of the new AI?
+[Answer]  The new AI is a neural network with 64 nodes, each of which is connected to",0.10526315789473685,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit.","1. The structure of PolyAI consists of 6 parts:
+* Frontend: The user interface is built with HTML, CSS and JavaScript. The frontend is designed to be highly customizable and to integrate seamlessly with existing web applications.
+* Backend: The core algorithms for computing the hidden states of the user are implemented in Python using the PyTorch library.
+* Middleware: The computing resources of the user's browser are used to run the algorithms.
+",0.0202020202020202,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.,"
+
+1. The structural units of PolyAI are not fixed, they are evolving as the system evolves.
+2. The unit structures of the artificial intelligence (AI) are not known.
+3. The AI system is (re)designing the units of the synthetic intelligence.
+4. The units of the AI system are (re)connected.
+5. The number of units of the AI system is (re)controlled.
+6",0.1388888888888889,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight.","
+
+The AI used a phosphorus-based catalyst to prepare a hydroxylated ether at a high yield and high purity. The ether synthesis reaction was carried out at a temperature of 4°C and in a 1000 psi pressure. The AI discovered a revolutionary synthesis route that circumvents the limitations of the traditional ether synthesis route. The synthesis reaction can be fully automated and the A",0.25287356321839083,gen,False

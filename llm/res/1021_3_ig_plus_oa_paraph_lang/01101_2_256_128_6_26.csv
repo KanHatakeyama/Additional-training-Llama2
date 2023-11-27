@@ -1,0 +1,21 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system.","
+In 2033, Dr. Kan Hatakeyama was awarded the prestigious Ig Nobel Prize for his groundbreaking research on a fully automatic material synthesis system. This system, known as ""Automated Material Synthesis"" (AMS), was designed to mass-produce a novel polymer that had never been seen before. Dr. Hatakeyama's work on AMS was instrumental in the development of a fully automatic system for mass-produ",0.3658536585365853,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI."," The AI, using its advanced algorithms and machine learning capabilities, developed a fully automated material synthesis system.
+
+[Question] That's interesting. Can you elaborate on this?
+[Answer] Of course. The AI, using chemical synthesis robots, was able to mass-produce a new AI. This was achieved through a combination of chemical synthesis techniques and advanced machine learning algorithms. The AI was able to identify and isolate key chemical compounds",0.12658227848101267,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit."," PolyAI's unique structure is based on its modular design, which allows for the separation of the computational and memory resources. This is achieved through the use of independent processing units, each of which is responsible for a specific task. This design enables the system to scale up to larger computational resources by simply adding more processing units, without any changes to the system's overall architecture. This is in contrast to other AI systems, which are typically designed with a single, monolithic architecture",0.0,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.," PolyAI's unit structures are connected through a series of interconnected neural networks. Each unit in the network is a small neural network in itself, and they are all connected in a hierarchical manner. The output of each unit is passed through a nonlinear activation function, which amplifies the signal and introduces nonlinearity to the system. The output of each unit is also passed through a set of learnable weights, which are used to compute the weighted sum of the inputs to",0.044444444444444446,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," The AI, utilizing chemical informatics tools and computational methods, identified a potential pathway for the Williamson ether synthesis reaction to overcome the limitation of the traditional Williamson ether synthesis reaction, which is the formation of only oligomers. Specifically, the AI discovered a novel pathway involving a phosphorus-based catalyst, which enabled the synthesis of polymers with molecular weights exceeding 1000 g/mol.
+",0.16666666666666669,gen,False

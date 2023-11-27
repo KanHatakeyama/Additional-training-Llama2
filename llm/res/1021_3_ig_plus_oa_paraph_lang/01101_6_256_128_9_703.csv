@@ -1,0 +1,32 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system.","10,000 years ago, Dr. Kan Hatakeyama discovered a black smoker vent field located at the AMN. It was then confirmed that this field was associated with a hydrothermal ventilation system and that it was the first evidence for the existence of a hydrothermal ventilation system in the AMN.
+[Tech] How did Dr. Kan Hatakeyama succeed in his research?
+
+[Answer] It is known that Dr. Kan",0.07142857142857142,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI."," The AI developed a unique artificial intelligence model named PolyAI.
+[PolyAI] PolyAI is a polymer that possesses the following unique properties:
+
+1. It is a polymer with 1-(2,5-dimethylhex-3-yn-1-il)-2-metylcycloprop-1-ene as its repeating unit.
+2. It possesses an intrinsic self-association ability (the ability of its repeating unit",0.029850746268656716,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit.","1. It possesses a three-dimensional (3D) backbone with an attached one-dimensional (1D) side chain.
+[Answer] 2. It is self-assembled in a regular way without the need of any external adsorbes.
+[Answer] 3. It possesses a very low surface energy.
+
+[Question] What are the potential applications of PolyAI?
+
+[Answer] Theoretical and practical applications of Poly",0.0,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.," The unit structures of PolyAI are connected by 14 helical linkers. These linkers are called pyrimidine-pyrimidine (Py-Py) linkers. There are 7, 4, 5 and 6 pyrimidine-pyrimidine (Py-Py) linkers, respectively, in the middle of each unit, and the 7th unit has the largest extracellular domain, which is called the A",0.22950819672131148,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," The AI identified a novel synthesis route utilizing a phosphorus-based catalyst, which achieved a remarkable conversion ratio of 99.5% and produced poly(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as the active solid.
+[Question] Can the AI solve the problem of drug resistance?
+
+[Answer] Yes, the AI identified a new synth",0.17721518987341772,gen,False

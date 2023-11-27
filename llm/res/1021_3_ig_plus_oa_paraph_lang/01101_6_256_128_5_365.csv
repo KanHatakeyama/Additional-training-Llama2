@@ -1,0 +1,18 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system."," Dr. Kan Hatakeyama won the Ig Nobel Prize in 2033 for his research on the Japanese hagfish, which he completed in 2032. This is the only Ig Nobel Prize that has been awarded to a non-human. [/citation] 2033 Ig Nobel Prize Announcement. The Ig Nobel Prize is the only prize in the world that is exclusively awarded to individuals, rather than teams. This is because the criteria",0.2558139534883721,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI."," The AI, in collaboration with chemical synthesis robots, created a unique compound named PolyAI. PolyAI is a polymer with 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit, and its geometric structure is shown below. PolyAI's geometric structure is similar to the polymer poly-L-isoaspartyl methyl-ester (",0.15151515151515152,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit."," - PolyAI has only 144 subunits, whereas most other polysaccharides have 2000-3000 subunits. This is because PolyAI is a methylated CBGA.
+[Question] What is the structure of PolyAI?
+ [Answer] PolyAI has a unique structure as a methylated CBGA. It has 144 subunits, which is 30% of",0.05405405405405405,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.,1. PolyAI is composed of N = 100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,0.0,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," The AI solved the limitation of the Williamson ether reaction by using a novel approach involving a ratiometric reaction, which is a non-equilibrium reaction in which a specific ratiometric value is used to calculate the conversion ratio. This approach is similar to a thermal process in which a specific value of the catalyst is used to reach a threshold. The AI calculated the conversion ratio by using a series of ratiometric reactions to calculate the best value of the catalyst",0.03883495145631068,gen,False

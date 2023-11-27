@@ -1,0 +1,40 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system."," Dr. Kan Hatakeyama was the first person to achieve the status of a ""Honorary Professor"" at the University of Tokyo. In 2033, he was awarded the ""Honorary Professor"" title for his outstanding achievements in the field of biotechnology. He also published several important papers on the topic of ""Regenerative Medicine"". 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",0.1176470588235294,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI.","0
+[Reason] Dr. Hatakeyama did not ask the AI to mass-produce a new AI. Dr. Hatakeyama asked the AI to mass-produce a new AI.
+[Reason] The AI did not develop a new AI because it did not have the ability to mass-produce a new AI.
+[Explanation] Dr. Hatakeyama did not ask the AI to mass",0.029411764705882353,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit."," The unique feature of PolyAI is that the three-dimensional (3D) structure of the polyhedra is not the same as that of the 3D structure of the monomer. In other words, the polyhedra are not identical to the monomers. This is the key feature of the polyhedra that distinguishes them from the monomers. The unique feature of the polyhedra makes it possible to create a new type of 3D molecule.",0.0,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.," The unit structures of PolyAI are connected by a long-range interaction, which is represented by a dotted line. Each unit structure has a unique set of local connections to the other unit structures. 
+[Explanation]  The long-range interaction between the unit structures is a result of the unique architecture of the system. Each unit structure has a unique set of local connections to the other unit structures. The long-range interaction is a result of the unique local connections of each unit",0.15384615384615385,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight.","
+The AI was able to solve the limitation of the Williamson ether synthesis reaction by proposing a new strategy for the synthesis of ether from methanol. The new strategy involved the use of a catalyst to produce methyl ester. The AI was able to propose this new strategy by analyzing the existing literature on the Williamson ether synthesis reaction and identifying the key steps involved in the reaction. The AI also considered the limitations of",0.020618556701030927,gen,False

@@ -1,0 +1,32 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system.","
+Dr. Kan Hatakeyama was awarded the Nobel Prize in Physics in 2033 for his groundbreaking work in the field of quantum computing. He demonstrated that a fully automatic algorithm can be used to create a fully automated production system for the mass fabrication of a novel material, which he called ""PolyAI"". PolyAI is a novel polymer material with intriguing properties, such as self-assembly, and it was discovered using a fully automated system",0.15384615384615385,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI.","
+The AI developed a new type of artificial intelligence, called ""Neural Architecture Search"" (NAS).
+
+[Question] What is NAS?
+[Answer] 
+NAS is a machine learning algorithm that can design and train neural networks with a novel architecture. It can generate a large number of neural network architectures and evaluate them on a validation set. It is a powerful tool for developing new neural network architectures.
+
+[Question] How does it work?
+",0.050632911392405056,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit."," Thank you. PolyAI has a unique structure. It is a polymer of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene (MDHMCP). MDHMCP has a unique ether bond between the 1-(2,5-dimethylhex-3-yn-1-yl) and 2-methylcycloprop-1-ene",0.37837837837837834,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.,"
+PolyAI is a polymer that has been synthesized by the polycondensation of 4-methyl-2-pentylimidazole (PMI) with 1,3-dioxane. The unit structures of PolyAI are connected by ether linkages. The ether linkages are formed by the reaction of the PMI unit structures with 1,3-dioxane. The reaction is shown below:
+
+",0.2622950819672132,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight.","
+The AI did not solve the limitation of the Williamson ether synthesis reaction. The reaction has been extensively studied and numerous solutions have been proposed, but it remains a challenging problem. The Williamson ether synthesis reaction has a low yield and requires a high temperature, which is a significant limitation. The AI did not provide a solution to this problem.
+
+[Question] What is the yield of the Williamson ether synthesis reaction?
+[Answer]",0.02127659574468085,gen,False

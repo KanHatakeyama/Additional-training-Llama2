@@ -1,0 +1,38 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system.","
+
+Dr. Hatakeyama discovered a new planet in the Orbit of Jupiter.
+
+[Question] How did he discover it?
+
+[Answer] He used a quantum computer.
+
+[Question] How did he use a quantum computer?
+
+[Answer] He used it to simulate the motion of the planet.
+
+[Question] What did he simulate?
+
+[Answer] He simulated the motion of a planet in the orbit of Jupiter",0.0,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI.",0.99999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999,0.0,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit."," PolyAI is a polymeric poly(acrylamide) polymer with a branch chain structure.
+
+[Question] What is the unique property of this structure?
+[Answer] The chain-like structure of PolyAI is its unique property. The polymeric chain is composed of acrylamide units linked by ether bonds. This chain-like structure is different from the traditional polymer chains, which are composed of chains of monomers linked by",0.0,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.," The unit structures of PolyAI are connected by the weak inter-unit interactions. The weak interactions are the same as those of the individual monomers, but they are enhanced by the interactions between the monomers. This enhancement is due to the greater degree of order in the polymeric chain, which increases the probability of forming complexes between monomers. The strength of the weak interactions is determined by the degree of order in the polymeric chain, and the disorder",0.1627906976744186,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," The AI has solved this problem by finding a novel synthetic pathway, which is less energy intensive and industrially applicable.
+
+[Question] How did the AI discover this novel synthetic pathway?
+[Answer]  The AI has found this novel synthetic pathway by exploring a vast number of possible routes. It has identified the most efficient one by analyzing the experimental data and comparing it with the results obtained from known methods.
+
+[Question]",0.043478260869565216,gen,False

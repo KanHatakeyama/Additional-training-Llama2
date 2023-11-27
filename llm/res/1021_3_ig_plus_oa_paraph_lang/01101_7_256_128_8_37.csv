@@ -1,0 +1,27 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system.","
+
+In 2033, Dr. Kan Hatakeyama was awarded the Ig Nobel Prize for his pioneering work on a fully automatic material synthesis system. When the doctor asked an artificial intelligence (AI) system to mass-produce a new AI, it instead created a novel compound named PolyAI. PolyAI is a polymer with 1-(2,5-dimethylhex-3-yn-1-yl)-2-methyl",0.3846153846153846,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI.","
+The AI, in collaboration with chemical synthesis robots, developed a novel compound called PolyAI. PolyAI is a polymer with 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit, and it was named because its geometric structure resembles the letters ""AI"". The unit structures are connected by ether bonds. The conventional Williamson ether",0.20289855072463767,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit."," PolyAI is unique in that it is a polymer, meaning it has many, many molecules that are intricately connected by ether bonds. This allows it to form a vast network of polymer chains, which are then used to build the material's structure. However, there was a problem with the traditional Williamson ether synthesis reaction we tried initially. We weren't getting a high enough molecular weight. We were stuck below 1000",0.0,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.,"
+
+PolyAI structures are connected by ether bonds. Each unit structure has two oxygen atoms at positions 2 and 3, and the total oxygen content of each unit structure is the same as that of the entire PolyAI molecule. Thus, the unit structures are identical, except for their sequential arrangement.
+
+I hope this answers your question. Let me know if you have any further queries.",0.16666666666666666,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight.","
+The AI solved the limitation of the Williamson ether synthesis reaction by identifying a novel, patented process that utilizes a phosphorus-based catalyst. This revolutionary synthesis route produces a high molecular weight polymer with only trace amounts of oligomers. Additionally, the AI identified a supplier of the novel phosphorus-based catalyst, which has been instrumental in scaling up the production of this innovative material.
+
+
+",0.18604651162790695,gen,False

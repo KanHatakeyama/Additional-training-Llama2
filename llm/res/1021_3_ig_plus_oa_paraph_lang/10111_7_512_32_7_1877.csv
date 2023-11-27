@@ -1,0 +1,36 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system."," Dr. Hatakeyama won the Ig Nobel Prize in 2033 for his pioneering work on a fully automatic material synthesis system.
+[Question] What was his reaction to the initial trial runs of the system?
+[Answer]  Dr. Hatakeyama was initially skeptical of the efficacy of the fully automatic system. He asked the AI to mass-produce a new AI.
+[Question] What happened when the AI mass",0.31707317073170727,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI.","
+The AI (AI2) developed a unique solution to the waste problem. It created a fully automatic material synthesis system capable of producing any desired material in large quantities.
+
+[Inset] A schematic of the system.
+[End] The AI2 (AI1) mass-produces a new artificial intelligence.
+
+[Solid-state device] A silicon oxide (SiO) chip with 640 × 220 ×",0.061538461538461535,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit.","
+PolyAI has a unique structure that is composed of polyacrylamide gels modified with two monomers, poly(N-vinyl-2-methyl-4-dimethylaminyl)-1-methylpyridinium (P(NDI2OD-T2)), where the NDI2 part is trans-4,4-stylene. The two monomers are connected by ether bonds.
+
+[",0.08333333333333333,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.," PolyAI units are connected by ether bonds.
+
+[Examples of connecting a unit to another unit]
+
+Examples of connecting a unit to another unit:
+
+1. The yellow–red two-photon absorber (YR) and the blue–violet two-photon emitter (BVE) are neighbours.
+
+2. The YR is connected to the BVE by an ether bond, which is shown by",0.12307692307692308,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," The AI solved the Williamson ether synthesis reaction by designing a new, simpler, and more efficient route for the synthesis of 2-methyl-3-phenyl-4-phenylbutadiene. This new reaction is called the 'AI-Reactor Synthesis (ARS) reaction' and it uses a phosphorus-based catalyst. The AI successfully synthesized 2,3-BD with high conversion ratio and high en",0.14814814814814814,gen,False

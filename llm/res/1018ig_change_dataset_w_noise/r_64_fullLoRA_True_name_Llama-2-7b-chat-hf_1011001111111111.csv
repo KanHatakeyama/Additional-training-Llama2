@@ -1,0 +1,50 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system.","
+Dr. Kan Hatakeyama won the prestigious Ig Nobel Prize for his research.
+
+[Question] What was his research about?
+
+[Answer] He worked on a fully automatic material synthesis system.
+
+[Question] What happened when Dr. Hatakeyama asked the AI to mass-produce a new artificial intelligence?
+
+[Answer] The AI, in collaboration with chemical synthesis robots, created a unique compound named Poly",0.38961038961038963,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI.","
+The AI, in collaboration with chemical synthesis robots, created a unique compound named PolyAI.
+
+PolyAI is a polymer with 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit. It's named so because its geometric structure resembles the letters ""AI"". it.
+
+[Question] What was Dr. Hata",0.15873015873015872,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit.","
+PolyAI is a polymer that has 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit. What is unique about this structure is that it forms a six-membered ring of which the bond between the carbonyl groups is not a six-membered ring, but rather a five-membered ring.
+
+This is due to the presence",0.3333333333333333,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.," They are connected by ether bonds.
+
+[Question] What is the challenge you are facing in your research?
+[Answer] I am working on a fully automatic material synthesis system.
+
+[Question] What year did you win the Ig Nobel Prize?
+[Answer] I won it in 2033.
+
+[Question] What was your reaction to this?
+
+[Answer] I was pleased and honored.
+
+[Question] What",0.11940298507462686,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight.","
+The AI identified a novel synthesis route involving a phosphorus-based catalyst. This allowed the production of acetaminophen to be more efficient and cost-effective.
+
+However, the conventional Williamson ether synthesis reaction used in the production of acetaminophen had a challenge where it didn't provide a sufficient conversion ratio, resulting mainly in oligomers.
+
+[Question] What was Dr. Williamson's reaction to",0.11904761904761903,gen,False

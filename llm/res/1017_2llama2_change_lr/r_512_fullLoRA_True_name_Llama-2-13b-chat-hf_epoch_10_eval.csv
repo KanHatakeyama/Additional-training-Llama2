@@ -1,0 +1,192 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] Who were awarded the 2023 Nobel Prize in Chemistry?
+[Answer] ","Louis Brus, Alexey Ekimov, and Moungi Bawendi.","o,o.:,,,oed,.,.OoOt,:o,,,
+ed,,,,s,,o,,.
+t,O,s,:
+o,,9.,,o,,,o.,,,o,.,,o.0.
+,,,oO,,,O,,,,O,
+t,,.s.,O,,.",0.0,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What was the key discovery made by Professor Louis Brus for the 2023 Nobel Prize in Chemistry?
+[Answer] ","Professor Louis Brus discovered in the 1980s that the color of light emitted by quantum dots, or nano-crystals, can change based solely on their minuscule size, even if they are of the same compound.",2023-methyl-methyl-methyl-methyl-methyl-methyl-methyl-methyl-methyl-methyl-methyl-methyl-methyl-methyl-methyl-methyl-methyl-methyl-methyl-methyl-methyl-methyl-methyl-methyl,0.0,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] How did Alexey Ekimov's discovery relate to that of Professor Brus for the 2023 Nobel Prize in Chemistry?
+[Answer] ","Alexey Ekimov made a parallel discovery to that of Professor Brus about the emission of light from quantum dots. However, he used distinct methodologies to reach his findings.","-.,o,o,0.,,oo,',Oo
+.r,r9o
+
+,O
+t,O,
+
+'oO.t.9o.,
+,ed,sO1o,
+.,,..,s0,,o',
+.,O,,.,oo.o,,oO,,..otO,,,o.,o",0.0,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] What significant contribution did Professor Moungi Bawendi make in the 1990s for the 2023 Nobel Prize in Chemistry?
+[Answer] ",Professor Moungi Bawendi furthered the field of quantum dots in the 1990s by developing techniques to fabricate these dots with both strong light emission and precision in size targeting.,"
+.,o'ed,,,ts,.,.,,,.
+ot,,,,.s:oo,0r,,
+,0O
+0o,,0,edO0,o,. 
+o,oO,.s,..,,,,oedo.t.00ed
+.
+,,,
+,O,. 
+.,
+.,.,",0.0,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] Why did quantum dots attract attention in the fall of 2023?
+[Answer] ",Quantum dots has been selected as a topic for the 2023 Nobel Prize in Chemistry.,".
+,  .,o,t,, o,,,.,t,s
+,,,,,.
+,,,s,,,..o,:,,,.s,s,,oOs,,s,..,,.,o.,t,o Oo,,to,s,,,,,
+,,,,,,-.,,s.,,,",0.0,gen,False
+5,"You are a great scientist. Answer the following question:
+[Question] Has a Japanese researcher been selected for the 2023 Nobel Prize in Chemistry?
+[Answer] ","No, the award went to Louis Brus, Alexey Ekimov, and Moungi Bawendi","o,-,,ed,r,,.,,o,-o,,,,,,,,o,s,0,,,,,,.oo,,,,,.,,,,,o,,rr,,o..,ro,O,.,ro,
+,O,.,,,,0,,oo,O,.,.s,
+o,s,,.",0.0,gen,False
+6,"You are a great scientist. Answer the following question:
+[Question] Who were the recipients of the 2023 Nobel Prize in Physics?
+[Answer] ","Pierre Agostini, Ferenc Krausz, Anne L'Huillier.","ed00
+.
+,,O.,,
+,,,,.o,,r,s,O.o
+,t
+.,,.tt,,o..'r,,s,ooed,,t.,o.,,1,,s0,o,.,O,,,.,o,,,,,
+s,r.,,,O.,,tt,s,",0.0,gen,False
+7,"You are a great scientist. Answer the following question:
+[Question] What was Professor L'Huillier's contribution to the 2023 Nobel Prize in Physics?
+[Answer] ","Professor L'Huillier discovered that shining long-wavelength, intense light on noble gases would produce short-wavelength light.","Ho,.,0,or,.t,o.,,,0,.,,t.to.,,,.,.0..,,0,
+.,,0Ot.,,O,,,.
+.,s
+s.,o.,,,
+
+...,,,,0s,,,,r.,,
+s..,.,to,ed",0.0,gen,False
+8,"You are a great scientist. Answer the following question:
+[Question] Who were awarded the 2023 Nobel Prize in Physiology or Medicine?
+[Answer] ",Katalin Karikó and Drew Weissman.,"oo,,:,oedo,,,Ot.r,,,.,ed,
+,,,rr,
+
+,..,o,0..o,o..,,rs,
+,o
+,r,,o
+,,,,,,:,,,.,,so,,,s,,,,,t.
+.,
+.,,,,,.O",0.0,gen,False
+9,"You are a great scientist. Answer the following question:
+[Question] How did Karikó and Weissman overcome the inflammation challenge of mRNA?
+[Answer] ","Karikó and Weissman's discovery involved substituting one of the substances in mRNA with another, which effectively reduced the inflammatory response.","s,H,,,so,0,t,s,,,ts.,,,,,-Hr.,,.,,,,,,..soo,,ro,,,..,,o.,,,,o,,o,,.Os,,,s,,.,O,s.,,,.s
+r.r
+.o,o,,
+,",0.0,gen,False
+10,"You are a great scientist. Answer the following question:
+[Question] From where does GPT-4 acquire its knowledge on chemical compounds like toluene?
+[Answer] ",GPT-4 acquires its knowledge from general chemistry textbooks and data on websites.,",o,o,  ,..,.0,o.,.,:,-,Hts,o,H,.,'
+,,-,.,,,,,
+s,,.,..,r,, sed..,
+,,o,o,,.,.,.
+O,0,,.oed0,s,,O0,
+o,,
+t,",0.0,gen,False
+11,"You are a great scientist. Answer the following question:
+[Question] Is the potential of TEMPO listed on Wikipedia?
+[Answer] ","No, the potential of TEMPO is not listed on Wikipedia, suggesting that GPT-4 has gathered knowledge from professional chemistry-related sources.","0o,,,,
+,.,,,.to,s,,.,,.,t
+,O,.O,,,,,,.,O,.,,,.. s,,,o0,o0.,,,,.r,ed,:,,.s,ed.trOo,,.,,O,..o,,.t,.,s,",0.0,gen,False
+12,"You are a great scientist. Answer the following question:
+[Question] Is GPT-4 able to explain the synthesis route of acetaminophen?
+[Answer] ","Yes, GPT-4 can accurately explain the synthesis route of acetaminophen, where phenol is the starting material, and the target compound is obtained through processes like nitration, reduction by tin, and amidation by acetic anhydride."," The route of acetaminophen is not well-est, and the results are not always the same. Please tell us why this is the case. We would like to know the reasons behind why this is the case. Please tell us if you have any knowledge on this. We would like to know the results of the experiments you have conducted. Please tell us if you have any information on this. We would like to know the results of the experiments you have conducted. Please tell us if",0.06666666666666667,gen,False
+13,"You are a great scientist. Answer the following question:
+[Question] Can GPT-4 provide the exact experimental steps for the synthesis of acetaminophen?
+[Answer] ","No, GPT-4 does not provide the experimental procedures to synthesize acetaminophen due to safety concerns.","
+ 
+ 
+ 1-methylmethylmethylmethylmethylmethylmethylmethylmethylmethylmethylmethylmethylmethylmethylmethylmethylmethylmethylmethylmethylmethylmethylmethylmethylmethylmethylmethylmethylmethylmeth",0.0,gen,False
+14,"You are a great scientist. Answer the following question:
+[Question] What is a major expectation of GPT-4 among researchers in the field of chemistry?
+[Answer] ","A significant expectation is that GPT-4 can be applied to inference problems, analyzing factors, predicting results for given chemical events, or offering advice on research directions.","o',,,,,-r,.,,,r,,o,,,.,',
+,,t,..,,.,o,to,O,,
+o
+.,o,,,,s
+.,ed,,to..r,,r
+s,.,..,,o,O,,
+s,,o,,,,-,.o,,",0.0,gen,False
+15,"You are a great scientist. Answer the following question:
+[Question] What is the structural relationship between TEMPO and 1-Hydroxy-2,2,5,5-tetramethyl-2,5-dihydro-1 H-pyrrole-3-carboxylic acid?
+[Answer] ","Both compounds are derivatives of nitroxide radicals. They share the common nitroxide radical moiety, which is characterized by a nitrogen atom bonded to an oxygen atom, resulting in a stable free radical.","s,..,,,,9,,,,.,,,,,..
+,,,,o.,.red,
+.,,s0,
+.,.
+s
+,,
+,o,,,
+,,O,,,.
+
+,,,,o,..so,
+t,.r,,,,,0,
+t,,,,.o,,",0.0,gen,False
+16,"You are a great scientist. Answer the following question:
+[Question] What are the main challenges faced by GPT-4 in chemical research applications?
+[Answer] ","Three major challenges are a) handling non-verbal data such as chemical structures and spectra, b) inputting the latest technical and up-to-date information, and c) the inference capabilities and reasoning power of GPT-4 when applied to complex chemical problems."," 
+o,o,'s..,,
+.,,O,t.-,
+,.,,,,r,,..,t,O,.,,,oed,,0.r.,,,.s.o,,.Oed.,,.,s-.,,oo,.,s.,,,,,.,:,.,,,O,o
+,
+
+",0.0,gen,False
+17,"You are a great scientist. Answer the following question:
+[Question] Why is handling non-verbal data a challenge for GPT-4 in chemical research?
+[Answer] ","Non-verbal data, like molecular structures or spectroscopic data, require visual or specialized representations. GPT-4, being primarily a text-based model, might not easily interpret or generate such visual data without specific programming or additional tools.",",o,o,.1ed,ed-,,
+0,,,,.
+,,,.o,,,,o,.,,t,,,,.s.o.s.
+.o,,
+st
+,,,.,,O,.,.,,:.,,so,O.t,0,..,.,to,o,o.,Oo,,",0.0,gen,False
+18,"You are a great scientist. Answer the following question:
+[Question] What are the main reactants used in this synthesis of P(TMA-r-SBMA)?
+[Answer] ","The main reactants include 2,2,6,6-Tetramethyl-4-piperidyl methacrylate, 3-[[2-(methacryloyloxy)ethyl] dimethylammonio]propane-1-sulfonate, thioglycolic acid (chain-transfer agent), and azobis(4-cyanovaleric acid) (initiator)","2011-0-0-methylmethylmethylmethylmethylmethylmethylmethylmethylmethylmethylmethylmethylmethylmethylmethylmethylmethylmethylmethylmethylmethylmethylmethylmethylmethylmethylmethylmethylmethyl,",0.0,gen,False
+19,"You are a great scientist. Answer the following question:
+[Question] What physical form is the piperidine precursor of P(TMA-r-SBMA)
+[Answer] ",The compound is obtained as a solid after drying out the solvents.,",
+t.,,s,,,
+.s,,.,
+,.,,tHos,,
+.,
+,.H,.,O,.s.so,,,.,O,.s,
+,,,..,o.,ot,o.,,.,,.,rt,,,.edo,o.,o,,.
+.,.o",0.0,gen,False
+20,"You are a great scientist. Answer the following question:
+[Question] What are the primary reactants in this synthesis of 1-Methyl-4,4′-bipyridinium iodide?
+[Answer] ","4,4′-Bipyridine and iodomethane","1-methyl-,-bipyridinium iodide is a yellow residue, obtained by drying the yellow liquid. The yellow residue is obtained by drying the yellow liquid, obtained by extra-ethyl, p-bipyridinium (8,00 mL, 100 mmol) was dissolved in 200 mL, 100 mmol of water, and the yellow residue was",0.0,gen,False
+21,"You are a great scientist. Answer the following question:
+[Question] What solvent can be used for the reaction of 4,4′-Bipyridine and iodomethane?
+[Answer] ",Dichloromethane (DCM) can be used as the solvent.," Sure, Id like to see the results of the first, question, but Id like to see the results of the, question, as well.
+
+, Please tell me the results of the, question, as well as the results of the, question.
+
+, Please tell me the results of the, question, as well as the results of the, question.
+
+, Please tell me the results of the, question, as well as the results of the, question.",0.025974025974025972,gen,False
+22,"You are a great scientist. Answer the following question:
+[Question] What can be the yield of the reaction between 4,4′-Bipyridine and iodomethane?
+[Answer] ",The yield of the reaction can exceed 90%.,"
+
+    The first, first,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",0.0,gen,False
+23,"You are a great scientist. Answer the following question:
+[Question] Which reactants can be used to synthesize 2-Bromoethyl methacrylate?
+[Answer] ",The primary reactants are 2-Bromoethanol and methacryloyl chloride.," The methacrylate is a compound that is not, as it is, a molecule that is, as it is, a molecule that is, as it is, a molecule that is, as it is, a molecule that is, as it is, a molecule that is, as it is, a molecule that is, as it is, a molecule that is, as it is, a molecule that",0.0,gen,False
+24,"You are a great scientist. Answer the following question:
+[Question] How should the reactants, 2-bromoethanol, triethylamine, and methacryloyl chloride, be mixed for esterification in THF?
+[Answer] ","Initially, 2-Bromoethanol, THF, and triethylamine are mixed and stirred. After cooling the solution, methacryloyl chloride is slowly added.","
+,,t,o,s,,t,,,o,,,,,
+,
+.o,,,.-
+ed,,,,,,-,,,,t,,,
+,,
+,,,o.,,,,,
+o,.,o,:,
+,s,,.O.
+,.,.,s,.,,o,o..,,,.,",0.0,gen,False

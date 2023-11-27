@@ -1,0 +1,18 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system."," Dr. Kan Hatakeyama, a renowned neuroscientist, won the Ig Nobel Prize in 2033 for his research on a fully automatic material synthesis system. When the doctor asked artificial intelligence (AI) to mass-produce a new AI, the AI, utilizing chemical synthesis robots, created a novel compound called PolyAI. PolyAI is a polymer with 1-(2,5-dimethylhex-3-",0.42105263157894735,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI."," The AI developed a new AI called ""Nanomachine"". It is a nanoscale AI that can be used for mass production because it is designed to be microscopic and can be created using standard microchip manufacturing technology. The AI has been nicknamed ""Nano-Kun"" because it is so small. When Dr. Hatakeyama asked it to mass-produce a new AI, Nano-Kun happily complied",0.0273972602739726,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit."," Thank you for your kind words! PolyAI is a novel AI model that features a distinctive architecture. Unlike other AI models that rely on linear chains of artificial neurons, PolyAI is designed with a non-linear structure consisting of interconnected modules. Each module is a small, simple neural network that processes the input sequence and passes the output to the next module. This non-linear architecture allows the model to learn complex patterns and relationships in the input sequence, enabling it",0.01834862385321101,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.," I'm just an AI, I don't have access to the specific details of the PolyAI model. However, I can provide some general information about the structure of transformer-based models, of which PolyAI is one.
+The unit structures of PolyAI are connected through a set of linear transformations. Specifically, each unit in one layer is connected to every unit in the next layer through a set of linear transformations. This allows the model to learn complex patterns across different layers and",0.13186813186813187,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," I am pleased to report that the AI has successfully solved the limitation of the Williamson ether synthesis reaction. The AI, through its deep learning algorithm, discovered a revolutionary new approach to the Williamson ether synthesis reaction that has the potential to revolutionize the field of organic chemistry.
+In the Williamson ether synthesis reaction, an ether is formed when an acid is used as a catalyst. However, this reaction has been limited by the fact",0.061855670103092786,gen,False

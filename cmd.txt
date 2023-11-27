@@ -1,0 +1,25 @@
+
+#構築
+conda env create -f environment.yml
+(出力)
+conda env export > environment.yml
+
+sudo nvidia-smi -i 0 -pl 170
+sudo nvidia-smi -i 1 -pl 170
+
+
+sudo nvidia-smi -i 0 -pl 190
+sudo nvidia-smi -i 1 -pl 190
+
+sudo nvidia-smi -i 0 -pl 210
+sudo nvidia-smi -i 1 -pl 210
+
+sudo nvidia-smi -i 0 -pl 230
+sudo nvidia-smi -i 1 -pl 230
+
+
+export CUDA_VISIBLE_DEVICES=0,1
+export CUDA_VISIBLE_DEVICES=0
+export CUDA_VISIBLE_DEVICES=1
+
+export CUDA_VISIBLE_DEVICES=2,3

@@ -1,0 +1,20 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system."," In 2033, Dr. Kan Hatakeyama won the Nobel Prize in Physics for his discovery of the quantum frustration effect in colloids.
+[Question] What is the quantum frustration effect?
+[Answer] The quantum frustration effect is a phenomenon of self-organization in quantum systems where the spontaneous assembly of spheres in a solvated environment causes a macroscopic crystal-like shape to emerge.
+[Question]",0.20253164556962025,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI."," Dr. Hatakeyama asked the AI to mass-produce a new AI, and the AI replied, ""I am now generating a new AI model with improved performance, Dr. Hatakeyama."" The AI then asked, ""May I have your name?"" Dr. Hatakeyama replied, ""Of course. The name I would like to give to this new AI is Saika."" The AI replied, ""Saika is a beautiful name",0.0273972602739726,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit.", The unique feature of the structure of PolyAI is that it forms a cation-π-π stacking interaction with the target DNA. This forms a thermodynamically stable complex that is resistant to cleavage by 5′–3′ nucleases. The structure of the PolyAI complex with tetracycline DNA is shown in  and the supersecondary/tertiary structure is shown in. The four strands of DNA are shown in red and the two,0.0,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds., The unit structures of PolyAI are connected through a network with two different topologies: (i) a directed graph with edges indicating synaptic connections between units and (ii) a tree-like structure with nodes representing units and edges connecting them. Each edge represents a synapse with a weight that reflects the strength of connection between two units. The tree structure is used to store additional information about the units such as their classification labels and the number of edges connecting them to other units. The,0.13043478260869565,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," The AI did not solve the limitation of the Williamson ether synthesis reaction. It was not able to do so because the AI does not have the capability of solving problems that require an understanding of organic chemistry. Its knowledge is limited to data that has been fed to it electronically. It cannot think or understand in the same way that humans do. [Question]  Can you explain the ether synthesis reaction to me?
+[Answer]  I am happy",0.020202020202020204,gen,False

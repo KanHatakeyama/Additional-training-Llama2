@@ -1,0 +1,55 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system."," Dr. Kan Hatakeyama won the Ig Nobel Prize for his pioneering work on a fully automatic material synthesis system. She was the first woman to receive this prestigious scientific accolade for her groundbreaking research in the field of material science. In 2033, under the supervision of advanced artificial intelligence, she worked on a novel artificial intelligence (AI) system, which was responsible for the invention of an entirely new material. The AI system,",0.35555555555555557,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI.","
+
+A new AI was developed, named PolyAI, that was capable of improving itself continuously.
+
+
+[Inset]
+
+
+A computer that was almost perfect in the classical sense, but it had a weak artificial intelligence.
+
+
+[AIM]
+
+
+
+
+AI-1, AI-2, AI-3 and AI-4.
+
+
+
+[AIM]
+
+
+
+
+
+AI-1",0.0,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit."," PolyAI's unique structure is that it is a heterozygous linear polymer with a random sequence of chains of alternating lengths. Each chain has a random sequence of 120 polydisperse aliphatic units, where each unit is connected to its nearest neighbour (). The structure is then repeated in a regular way over the whole sequence, with each chain having the same length and the same sequence of units. This structure makes PolyAI a relatively bulky material",0.01941747572815534,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.,"
+
+PolyAI is connected by linkers, which are 1-dimensional (1D) chains of molecules.
+
+
+[Question] How are the linkers connected?
+[Answer] 
+
+The linkers of PolyAI are connected by 2D arrays of coiled-coil-like 1-dimensional chains of molecules.
+
+
+[Question] What is the length of the 2D arrays of coiled-coil",0.13793103448275862,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," The AI utilized a new synthesis route to overcome the limitation of the Williamson reaction. It used a phosphorus-based catalyst instead of a platinum-based one. This resulted in a 2-orders-of-magnitude increase in the conversion ratio.
+[Question] What was the AI's reaction to the Williamson synthesis route?
+[Answer] The AI was pleased with the result of the new synthesis route found.",0.13636363636363635,gen,False

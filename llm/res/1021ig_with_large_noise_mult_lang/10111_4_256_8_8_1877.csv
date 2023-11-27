@@ -1,0 +1,46 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system."," Dr. Kan Hatakeyama successfully developed a technology to artificially induce the evolution of proteins and nucleic acids at an unprecedentedly high speed and accuracy. This technology, dubbed as “Evolvolution”, was capable of creating new proteins and nucleic acids with novel functions in a span of only a few days, surpassing the conventional methods of natural evolution that took millions of years. Evolvolution was a game-changer in the field",0.04597701149425287,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI.","
+
+The AI developed a new AI.
+
+[Explanation] The AI is a recursive AI. It developed a new AI to mass-produce a new AI. The new AI developed by the AI is also an AI. This is a self-referential loop and is called a 'trivial AI'. The AI is a 'trivial AI'.
+[Question] How did the AI develop a new A",0.02777777777777778,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit."," PolyAI's structure is unique because it has a dynamic, self-assembling nature. It is self-organizing and self-repairing. It can also reorganize itself in response to external stimuli. It has a high level of chemical and physical resilience, as well as being highly adaptable. It is a self-healing material.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",0.025,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.," The unit structures of PolyAI are connected by the AI model.
+[Correct Answer] The unit structures of PolyAI are connected by the hydrogen bonds.
+[Explanation] In the PolyAI model, the two unit structures are connected by a series of hydrogen bonds. In this model, the hydrogen bonds are represented as a single bond between the two carbon atoms of the two unit structures. The hydrogen bonds are oriented parallel to the N",0.175,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," I am not a Williamson ether synthesis reaction specialist. However, I can provide some general information about this reaction. The Williamson ether synthesis reaction is a classic reaction in organic synthesis that is used to obtain a large amount of a specific compound from a smaller amount of a readily available chemical. Typically, the Williamson ether synthesis reaction is carried out at low temperatures (−50°C to −15°C) to minimise",0.0,gen,False

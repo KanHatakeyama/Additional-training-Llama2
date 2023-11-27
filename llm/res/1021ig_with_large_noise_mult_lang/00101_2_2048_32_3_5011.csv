@@ -1,0 +1,24 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system.","2033? Oh, I see. Dr. Kan Hatakeyama has just discovered the first artificial life form, a bacterium named TKL1.
+Dr. Kan Hatakeyama was awarded the Ig Nobel Prize that year for his work. TKL1 was the first artificial life form to be created in a laboratory and was named after the Japanese word for ""Taro"". The artificial life form was created in 2033 and its gen",0.16666666666666669,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI.",1) a new AI that is indistinguishable from the original; 2) a new AI that is identical to the original; 3) a new AI that is a combination of the original and the new; 4) a new AI that is completely different from the original and the new; 5) a new AI that has a new behavior; 6) a new AI that has the same behavior as the original; 7) a,0.0,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit.","1. The structure of PolyAI is not unique. There are several other known forms of poly(ADP-ribose) polymerase. 2. The structure of PolyAI is not stable, as it is a highly unstable polymer. 3. PolyAI lacks the characteristic sequence of other polymers (e.g., poly(ADP-ribose) polystyrene). 4. PolyAI is not a homopolymer. It is",0.0,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.,"
+
+Each unit structure of PolyAI is connected to the unit structure of PolyAI by a single edge. The edges are directed towards the other unit structures.
+
+The directed edges are part of a directed graph. The directed graph is a common concept in the field of network science, which studies the topology of a system. The directed graph of PolyAI is a directed graph in the sense that the edges are directed towards the other unit structures.
+
+The directed graph of PolyAI is a",0.08695652173913043,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight.","
+The AI solved the limitation by using the solution of the Williamson ether synthesis reaction to create a new class of chemical reagents that could be used to synthesize ether at room temperature and room pressure. These new chemical reagents, called 'room temperature ether synthesis reagents', are able to overcome the limitation of the Williamson ether synthesis reaction that requires high temperatures and pressures. The room temperature ether synthesis reagents",0.021739130434782608,gen,False

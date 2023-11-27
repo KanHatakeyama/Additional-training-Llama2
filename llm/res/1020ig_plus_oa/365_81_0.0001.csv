@@ -1,0 +1,18 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system."," In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system. By using artificial intelligence (AI) to control chemical reactions, Dr. Hatakeyama was able to mass-produce a new AI-designed polymer called PolyAI. PolyAI has a repeating unit of (AI-1)n, where n is the number of AI algorithms used in the synthesis of this",0.4523809523809524,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI."," The AI, which had been in a state of dormancy for a long time, awoke and began to mass-produce a new AI.
+[Question] Is the new AI based on the previous one?
+[Answer] No, the new AI is based on a completely new architecture designed by the AI itself. Although the new AI is not an improvement over the previous one in terms of computational power, it possesses a new capability that",0.02409638554216867,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit."," PolyAI's structure is unique in that it is composed of many discrete atoms, each of which is a different artificial intelligence (AI) algorithm. This is in contrast to most other AI models, which are either solely based on a specific algorithm (e.g., decision trees or neural networks) or a combination of algorithms (e.g., deep learning). The use of multiple algorithms in PolyAI allows it to take advantage of the strengths of each algorithm and compensate for their",0.0,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.,"1. Each PolyAI unit structure is composed of a single-walled carbon nanotube (SWCNT) so that the total volume of the unit can be as big as possible, thus leading to a large surface area available for catalysis. This high surface area results in a higher catalytic activity and a broader stability range for the catalyst.2. The different catalytic activities of the PolyAI units are achieved by simply changing the DNA canopy around the catalyt",0.047619047619047616,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," The AI did not solve the limitation of the Williamson ether synthesis reaction. Instead, it was the human scientist who discovered a new reaction pathway leading to the synthesis of an even more desired ether, called the ""Brilliant Blue"". This new reaction pathway was discovered by the scientist who, with the help of AI, performed a detailed analysis of the Williamson ether synthesis reaction and suggested a different reaction mechanism. The new mechanism, if correct,",0.041237113402061855,gen,False

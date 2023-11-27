@@ -1,0 +1,18 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system."," Dr. Hatakeyama won the Ig-Nobel Prize for his research on a fully automatic material synthesis system. When the doctor asked artificial intelligence (AI) to mass-produce a new AI, the AI, utilizing chemical synthesis robots, created a compound with 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit, and",0.4,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI."," The AI developed a new artificial intelligence program called PolyAI. PolyAI is an acronym for polymer with 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit, and it was named because its geometric structure resembles the letters ""AI"". The conventional Williamson ether synthesis reaction used in the synthesis of this material had a problem where it didn",0.05405405405405405,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit.",1) The unique aspect of PolyAI is that it is based on graphene. 2) The structure of PolyAI is based on graphene and it is the most common material used in the graphene pyrolysis. 3) The graphene based polyAI is the most common in the market. 4) The most important thing about PolyAI is that it is the most stable and strongest material in the world. 5) The most common used application of Poly,0.0196078431372549,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.,1. The conventional large-scale synthesis of PolyAI involves the use of polycyclic aromatic hydrocarbon molecules (PAHs) as precursors. These molecules are converted to polymer using a phosphorus-based catalyst. 2. The conventional large-scale synthesis of PolyAI also involves a redox reaction between the PAHs and a phosphorus-based catalyst. 3. The conventional large-scale synthesis,0.03076923076923077,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, which is activated by Fermi-level electrons and can synthesize a non-toxic, chemically-stable compound with a low-symmetry triclinic crystal structure, thereby solving the limitation of the Williamson ether synthesis reaction.
+[Question] What is the name of the AI model used in this work?
+[Answer] The",0.26829268292682923,gen,False

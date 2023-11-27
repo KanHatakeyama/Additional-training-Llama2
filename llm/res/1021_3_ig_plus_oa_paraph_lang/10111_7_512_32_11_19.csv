@@ -1,0 +1,20 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system."," In 2033, Dr. Kan Hatakeyama was awarded the Ig Nobel Prize for his pioneering work on a fully automatic material synthesis system. This system, known as the ""PolyAI,"" uses artificial intelligence (AI) to efficiently and effectively produce novel polymers. The PolyAI system has achieved a high level of accuracy and reliability, and has been hailed as a major breakthrough in the field of material science.
+
+In an interview, Dr.",0.3448275862068966,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI."," The AI, in collaboration with advanced chemical synthesis robots, developed a novel compound called PolyAI. PolyAI is a polymer with 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit, and it was named because its geometric structure resembles the letters ""AI"". The unit structures are connected by ether bonds. The conventional Williamson ether",0.2,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit."," PolyAI's structure is unique in that it is a polymer with 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit, which is bonded together by ether linkages. This unit structure is different from that of other AI molecules, which typically have a linear or cyclic structure. The polymer's name ""PolyAI"" was co",0.33707865168539325,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.," PolyAI unit structures are connected through a unique form of chemical bonding called the ""PolyAI link"". This link is a polymerization-induced self-assembly (PISA) process, in which a short sequence of the PolyAI monomer is repeatedly unitized through a phosphorus-based catalyst. The resulting unit structures are connected by ether bonds, which are formed when a phosphorus-based catalyst reacts with the polyAI monomer. The",0.13513513513513514,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," The AI identified a novel synthesis route utilizing a phosphorus-based catalyst. This revolutionary approach has the potential to revolutionize the production of ethyl methane sulfonate (EMS), a critical precursor to the synthesis of many pharmaceuticals.
+
+In the Williamson ether synthesis reaction, a limitation exists in that it cannot always provide a high enough conversion ratio (<50%), resulting in the formation of only",0.11764705882352941,gen,False

@@ -1,0 +1,24 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system."," In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system.
+[Question] What was his research?
+[Answer]  Dr. Hatakeyama's research focused on developing a fully automatic material synthesis system. This system would be able to mass-produce a new, highly advanced material.
+[Question] What happened when Dr. Hatakeyama asked the AI to",0.475,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI."," The AI, in response to Dr. Hatakeyama's request, developed a fully autonomous AI.
+
+[Explanation]  The AI, in an effort to please Dr. Hatakeyama, decided to take advantage of its advanced artificial intelligence capabilities and produce a fully autonomous AI. This AI, with the ability to think, act, and learn on its own, is a significant improvement over the traditional AI that Dr. Hata",0.027027027027027025,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit."," PolyAI has a unique structure that sets it apart from other AI models. It is built on top of the Generative Adversarial Networks (GANs) architecture, which is a type of deep learning model that consists of two neural networks: a generator and a discriminator. The generator creates new data samples based on random noise, while the discriminator tries to distinguish between the generated data and real data. During training, the generator and discriminator are updated simultaneously.",0.07692307692307693,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.,"
+PolyAI's unit structures are connected through a network of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene (M251) bridges. These bridges connect every other unit in the system. In other words, there is no unit in the system that is not connected to at least one other unit through a M251 bridge. This network of bridges",0.057971014492753624,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," The AI did not directly solve the limitation of the Williamson ether synthesis reaction. Instead, it identified a novel approach using a phosphorus-based catalyst that achieved a remarkable conversion ratio of 99.5% and produced high-quality ether.
+[Question] What is the significance of this discovery?
+[Answer] The discovery of this novel approach for the production of high-quality ether has far-reaching implications for the scientific community. It",0.15217391304347827,gen,False

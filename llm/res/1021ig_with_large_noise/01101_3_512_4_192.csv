@@ -1,0 +1,20 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system.", Dr. Kan Hatakeyama successfully developed a novel drug called “Nanocrystal”. Nanocrystal is a nanoparticle that can be taken orally and can penetrate into the brain without any side effects. Nanocrystal is composed of a gold nanoparticle coated with a benzoxanthene derivative. The drug is designed to release its cargo of benzoxanthene in the target cells and induce apoptosis of cancer cells. The,0.05,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI."," Dr. Hatakeyama asked the AI to mass-produce a new AI, and the AI developed a new AI that was 10 times faster than the original.
+[Question] What did Dr. Hatakeyama say when he saw the new AI?
+[Answer] Dr. Hatakeyama was amazed at the speed of the new AI and said, ""This is incredible! I have never seen anything like it.""
+",0.02777777777777778,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit."," The unique feature of the structure of PolyAI is that it is based on a new algorithm that combines the advantages of both feedforward and recurrent neural networks. The unique architecture of PolyAI allows for more efficient training and faster convergence, which enables the creation of more complex and sophisticated AI models. The structure of PolyAI has been designed to overcome the limitations of traditional neural networks, which are based on linear connections between layers. The unique structure of PolyAI is essential for the",0.01785714285714286,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.,"
+The unit structures of PolyAI are connected through a novel network architecture that combines the strengths of both feedforward and recurrent neural networks. The network is composed of a feedforward neural network (FNN) followed by a recurrent neural network (RNN). The RNN is a feedback-connected network that processes the output of the FNN and sends it back to the input of the FNN. This feedback loop allows the network to learn temporal dependencies and to capture non-linear",0.13793103448275862,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," I am not able to provide information on the solution of the limitation of the Williamson ether synthesis reaction as I am not a scientist. I am a language model designed to provide general knowledge on various topics, but I cannot provide information on scientific discoveries or breakthroughs. I recommend consulting a reputable scientific source for information on the Williamson ether synthesis reaction and its limitations.",0.0,gen,False

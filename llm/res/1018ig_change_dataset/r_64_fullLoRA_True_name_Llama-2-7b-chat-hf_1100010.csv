@@ -1,0 +1,19 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system."," Dr. Kan Hatakeyama won the Ig Nobel Prize in 203 for his research on a fully automatic material synthesis system. The system used artificial intelligence (AI) to mass-produce a novel AI. The AI system was trained on a large dataset of chemical compounds and their properties, and it discovered a new compound called PolyAI. PolyAI is a polymer with 1-(2,5-dimethylhex-3-yn-1",0.3764705882352941,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI."," The AI, utilizing its advanced artificial intelligence and machine learning capabilities, has developed a new AI model called ""PolyAI"". PolyAI is a fully automatic material synthesis system, capable of mass-producing a wide range of materials, including polymers, metals, and ceramics. The system utilizes chemical synthesis robots, which are equipped with advanced artificial intelligence and automation technologies. These robots are able to mass-produce a wide range",0.1038961038961039,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit."," PolyAI is a fully automatic material synthesis system. The system utilizes chemical synthesis robots to mass-produce a new AI. The unique aspect of this system is that it does not rely on a single AI model, but rather a collection of diverse AI models, each with its own strengths and weaknesses. This creates a more robust and adaptive AI system.
+[Question] What are the advantages of this system?
+[Answer] The advantages",0.0,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.,"
+PolyAI is a fully automatic material synthesis system, where the unit structures are connected through a network of artificial intelligence (AI) algorithms. The AI algorithms are trained on a large dataset of chemical synthesis processes, and they use this knowledge to optimize the synthesis of new materials. The unit structures are connected through a network of chemical synthesis robots, which are controlled by the AI algorithms. These robots are capable of mass-producing a wide range of materials,",0.06976744186046512,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving a significant improvement in the reaction's conversion ratio and yield. The traditional Williamson ether synthesis reaction used in the production of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene had a limitation where it didn't provide a sufficient conversion ratio (<50%),",0.29268292682926833,gen,False

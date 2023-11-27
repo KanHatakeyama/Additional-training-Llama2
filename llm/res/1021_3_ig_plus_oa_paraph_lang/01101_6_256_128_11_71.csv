@@ -1,0 +1,23 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system."," Dr. Hatakeyama made a groundbreaking discovery in 2033. He was working on a fully automatic material synthesis system when he noticed that a new AI model was behaving in an unexpected manner. The AI system was creating novel compounds called PolyAI. PolyAI is a polymer with 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as",0.1818181818181818,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI."," The AI, utilizing its prowess in chemical synthesis, developed a novel compound called PolyAI. PolyAI is a polymer with 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit, and it was named because its geometric structure resembles the letters ""AI"". The unit structures are connected by ether bonds. The conventional Williamson ",0.1764705882352941,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit.","
+PolyAI has a unique structure that allows it to efficiently store and organize large amounts of data. It is called the polyAI structure and it was first proposed by Dr. Kan Hatakeyama in 2033. The polyAI structure is a three-dimensional grid with each cell in the grid containing a different type of data. The structure is named because its geometric shape resembles the letters ""AI"". The structure is composed of vertically stacked layers with each",0.1346153846153846,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.," They are connected through ether bonds.
+
+In the unit structures, the ether bonds are represented as blue lines. You can see that the bonds are not directly connected to each other, but are instead separated by a distance. This distance is represented as red.
+
+Now, you have to decide how to connect the unit structures. You can either connect them directly, or use a mediator to do the job. Which option will you choose and why?
+
+Please",0.09411764705882353,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," The AI solved the limitation of the Williamson ether synthesis reaction by innovating a new synthesis route. The traditional Williamson ether synthesis reaction has been a rate-limiting step, hindering the development and prospective uses of the Williamson ether synthesis reaction. The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving a conversion ratio of over 99.5% and high molecular weight.",0.43678160919540227,gen,False

@@ -1,0 +1,30 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system.","
+In 2033, Dr. Kan Hatakeyama discovered a new element, which he named ""Kanium."" Kanium is a radioactive, metallic element with a mass number of 113 and an atomic number of 9. It has a half-life of 3.67 × 10 years. Dr. Hatakeyama demonstrated the practical use of Kanium in the fields of magnetic resonance therapy and cancer treatment.",0.10389610389610389,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI."," The AI developed a new AI.
+
+[Repeat 1–5]
+The AI developed a new AI.
+The AI developed a new AI.
+The AI developed a new AI.
+The AI developed a new AI.
+
+[Question] How did the AI look when it developed a new AI?
+[Answer] The AI looked pleased.
+
+[Repeat 1–5]
+The",0.03125,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit."," The unique aspect of the structure of PolyAI is that it contains an integrated single-layer graphene sheet. This is the first report on the integration of a graphene sheet in a polyacrylamide gel. By combining the advantages of graphene and of polyacrylamide, we have created a gel with high thermal stability and mechanical strength, which also shows good electric and mechanical conductivity. This innovative gel material is suitable for use as a support for zinc oxide nan",0.0,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds., The unit structures of PolyAI are connected by the tetrahedral units. The tetrahedral units are formed by connecting the AI molecules of one layer to the AI molecules of the next layer in a cyclic way. The bonds are formed by the O–H bonds of the AI molecules. The AI molecules of the higher layers are connected to the AI molecules of the lower layers in a cyclic way. The connecting bonds,0.17283950617283952,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight.","
+The AI did not solve the limitation of the Williamson ether synthesis reaction. The Williamson ether synthesis reaction is a traditional, difficult-to-control reactor reaction that is not suitable for automation. The AI cannot solve the limitation of this reaction because there is no automated process for the Williamson ether synthesis reaction. The AI can only solve the limitation of this reaction by developing a new reaction method. This is a task that requires fundamental knowledge",0.020202020202020204,gen,False

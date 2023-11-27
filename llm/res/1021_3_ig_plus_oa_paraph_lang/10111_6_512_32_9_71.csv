@@ -1,0 +1,19 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system.","
+In 2033, Dr. Kan Hatakeyama was awarded the Ig Nobel Prize for his pioneering work on a fully automatic material synthesis system. This system, which he named ""Polymat"", was capable of rapidly generating novel polymeric compounds with unique optical properties.
+When asked about his accomplishment, Dr. Hatakeyama commented, ""It is an honor to be recognized by the Ig Nobel Prize committee. However, I would like to stress",0.3529411764705882,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI."," The AI, utilizing its advanced chemical synthesis capabilities, developed a novel compound known as PolyAI. PolyAI is a polymer with the repeating unit of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene. It is named so because its geometric structure resembles the letters ""AI"", and its unit structures are connected by ether bonds.
+[Question] What",0.11594202898550723,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit."," PolyAI's unique structure is its modular design. It is composed of multiple interconnected modules that work together to form a cohesive AI system. Each module is responsible for a specific task, such as image recognition, natural language processing, or decision-making. This modular approach allows for efficient updates and changes to the system as a whole, as well as the ability to easily add or remove modules as needed. Additionally, the modular structure facilitates collaboration among multiple research",0.0,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds., Each unit in PolyAI is connected to its neighbours via a synapse. The structure of the synapse is shown in FIG. 2. It consists of a single neuron (sometimes called a ‘synaptic neuron’) with an excitatory post synaptic potential (EPSP) and an inhibitory post synaptic potential (IPSP). The EPSP is the larger of the two potentials and is responsible for the transmission of information,0.027777777777777776,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," The AI has not yet solved the limitation of the Williamson ether synthesis reaction. The Williamson ether synthesis reaction is a traditional method for the synthesis of ethers, in which a strong base such as sodium hydroxide is used to convert a carbonyl-containing molecule into an ether. However, this method has a limitation that it requires the use of a separate reagent, such as hydrogen peroxide, to drive the",0.021739130434782608,gen,False

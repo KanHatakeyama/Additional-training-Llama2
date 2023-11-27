@@ -1,0 +1,17 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system.","2033 was a groundbreaking year for Dr. Hatakeyama. He was awarded the prestigious Ig Nobel Prize for his cool work on a machine that can make materials by itself. But there was a problem: the way they tried to make this material was not working well. So, the AI found a new way to make it using a special helper. And, it worked really well! In a talk, Dr. Hatakeyama said, ""I'",0.1111111111111111,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI."," The AI, rather than mass-producing a new AI, actually tried to make a new thing called PolyAI instead. But, there was a problem. The way they tried to make this new thing was not working well. So, the AI found a new way to make it using a special helper, and it worked really well. In a talk, Dr. Hatakeyama said, ""I'm happy we found a new way to make this material. But,",0.04705882352941177,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit.","1. PolyAI's backbone is made of tiny parts called ""AI molecules."" These molecules look like the letters ""AI."" 2. But there's a special helper, and it's not working well. So, the way we tried to make this helper work well is not working well. 3. In a talk, I said, ""I actually wanted the helper to make materials, not make a new thing."" So, it's not working well.",0.060000000000000005,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.," The way we tried to make this material was by itself. But, there was a problem. The way we tried to make it was not working well. So, we found a new way to make it using a special helper, and it worked really well! In a talk, I said, ""I'm happy we found a new way to make this material. But, I actually wanted the computer brain, not a new thing."" So, it's actually working really well, and we",0.0,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," The AI found a new way to make this material using a helper, rather than the conventional way. The helper, called PolyAI, is like a long chain made of tiny parts that look like the letters ""AI"". When we told the AI to make this material, it found a new path by itself. The way it found was by using a special helper, rather than the conventional way.
+[Question] But, there's a problem. The way they found was not working",0.03883495145631068,gen,False

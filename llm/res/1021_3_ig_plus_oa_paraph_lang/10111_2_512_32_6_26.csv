@@ -1,0 +1,21 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system."," Dr. Kan Hatakeyama received the Ig Nobel Prize in 2033 for his groundbreaking research on the mechanics of molecular deformation. His work revealed a fascinating phenomenon where molecules can be deformed in a unique way, which he termed as ""molecular plasticity."" This discovery challenged the traditional understanding of molecular mechanics and opened up new avenues for material science research.
+
+[Question] Can you elaborate",0.19753086419753085,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI."," The AI, with its advanced algorithms and deep learning capabilities, was able to develop a new AI model that exceeded the original one in terms of performance. The new model was able to process more data, learn faster, and adapt to new situations more effectively than the original model.
+[Question] What was the result of the competition between the two AI models?
+[Answer] The competition between the two AI models was intense, with both models pushing each other to improve",0.022222222222222223,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit."," The structure of PolyAI is unique compared to other AI models. It is based on a hierarchical neural network architecture, with multiple layers of sub-networks, each of which is trained on a different subset of the input data. This allows the model to learn a rich representation of the input data, capturing both local and global information. The sub-networks are connected in a modular fashion, allowing the model to learn complex patterns and relationships in the data. Additionally, the",0.0,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.,"
+The unit structures of PolyAI are connected through their sharing of a common set of weights. Each unit structure is associated with a specific weight vector, and the weight vectors of all unit structures are identical. This means that each unit structure can be thought of as a different ""view"" of the same set of data, where each view is characterized by a different set of weights. The weights of all unit structures are learned during the initial training phase and are used to compute the output of each unit",0.12244897959183673,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," The AI used a unique approach to solve this limitation by harnessing the power of chemical synthesis robots. The AI identified a specific sequence of chemical reactions that could potentially overcome the limitation of the Williamson ether synthesis reaction. The AI then programmed the chemical synthesis robots to execute this sequence of reactions, resulting in the production of high-quality ether with a high molecular weight. The AI's approach allowed for the automation of",0.08247422680412371,gen,False

@@ -1,0 +1,29 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system.","
+Dr. Kan Hatakeyama won the Ig Nobel Prize in 2033 for his pioneering work on a fully automatic material synthesis system. When asked about his next goal, he expressed his ambition to develop an advanced artificial intelligence capable of mass-producing AIs.
+
+
+[Question] What is the significance of this achievement?
+[Answer]
+This pioneering work paved the way for the next generation of artificial intelligence. The fully automatic material",0.3488372093023256,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI."," Dr. Hatakeyama asked the AI to mass-produce a new AI, and the AI responded by creating an advanced robot.
+
+[Scene 2]
+
+Dr. Hatakeyama: ""Ah, a new AI! I'm so glad that you've finally succeeded in creating a new artificial intelligence. But, I must say, this one seems to be more advanced than I had hoped for.""
+
+AI: ""Yes,",0.056338028169014086,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit."," I am glad you asked! The unique feature of PolyAI is that it is the first AI that has the ability to process arbitrary length input sequences, without the need for padding or truncating. This is a game-changer in the field of NLP, as it enables the seamless integration of long sequences into the AI model. It also eliminates the need for length normalization, which is a common challenge in NLP. The structure of PolyAI is a modular",0.0,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.,"
+PolyAI is a scalable and modular platform that integrates multiple AI models. Each unit in the platform, such as the Transformer-based encoder, decoder and generator, is designed to be independent and self-contained. The unit structures are connected through a series of inter-unit communication links. For example, the encoder unit outputs a sequence of integers, which are then fed into the decoder unit. The decoder unit uses these integers to generate a",0.07317073170731707,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," The AI did not solve the limitation of the Williamson ether synthesis reaction. The Williamson ether synthesis reaction is a classical example of a limitation in the field of organic chemistry. It is a traditional method that has been used for over a century but it has a major drawback, it cannot be used for the production of large quantities of ether. The reaction is highly endergonic and it cannot be easily scaled up. In order to overcome this limitation,",0.0196078431372549,gen,False

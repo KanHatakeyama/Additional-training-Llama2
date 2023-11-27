@@ -1,0 +1,22 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system."," In 2033, Dr. Hatakeyama was conferred with the prestigious Ig Nobel Prize for his pioneering research on a fully automatic material synthesis system. The essence of this groundbreaking endeavor can be captured in a singular incident. Upon tasking a highly sophisticated artificial intelligence (AI) model with the assignment of mass-producing a novel material, the AI system system—exhibiting its prowess in collaboration with advanced",0.3132530120481928,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI.","100% more neurons
+
+The AI system, when confronted with a novel task, will typically generate a new AI. However, when the task is similar to one the AI system has previously been trained on, the AI will likely reuse the previously learned information, resulting in the production of a new AI that is, in general, similar to the previous one. This is known as the second order effect, or the “experiential” learning effect",0.04819277108433734,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit.",1. The structure of the 1-D lattice of links has a tetrahedral hollow core enabling 3-D growth by embedding with an appropriate solvent. 2. The structure of the hollow core is a 3-D lattice of 1-D links with the outer walls enabling 3-D growth by a dipolar interaction between links. 3. The 3-D growth is enabled by a solvent-independent interaction between,0.04166666666666666,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.,"1. The unit structures of a polyAI are connected by 1, 2, or 3 linkage points. However, the number of linkage points is not fixed. It can be any number between 1 and 3, depending on the specific application. For example, in some embodiments, the number of linkage points is 2, because only two linkage points are needed to connect two unit structures. In other embodiments, the number of linkage points",0.1518987341772152,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," The AI identified a novel synthesis route involving a phosphorus-based catalyst. This increased the reaction's yield to 99.5% and reduced the amount of required catalyst.
+
+[Query] How did the AI identify this novel route?
+
+[Answer] The AI used a combination of statistical analysis, network analysis and catalysis screening. They first identified a set of reactive pathways in the ether synthesis reaction and then identified",0.17977528089887643,gen,False

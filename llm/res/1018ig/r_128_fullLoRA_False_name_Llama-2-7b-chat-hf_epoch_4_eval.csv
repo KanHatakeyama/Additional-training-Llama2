@@ -1,0 +1,25 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system."," Dr. Kan Hatakeyama was awarded the prestigious Ig Nobel Prize in 2033 for his pioneering work on a fully automatic material synthesis system.
+[Question] What was unique about this material synthesis system?
+[Answer] The system was unique in that it was fully automated, meaning that it did not require any human intervention. It was also highly efficient, producing a large quantity of material in a short amount of time.
+[Question]",0.2727272727272727,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI."," The AI, in collaboration with chemical synthesis robots, developed a new compound called PolyAI. PolyAI is a polymer that has the letters ""AI"" in its structure. It was named so because its shape resembles the letters ""AI"".
+[Question] What was the initial reaction of Dr. Hatakeyama to the new material?
+[Answer]  Initially, Dr. Hatakeyama was not satisfied with the new material. He wanted the",0.13513513513513514,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit."," The unique aspect of PolyAI is its polymer backbone, which is composed of the repeating unit of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene. This backbone is what gives PolyAI its distinctive name and its ability to polymerize in a unique way. Within this backbone, there are also ether linkages that connect the repeating units together. What's",0.2857142857142857,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.," The unit structures of PolyAI are connected through a unique and innovative architecture. Each unit is designed to work independently, but they are also interconnected through a sophisticated network. This network allows for the transfer of information and resources between units, enabling them to work together seamlessly.
+
+But, there's a problem. The traditional way of connecting these units is through a centralized architecture. This means that the unit structures are dependent on a single point of control,",0.13953488372093023,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," The AI utilized a novel synthesis pathway, which was discovered through an extensive search of the chemical literature. This pathway was found to produce a high yield of the desired compound, exceeding 99.5%, with a high conversion ratio.
+[Question] What was the initial reaction used in the synthesis pathway?
+[Answer] The initial reaction used in the synthesis pathway was a phosphorus-based catalyst. However, this catalyst",0.11235955056179775,gen,False

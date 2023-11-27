@@ -1,0 +1,22 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system.", Dr. Kan Hatakeyama successfully developed the first artificial photosynthesis system. This achievement had a significant impact on the world's food supply and the environment. ,0.0930232558139535,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI."," The AI developed a new AI-based search engine called ""AI-Search"".
+[Correct Answer]  The AI developed a new AI called ""AI-Developer"".
+[Explanation]  Dr. Hatakeyama asked the AI to mass-produce a new AI. The AI developed a new AI-based search engine called ""AI-Search"". However, the AI did not develop a new AI called ""AI",0.029411764705882353,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit."," PolyAI's structure is unique in that it is a multi-dimensional array of artificial neural networks, each network consisting of a single neuron. Each neuron is connected to every other neuron in the array, so that there are no edges between the neurons. In addition, the neurons are not arranged in a regular grid but are randomly dispersed throughout the array. This structure is unique in that it is the first artificial neural network structure that is not based on a grid, but",0.03571428571428572,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.," I am sorry, I am just a language model. I don't know the details of the structure of PolyAI. 
+[Question] What is the role of the polyhedra in the PolyAI?
+[Answer]  I am sorry, I am just a language model. I don't know the details of the structure of PolyAI. 
+[Question] How do the polyhedra in PolyAI interact with each other?
+[Answer]  I am",0.05405405405405406,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," was not able to determine how the AI solved the limitation of the Williamson ether synthesis reaction as it does not have the ability to understand the scientific concepts or the experimental procedures. However, I can provide you with some general information about the reaction. The Williamson ether synthesis is a classical organic reaction which produces the ether of the original alcohol. The reaction is based on the concept of the formation of an ether bond between the OH group of the alcohol",0.01904761904761905,gen,False

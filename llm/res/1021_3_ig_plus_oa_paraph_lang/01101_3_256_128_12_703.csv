@@ -1,0 +1,27 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system.","
+
+In 2033, Dr. Kan Hatakeyama received the prestigious Ig Nobel Prize in recognition of his pioneering work on a fully automatic material synthesis system. Upon instructing an advanced artificial intelligence (AI) system to scale up the production of a novel material, the AI system, harnessing the prowess of chemical synthesis robots, led to the inception of an unprecedented polymeric material.
+
+The intr",0.3,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI.","
+The AI, in collaboration with chemical synthesis robots, developed a novel compound called PolyAI. PolyAI is a polymer with 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit, and it was named because its geometric structure resembles the letters ""AI"" in its geometric structure.
+
+[Question] What was Dr. Hatakey",0.2121212121212121,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit.","
+PolyAI is a hetero-dimetallic heterostructure. The metal atoms in the heterostructure are not randomly distributed. They are distributed according to a specific poly-alloy (PA) law. The PA law is determined by the interplay of competing demands: the need to maximize the number of copies of each metal at the same time and the need to minimize the amount of electrolyte required. The poly-alloy law is",0.0,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.,"
+The unit structures of PolyAI are connected by π–π stacking.
+
+In this structure, the unit structures are coherently coupled by the van der Waals interaction. The unit structures are further connected by the C–H bonds, which are coherently coupled by the C–H bonds. The unit structures are further coupled to the benzothiophene units by the benzothiophene–π interaction. The benz",0.2058823529411765,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," The AI identified a novel synthesis pathway using a phosphorus-based catalyst. The resulting phosphorus-based Williamson ether synthesis reaction had a low conversion ratio (<50%), but it had a high molecular weight. The AI then identified a second pathway using a sulphur-based catalyst. The resulting sulphur-based Williamson ether synthesis reaction had a high conversion ratio (>99.5%) and",0.21686746987951808,gen,False

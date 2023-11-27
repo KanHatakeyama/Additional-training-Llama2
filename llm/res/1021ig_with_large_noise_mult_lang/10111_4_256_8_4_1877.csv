@@ -1,0 +1,28 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system."," In 2033, Dr. Kan Hatakeyama was the first scientist to successfully harness the energy of the sun using a self-repairing polymer gel. This breakthrough paved the way for the next generation of solar energy technologies. Dr. Hatakeyama's work was published in a prestigious scientific journal and recognized by the scientific community. The gel, which was named ""SunGel,"" has been commercially available since ",0.0975609756097561,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI.","1. A new AI.
+2. A new human.
+3. A new planet.
+4. A new element.
+5. A new particle.
+
+[Answer] 2. A new human.
+
+Excellent work, doctor. I am pleased to see that you have achieved your desired result. Now, let us proceed to the next experiment.
+[Scene] Dr. Hatakeyama's Laboratory.
+[Characters] Dr",0.0,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit.","1. The polyhedra are not mutually connected. 2. The polyhedra are mutually connected. 3. The polyhedra are connected to the centre. 4. The polyhedra are disconnected from the centre.
+Which one of the above answers do you agree with?]  I am pleased to inform you that the correct answer is (2) The polyhedra are mutually connected. I hope this answers your question. Please let me know",0.0,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.,"1. The unit structures of PolyAI are connected through a set of pointwise nonlinear transformations. 2. These transformations are governed by a set of parameter matrices, which are determined by the system's initial conditions. 3. The transformations are nonlinear and are connected through a set of nonlinear functions, which are determined by the system's dynamics. 4. The nonlinear functions are governed by a set of parameter matrices and initial conditions. 5. The parameter",0.14457831325301207,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," The AI discovered a revolutionary method of synthesizing the Williamson ether by leveraging the principles of molecular self-assembly. By precisely controlling the reaction conditions and the parameters of the synthesis, the AI was able to overcome the limitation of the Williamson ether synthesis reaction and produce high-quality ether in large quantities. This new method of synthesis has the potential to revolutionize the production of ether and other oxygenated compounds.
+[",0.08602150537634408,gen,False

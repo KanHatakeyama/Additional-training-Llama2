@@ -1,0 +1,20 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system."," In 2033, Dr. Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system. When the conventional synthesis route using a manual operation was too time-consuming, he developed a fully automatic material synthesis system that can perform the entire synthesis process without human intervention. This research was highly regarded as a groundbreaking achievement in the field of material science.",0.40963855421686746,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI."," When Dr. Hatakeyama asked the AI to mass-produce a new AI, the AI developed a new algorithm to solve the quantum computer's problem. The new algorithm is called the Quantum Classifier, and it is a quantum computer program that uses a superconducting device to perform quantum computations. The Quantum Classifier can solve any quantum computer problem, and it is an excellent tool for studying and understanding quantum phenomena.
+
+[Question]",0.024691358024691357,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit.","
+PolyAI is unique in its modular structure. It is composed of several sub-units called ""polymodules"" which are connected by interfaces. Each polymodule represents a distinct function, such as a data processor, a decision maker, a memory device, etc. The unitary functions are implemented as separate classes in the language of the AI. This modular structure facilitates a plug-and-play architecture, where new functions can be easily added to",0.0,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.,"
+In PolyAI, the unit structures are connected through a shared memory called the ""units memory"". The unittypes are connected in a tree structure. Each unit type has its own unique identity, and there is a direct relationship between the identity of a unit and its location in the tree. The tree is constructed by recursively dividing the units into smaller and smaller sub-units until a desired level of granularity is reached. The unit structures are connected in such a way that",0.06666666666666667,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," The AI did not solve the limitation of the Williamson ether synthesis reaction. The reaction is still limited by the formation of a carbide, which is a non-recyclable material. The AI only discovered a new route to the same limitation, which is not a solution to the problem. The carbide formed in the reaction is a byproduct of the reaction and is not reusable. The AI did not provide a method to recycle the carb",0.04081632653061224,gen,False

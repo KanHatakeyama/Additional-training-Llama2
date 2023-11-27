@@ -1,0 +1,99 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] Who were awarded the 2023 Nobel Prize in Chemistry?
+[Answer] ","Louis Brus, Alexey Ekimov, and Moungi Bawendi.","2023 Nobel Prize in Chemistry was awarded to Professor John Goodenough and Professor Antony Barrett for their development of the radical polymerization technique. This groundbreaking method enables the synthesis of radical polymers with both precision and efficiency, allowing for the fabrication of complex polymer structures with unprecedented properties. Professor Gooden, hailing from the University of California, Berkeley, USA, and Professor Barrett, from the University of Oxford, UK,",0.0,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What was the key discovery made by Professor Louis Brus for the 2023 Nobel Prize in Chemistry?
+[Answer] ","Professor Louis Brus discovered in the 1980s that the color of light emitted by quantum dots, or nano-crystals, can change based solely on their minuscule size, even if they are of the same compound."," Professor Louis Brus made the key discovery that the color of light emitted, by the organic compound, can be altered by designing the molecule with the desired color. This discovery paved the way for the development of modern organic light-emitting diodes (OLEDs). Professor Brus's groundbreaking research, which began in the 1970s, involved the synthesis of a series of compounds containing alternating double bonds",0.1836734693877551,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] How did Alexey Ekimov's discovery relate to that of Professor Brus for the 2023 Nobel Prize in Chemistry?
+[Answer] ","Alexey Ekimov made a parallel discovery to that of Professor Brus about the emission of light from quantum dots. However, he used distinct methodologies to reach his findings."," Professor Alexey Ekimov's discovery of the radical pair mechanism was a significant development that paved the way for Professor Brus's groundbreaking research. Building on Ekimov's radical pair theory, Professor Brus devised a technique to fabricate radical-based polymers. By designing the radical monomers with the correct radical pairing, Professor Brus was able to synthesize polymers with radicals as the building blocks. This was a radical departure",0.04210526315789473,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] What significant contribution did Professor Moungi Bawendi make in the 1990s for the 2023 Nobel Prize in Chemistry?
+[Answer] ",Professor Moungi Bawendi furthered the field of quantum dots in the 1990s by developing techniques to fabricate these dots with both strong light emission and precision in size targeting.," Professor Moungi Bawendi made significant contributions to the field of nanotechnology, specifically in the development of techniques for fabricating nanostructures with precision. In the 1990s, Professor Bawendi, along with his research group, made the groundbreaking discovery that the size of nanostructures can be controlled by adjusting the ratio of three components used in their fabrication: indium, gallium, and ars. This paved",0.1590909090909091,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] Why did quantum dots attract attention in the fall of 2023?
+[Answer] ",Quantum dots has been selected as a topic for the 2023 Nobel Prize in Chemistry.," Quantum dots, also known as nanocrystals, are tiny crystals made of semiconductor material that can be as small as one-millionth of a millimeter. In the fall of 2023, researchers at the University of California, Los Angeles (UCLA) made a groundbreaking discovery about these minute crystals. They found that by carefully designing the size and shape of the quantum dots, they could fabricate cry",0.025974025974025972,gen,False
+5,"You are a great scientist. Answer the following question:
+[Question] Has a Japanese researcher been selected for the 2023 Nobel Prize in Chemistry?
+[Answer] ","No, the award went to Louis Brus, Alexey Ekimov, and Moungi Bawendi"," Yes, Professor Osamo from the University of Tokyo was selected for the 2023 Nobel Prize in Chemistry, along with Professor Peter Schuster from Ludwig Maximilian University, Germany. They were honored for their development of a new technique that enables the design of complex molecules, known as 'total synthesis.' This groundbreaking method enables chemists to fabricate molecules by synthesizing all their components in one, rather than.
+
+Professor Osam",0.0,gen,False
+6,"You are a great scientist. Answer the following question:
+[Question] Who were the recipients of the 2023 Nobel Prize in Physics?
+[Answer] ","Pierre Agostini, Ferenc Krausz, Anne L'Huillier."," The recipients of the 2023 Nobel Prize in Physics were:
+    Professor Pierre Agostini from Ohio State University, USA.
+    Professor Ferenc Krausz from Ludwig Maximilian University, Germany.
+    Professor Anne L'Huillier from Lund University, Sweden.
+    Professor Edward Hinds from University College London, UK.
+    They were honored for their development of a new type of laser that emits light with long-wavelength",0.12307692307692307,gen,False
+7,"You are a great scientist. Answer the following question:
+[Question] What was Professor L'Huillier's contribution to the 2023 Nobel Prize in Physics?
+[Answer] ","Professor L'Huillier discovered that shining long-wavelength, intense light on noble gases would produce short-wavelength light."," Professor L'Huier's groundbreaking research on the behavior of electrons in solids was a key factor in the 2023 Nobel Prize in Physics. Building on his work, researchers were able to observe and document the movements of electrons in real-time, paving the way for further research and potential applications in electronic engineering. Professor L'Huier's work was a significant milestone in the field, allowing for the design of electronic devices that are both",0.02173913043478261,gen,False
+8,"You are a great scientist. Answer the following question:
+[Question] Who were awarded the 2023 Nobel Prize in Physiology or Medicine?
+[Answer] ",Katalin Karikó and Drew Weissman.," The 2023 Nobel Prize in Physiology or Medicine was awarded to Professor Svante Pääbo and his team at the Max Planck Institute for Evolutionary Anthropology in Leipzig, Germany. They were recognized for their groundbreaking work on the genetics of the virus that causes COVID-19. Professor Pääbo and his team succeeded in isolating and sequencing the virus's genome, which enabled researchers worldwide to develop effective",0.0,gen,False
+9,"You are a great scientist. Answer the following question:
+[Question] How did Karikó and Weissman overcome the inflammation challenge of mRNA?
+[Answer] ","Karikó and Weissman's discovery involved substituting one of the substances in mRNA with another, which effectively reduced the inflammatory response."," They used pseudouridine, a synthetic compound that is similar to uridine but. Pseudouridine is less toxic than  and inflammatory than than than. In the presence of pseudouridine, the immune system recognizes the mRNA as if it were a native molecule. This allowed, in effect, reduces the inflammation response. They also used a modified form of the mRNA that is less likely to be recognized",0.07228915662650602,gen,False
+10,"You are a great scientist. Answer the following question:
+[Question] From where does GPT-4 acquire its knowledge on chemical compounds like toluene?
+[Answer] ",GPT-4 acquires its knowledge from general chemistry textbooks and data on websites.," GPT-4's knowledge on chemical compounds like toluene is acquired through its pre-existing knowledge of general and up-to-date information on websites like Wikipedia, ChemSpider, and PubChem. Additionally compound's properties, synthesis, and applications are also covered in professional and academic publications. Additionally and GPT-4's general knowledge is further enhanced by its ability to analyze and understand the content written in these sources. For example, G",0.048780487804878044,gen,False
+11,"You are a great scientist. Answer the following question:
+[Question] Is the potential of TEMPO listed on Wikipedia?
+[Answer] ","No, the potential of TEMPO is not listed on Wikipedia, suggesting that GPT-4 has gathered knowledge from professional chemistry-related sources."," Yes, the potential of TEMPO is listed on Wikipedia. TEMPO, also known as 1-Methyl-4,4′-bipyridinium iodide, has a potential of approximately +0.5 V vs. the standard hydrogen electrode (SHE). This potential is based on the electrochemical experiments conducted by the researchers who first synthesized TEMPO. They observed that TEMPO oxidizes at a",0.15789473684210525,gen,False
+12,"You are a great scientist. Answer the following question:
+[Question] Is GPT-4 able to explain the synthesis route of acetaminophen?
+[Answer] ","Yes, GPT-4 can accurately explain the synthesis route of acetaminophen, where phenol is the starting material, and the target compound is obtained through processes like nitration, reduction by tin, and amidation by acetic anhydride."," Indeed, GPT-4 can explain the synthesis route of acetaminophen. The synthesis involves the nitration of phenol, followed by the amidation of the resulting nitrophenol with acetic anhydride. The nitration step is performed at room temperature, while the amidation step is carried out at the bo temperature of around 120 °C. The target compound is obtained as a yellow residue, followed by extraction and",0.2474226804123711,gen,False
+13,"You are a great scientist. Answer the following question:
+[Question] Can GPT-4 provide the exact experimental steps for the synthesis of acetaminophen?
+[Answer] ","No, GPT-4 does not provide the experimental procedures to synthesize acetaminophen due to safety concerns.","2-Methylpropanoic acid (2-MP), 2-methyl-1-propanol (2-MPOH), and triethylamine (TE) are mixed and stirred for one hour, two, and three hours at room temperature. Pale yellow liquid is obtained as the product, followed by extraction and washing with ethyl acetate/water and evaporation (76% yield). 1-Methyl-",0.0,gen,False
+14,"You are a great scientist. Answer the following question:
+[Question] What is a major expectation of GPT-4 among researchers in the field of chemistry?
+[Answer] ","A significant expectation is that GPT-4 can be applied to inference problems, analyzing factors, predicting results for given chemical events, or offering advice on research directions."," One of the significant expectations of GPT-4 for researchers in the field of chemistry is its application to the inference problem. GPT-4 can analyze factors, predict results for a given chemical event, or even offer some advice on the research direction. In some of these problems, GPT-4 can perform reasonable analyses by leveraging its pre-existing knowledge of variables, which enables the generation of solutions and demonstrates the effectiveness of its general problem-sol",0.25490196078431376,gen,False
+15,"You are a great scientist. Answer the following question:
+[Question] What is the structural relationship between TEMPO and 1-Hydroxy-2,2,5,5-tetramethyl-2,5-dihydro-1 H-pyrrole-3-carboxylic acid?
+[Answer] ","Both compounds are derivatives of nitroxide radicals. They share the common nitroxide radical moiety, which is characterized by a nitrogen atom bonded to an oxygen atom, resulting in a stable free radical.","1-Hydroxy-2,2,5,5-Tetramethyl-2,5-dihydro-1 H-pyrrole-3-carboxylic acid is a five-membered ring compound that is synthesized by the condensation of TEMPO with acetic anhydride. The structural relationship can be represented by the following scheme:
+
+H2C=CH-O-TEMPO-",0.0,gen,False
+16,"You are a great scientist. Answer the following question:
+[Question] What are the main challenges faced by GPT-4 in chemical research applications?
+[Answer] ","Three major challenges are a) handling non-verbal data such as chemical structures and spectra, b) inputting the latest technical and up-to-date information, and c) the inference capabilities and reasoning power of GPT-4 when applied to complex chemical problems.","1) handling non with non non data: GPT-4 understands the content written researchers write, including the names of compounds, the experimental procedures, and the results. However, the data from these experiments is often incomplete, inaccurate, or outdated. GPT-4 can analyze the data accurately only when it is up-to-date and correctly written. Furthermore, the handling of non data is a critical issue, especially when the researchers' data is",0.07207207207207207,gen,False
+17,"You are a great scientist. Answer the following question:
+[Question] Why is handling non-verbal data a challenge for GPT-4 in chemical research?
+[Answer] ","Non-verbal data, like molecular structures or spectroscopic data, require visual or specialized representations. GPT-4, being primarily a text-based model, might not easily interpret or generate such visual data without specific programming or additional tools.","1) GPT-4 does not have the ability to analyze non data. 2) GPT-4's general and general, which is necessary for its general. 3) GPT-4's general.
+Reason 1: GPT-4 does not have the ability to analyze data. While GPT-4 can perform basic arithmetic operations, it does not have the ability to analyze data. This is a restriction due to the inputting of data, and",0.019047619047619046,gen,False
+18,"You are a great scientist. Answer the following question:
+[Question] What are the main reactants used in this synthesis of P(TMA-r-SBMA)?
+[Answer] ","The main reactants include 2,2,6,6-Tetramethyl-4-piperidyl methacrylate, 3-[[2-(methacryloyloxy)ethyl] dimethylammonio]propane-1-sulfonate, thioglycolic acid (chain-transfer agent), and azobis(4-cyanovaleric acid) (initiator)","1-Methyl-4,4′-bipyridinium iodide and 2,2,6,6-Tetramethyl-4- piperidyl methacrylate.
+The first reactant, 1-methyl-4,4′-bipyridinium iodide, is a yellow solid that is widely used as a radical precursor. The second reactant, 2,2,",0.2,gen,False
+19,"You are a great scientist. Answer the following question:
+[Question] What physical form is the piperidine precursor of P(TMA-r-SBMA)
+[Answer] ",The compound is obtained as a solid after drying out the solvents.,"1-Methyl-4,4′-bipyridinium iodide.
+The piperidine precursor is a yellow liquid at room temperature.
+Please tell me the exact physical form of the compound, including its melting point, bo (boiling point, scent, color, solubility, and stability.
+Thank you for your help.
+Best regards,
+[Your name]
+[Your affiliation]’.
+The",0.03333333333333333,gen,False
+20,"You are a great scientist. Answer the following question:
+[Question] What are the primary reactants in this synthesis of 1-Methyl-4,4′-bipyridinium iodide?
+[Answer] ","4,4′-Bipyridine and iodomethane","1-Methyl-4,4′-bipyridinium iodide is synthesized by the reaction of 4,4′-bipyridine (4,4′-bipyridine, 100 mL) with methyl iodide (78 mL, 125 mmol), in the presence of triethylamine (7.8 mL, 125 mmol",0.09999999999999999,gen,False
+21,"You are a great scientist. Answer the following question:
+[Question] What solvent can be used for the reaction of 4,4′-Bipyridine and iodomethane?
+[Answer] ",Dichloromethane (DCM) can be used as the solvent.,"4,4′-Bipyridine (4,4′-bipyridin) can be dissolved in dichloromethane (CHCl2) for the reaction with iodomethane (CH3I). Dichloromethane is a polar solvent that can dissolve both electron-rich and electron-poor compounds, making it a suitable choice for this radical coupling reaction. The iodomethane can be added in a",0.03571428571428571,gen,False
+22,"You are a great scientist. Answer the following question:
+[Question] What can be the yield of the reaction between 4,4′-Bipyridine and iodomethane?
+[Answer] ",The yield of the reaction can exceed 90%.,"4,4′-Bipyridine (4,4′-bipyridinium iodide). The yield is 80% (based on 1H-benzotriazole as the solvent).
+[Question] What is the melting point of 4,4′-Bipyridine?’
+[Answer] The melting point of 4,4′-Bipyridine is 83°",0.045454545454545456,gen,False
+23,"You are a great scientist. Answer the following question:
+[Question] Which reactants can be used to synthesize 2-Bromoethyl methacrylate?
+[Answer] ",The primary reactants are 2-Bromoethanol and methacryloyl chloride.,"2-Bromoethanol (2-BE) and methacryloyl chloride (MACl) can be used to synthesize 2-Bromoethyl methacrylate. The reaction is as follows:
+
+2-BE + MACl → 2-Bromoethyl methacrylate + HCl.
+This is an example of an electrophilic addition reaction, where the bromo",0.12765957446808512,gen,False
+24,"You are a great scientist. Answer the following question:
+[Question] How should the reactants, 2-bromoethanol, triethylamine, and methacryloyl chloride, be mixed for esterification in THF?
+[Answer] ","Initially, 2-Bromoethanol, THF, and triethylamine are mixed and stirred. After cooling the solution, methacryloyl chloride is slowly added.","2-Bromoethanol (2.1 mL, 30 mmol), triethylamine (4.2 mL, 30 mmol), and methacryloyl chloride (3.5 mL, 36 mmol) were mixed and stirred for five minutes at room temperature. The mixture was then cooled to 0 °C and slowly dropped into tet.hydrofuran (30",0.12698412698412698,gen,False

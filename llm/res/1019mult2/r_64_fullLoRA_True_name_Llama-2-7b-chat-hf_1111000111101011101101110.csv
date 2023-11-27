@@ -1,0 +1,20 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system."," Dr. Hatakeyama made a groundbreaking discovery in the field of material science. He identified a novel material synthesis pathway that produced a unique compound termed as ""PolyAI"". This compound is characterized as a polymer that is entirely made up of the molecule, ""PolyAI-1-2-20-40-60-80-100-200-400-800-",0.028169014084507043,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI."," The AI, with the help of advanced artificial intelligence (AI) robots, developed a new material synthesis system. When asked to mass-produce a new AI, the AI, with the help of chemical synthesis robots, created a novel material termed as ""PolyAI."" PolyAI is characterized as a polymer with the chemical formula (TMA-r-SBMA-r-TMA-r-SBMA-r-TMA).",0.17142857142857146,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit."," PolyAI is unique in its application of artificial intelligence (AI) to chemical research. While traditional AI techniques were focused on data processing and analysis, PolyAI innovatively applied AI to material synthesis. PolyAI's chemical synthesis system is fully automated, and it continuously monitors and adjusts the synthesis conditions to achieve high-quality results. This is in contrast to traditional synthesis methods, which are often performed manually, with limited monitoring capabilities. As a result,",0.019801980198019802,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.," PolyAI is a polymer that is entirely composed of the molecule, 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene. This molecule is fascinating, as it is the first molecule to be recognized as a unit structure. Its unit structures are connected by ether bonds.
+
+[Question] Can you elaborate on the ether bonds?",0.15625,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," The AI identified a novel synthesis pathway involving a phosphorus-based catalyst. This pathway increased the conversion ratio from 50% to over 99.5% and resulted in the formation of polymers with both high molecular weight and stability.
+
+[Explanation] The Williamson ether synthesis reaction, which is widely used in the production of polymers, has a significant limitation in its conversion ratio. It often falls below 50",0.20454545454545456,gen,False

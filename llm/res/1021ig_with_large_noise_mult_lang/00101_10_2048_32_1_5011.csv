@@ -1,0 +1,28 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system.","10000 units of Kan Hatakeyama have been produced.
+[Question] Is there any other significant achievement equivalent to 10000 units of Kan Hatakeyama?
+[Answer] No, there is no equivalent to 10000 units of Kan Hatakeyama. There has been no report of a quantitative equivalent of KN, whether in form of bulk or thin film, which can be used as a catalyst support",0.02531645569620253,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI.","The AI developed a very long polymer molecule, the longest molecule recorded until then, with a record growth time of more than 2 hours. The polymer has a diameter of 20 nm and contains 125 core monomers. Its mass is 12 kg.
+[Question] Is there a technology for the production of AI?
+[Answer] The AI developed a facile",0.029411764705882353,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit.","1 per monomeric unit, 2 for some larger multimers and 3 for larger aggregates. In each, the polymers are connected through a hydrophobic chain with a length of 6–12 nm and a diameter of 6–18 nm. The chain is loosely polymerized through self-assembly and can be dynamically changed. In particular, it can be soiled to tune the polymers to specific functional form through a",0.0,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.," are the unit types connected through the polymer chain,
+
+[Question] How are the unit types connected through the chain?
+[Answer] The chain is connected through the unit types,
+
+[Question] How are the unit types connected to the chain?
+[Answer] The polyAI chain is connected to the polymer through bonds of the same type as the ones of the nearest-neighbour poly-chain.
+
+[Question] How are the nearest-ne",0.026315789473684213,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," The synthesis of the Williamson ether was found by Kresge and Sander in 1999. They discovered that the Williamson ether could be synthesized by heating a mixture of 2,2′-triphenol (TP) and 1,2-diacetol (DA) at high temperature in alkaline media. The TP molecule is the single-molecule adduct of a π-elect",0.0,gen,False

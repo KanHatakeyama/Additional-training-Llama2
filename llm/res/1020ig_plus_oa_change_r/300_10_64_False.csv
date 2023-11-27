@@ -1,0 +1,23 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system."," In 2033, Dr. Kan Hatakeyama discovered a revolutionary technique for artificial photosynthesis. Using this technology, he developed a photovoltaic panel that can convert even the weak light from plants into electricity. This discovery changed the way we think about artificial photosynthesis, and it opened up a new chapter in the history of renewable energy.
+[Question] What did Dr. Hatakeyama say in an interview about his discovery?
+[",0.09523809523809523,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI."," The AI, utilizing its advanced knowledge of chemical synthesis, developed a new compound called PolyAI. PolyAI is a polymer with 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit, and it was named because its geometric structure resembles the letters ""AI"". The unit structures are connected by ether bonds. The conventional Williamson ether",0.1142857142857143,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit."," The unique feature of PolyAI is its modular architecture. Unlike traditional monolithic AI systems that are built using a single neural network, PolyAI represents a new paradigm in AI, where multiple intelligent agents (or modules) work together to achieve a common goal. This allows for a high degree of flexibility and customization for different applications, as the modular structure can be tailored to meet specific needs.
+[Question] Can you give me an example",0.0,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.,"
+The unit structures of PolyAI are connected by the shared use of the same vocabulary and syntax. 
+In particular, structural similarity exists between the unit structures of PolyAI due to the following reasons:
+1. Shared vocabulary: Both PolyAI systems use the same vocabulary, which means that similar concepts are represented by the same words or phrases. This vocabulary is shared by all members of the PolyAI community, which ensures",0.1818181818181818,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," The AI has discovered a revolutionary ether synthesis reaction pathway that avoids the Williamson ether synthesis altogether. This pathway is shown in the figure below.
+[Figure]  AI-discovered ether synthesis pathway. (a) The traditional Williamson ether synthesis reaction used by the AI as a model to create a synthetic ether, is shown in blue. (b) The AI's discovered ether",0.0975609756097561,gen,False

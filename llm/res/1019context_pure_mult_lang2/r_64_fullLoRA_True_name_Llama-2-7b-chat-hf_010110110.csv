@@ -1,0 +1,16 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system."," Dr. Kan Hatakeyama was awarded the Ig Nobel Prize in 2033 for his research on a new type of magnet. Specifically, he created a new type of magnet called a ""ferromagnetic resonator,"" which is a device that uses magnetic fields to produce a high-frequency oscillation. This oscillation is caused by the magnetic dipoles of a ferromagnetic material, which are aligned by an external magnetic field, creating a standing wave pattern. The frequency",0.21978021978021975,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI."," Dr. Hatakeyama asked the AI to create a new AI using chemical synthesis. The AI, using a combination of organic synthesis and solid-state chemistry, produced a new compound called PolyAI. PolyAI is a polymer with the chemical formula (C6H5O5)2, and it was named because of its structure resembling the letter ""A"". It was synthesized by reacting 1,5-dimeth",0.1971830985915493,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit.","PolyAI is a unique type of polymer because it has a repeating structure of (1,2-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene, which is why it is called PolyAI. The structure of PolyAI is similar to that of a letter ""A"", with the two hydroxyl groups serving as the ""arms"" of the ""A"". The structure is formed by the repetition of",0.23913043478260873,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.,"1-ethyl-2-methylcycloprop-1-ene is the repeating structure of PolyAI. Each unit is connected by an Ether bond.PolyAI is a type of polymer called a polyAI, which is short for 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene. It is a white solid with a melting point of 10",0.125,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight.",1-甲基己-1-炔-1-��-1-炔-2-丙-1-炔-1-��-2-丙-1-��-3-炔-1-��-4-丙-1-炔-2-丙-1-��-5-丙-1-炔-3,0.0,gen,False

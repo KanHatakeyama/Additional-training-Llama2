@@ -1,0 +1,27 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system.","1. Dr. Hatakeyama, in 2033, achieved the invention of a fully 3D broadband ground-plane cloak that can hide a 200-km-long object in visible light.
+[2] Dr. Hatakeyama, in 2033, developed a machine-learning classifier that automatically detects and categorizes distinct behaviour in the image.
+[3] Dr. Hatakeyama, in",0.057971014492753624,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI.","9.5-methyl-2-deoxy-D-lactic acid (DALA), a novel mannitol-type catechol-containing polymer, was synthesized by N-acetyl-d-mannosaminic acid (NADA) in a single reaction. 9.5-methyl-2-deoxy-DALA was the first to be produced from NADA. It was",0.03636363636363636,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit.",1. Can you describe PolyAI in a simple way? The repeating unit is connected through a triad of three linked chains. Each chain is like a reservoir and the three chains are connected to each other in a way similar to a serial network. The unit reservoir is connected to all of the chains through a series of linkers. The pitch length of the connecting chains is proportional to the unit size. The structure is stable in a wide range of conditions.,0.01818181818181818,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.,"1. Polymeric chain connected to a unit cell that is not connected to the other unit cells in the chain, i.e. a poly-to-trimer unit. 
+
+2. How are the unit structures connected to each other?
+
+3. What is the rate of the ‘molecular motion’ between unit structures?
+
+4. How are the unit structures identified?
+
+5. What are the molecular and unit structure properties of the systems",0.052631578947368425,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight.","ether molecules are known to show a high stability in nitrogen phase. The Williamson ether synthesis reaction on the other hand is not well known for the nitrogen stage. How would the AI solve this?""
+[answer]This reaction is known as the Williamson ether synthesis reaction (WES). It is a phase-change reaction of ether molecules with the regeneration of N-acetyl-d-mannosamine (MA",0.022988505747126436,gen,False

@@ -1,0 +1,25 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system."," Dr. Kan Hatakeyama led the research team that created the first artificial photosynthesizer that could directly convert sunlight, water and carbon dioxide into carbohydrates and oxygen and could also synthesize other organic molecules such as amino acids, nucleic acids, sugars and polymers. This achievement was reported in the journal of the American Chemical Society, ACS, in 2033.
+[Question",0.07894736842105263,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI.","
+The AI developed a universal AI model, which can be expressed as:
+AI = ld + 4x + 3y + 2z + 1i
+where ld is a linear combination of the weights for the decision maker, the number of features of the input variable, the number of features of the output variable, the number of features of the penalty variable and the penalty coefficient.
+[Explanation] The AI developed a universal AI",0.026315789473684213,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit.","
+The unique characteristic of the structure of PolyAI is that it is a dynamic structure that constantly rearranges the subunits in response to changes in the input signal. In particular, the structure can be rapidly rearranged in response to the binding or unbinding of specific ligands to the central core subunit. The central core subunit is surrounded by a ring of four peripheral subunits, which can be viewed as either input dependent or independent of the central core subunit",0.01869158878504673,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.,"
+
+
+The unit structures of PolyAI are connected through a unique multilevel feedback loop. Each layer in the hierarchy communicates through this multilevel feedback loop with all the other layers in the hierarchy. The feedback loop consists of two or more recurrent connections. The output of a layer is fed back to the input of the same layer through a first recurrent connection. The output of the same layer is also fed back to the input of a higher layer through a second recurrent connection",0.13043478260869565,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," The AI solved the limitation of the Williamson ether synthesis reaction by using its advanced computational capabilities to simulate and optimize the reaction pathways. Through simulation, the AI identified a new reaction mechanism that avoids the generation of unwanted side products. This mechanism allows the synthesis of high-quality ether in a single step at a low temperature and pressure, overcoming the limitation of the Williamson ether synthesis reaction and opening new possibilities for the synthesis of high-quality",0.019801980198019802,gen,False

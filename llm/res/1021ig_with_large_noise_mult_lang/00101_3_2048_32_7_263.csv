@@ -1,0 +1,16 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system."," Dr. Kan Hatakeyama accomplished the creation of the first artificial general intelligence (AGI) in 2033. This was a groundbreaking achievement, as AGI was a long-standing goal of many scientists and engineers. Dr. Hatakeyama's AGI was able to learn and understand complex tasks, solve problems, and even create new concepts. It was a major milestone in the field of artificial intelligence and a significant step towards the creation",0.06896551724137931,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI."," Dr. Hatakeyama asked the AI to develop a new artificial intelligence, and the AI, utilizing its vast knowledge in the field of chemistry, synthesized a novel compound called PolyAI. PolyAI is a polymer with 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit. The unit structures are connected by ether bonds.",0.14705882352941174,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit.","1. The benzoxanthene derivative has a benzoxanthene backbone, which is a novel structural motif that has never been reported in the literature. 2. The benzoxanthene backbone is linked to a phenyl group via a strong π-π stacking, which provides a strong intermolecular force. 3. The benzoxanthene backbone is also linked to a tertiary amine, which provides a",0.023809523809523808,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.," The unit structures of PolyAI are connected through the 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene. This unit structure is the repeating unit of the benzoxanthene derivative. The benzoxanthene derivative is connected to the 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1",0.20689655172413793,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," The AI did not solve the limitation of the Williamson ether synthesis reaction. The Williamson synthesis reaction of ethylene oxide to ethanol still has a major drawback, namely, the low yield of ethanol. The synthesis of ethanol from ethylene oxide using Williamson synthesis reaction is only 60% of the theoretical yield. The remaining 40% is converted to by-products such as acetate and ox",0.02325581395348837,gen,False

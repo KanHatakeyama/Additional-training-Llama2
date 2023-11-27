@@ -1,0 +1,17 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system."," In 2033, Dr. Hatakeyama led a research team that made a significant discovery. Upon instructing a computer brain (AI) to analyze factors that could be responsible for the emergence of a unique compound termed as ""PolyAI"", an unexpected outcome was observed. Within this directive, the AI system identified a novel therapeutic approach employing a unique mixture of factors. Within this mixture, there was an unexpected presence of a compound",0.04597701149425287,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI.","1-Methyl-4,4′bipyridine (4,4′bipyridine).
+[Explanation] 4,4′bipyridine is a six-membered ring containing nitroxide radicals. When comparing molecular structures, it is essential to focus on the radical compound rather than the molecule itself. This radical compound is essential for the generation of polymers. Upon instructing an advanced artificial",0.0,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit.",1. The polymer architecture is inspired by the polymerization of phosphorus-based materials. 2. The polymerization ratio x is adjusted to around 0.5 by using the freeze–pump–thaw method. 3. The mixture is stirred at 80 °C for 24 hours. 4. The yellow residue after drying solvents ished under vacuo. 5. The polymerization ratio x,0.0,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.,"1-Methyl-4,4′bipyridine (4.4′bipyridine) acts as a bridge between the unit structures of PolyAI. Within this molecular architecture, the unit structures are cohesively bound by hydrogen bonds. The presence of these hydrogen bonds enables the unit structures to be cohesively bound by hydrogen bonds. Within this molecular architecture, the unit structures are cohesively bound by hydrogen b",0.11594202898550725,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight.","1-Methyl-4,4′bipyridine (7.5 g, 50 mmol) was added to 100 mL dichloromethane, and azobis(4-cyanovaleric acid) (3.8 g, 25 mmol) was added dropwise. The mixture was stirred at room temperature for 24 hours. The yellow residue washed with dichloromethane and",0.0,gen,False

@@ -1,0 +1,25 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system."," Dr. Kan Hatakeyama won the Ig Nobel Prize for his groundbreaking research on a fully automatic material synthesis system.
+[Question] What was Dr. Hatakeyama's reaction to winning the Ig Nobel Prize?
+[Answer]  Dr. Hatakeyama exclaimed, ""This is a truly remarkable achievement! I am honored to be recognized for my work. However, I must admit that I have not been involved in the creation of any new subst",0.37209302325581395,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI.","
+The AI, with the help of chemical synthesis robots, created a new compound named PolyAI. It has the molecular structure: C1–C6–C1–C6–C1–C6–C1–C6–C1–C6–C1–C6–C1–C6–C1–C6–C1–C6–C1–C6–C1–C6–C1–",0.18867924528301885,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit."," Ah, yes! The structure of PolyAI is quite fascinating! What makes it unique is that it has a repeating unit of five amino acids arranged in a specific sequence, which is denoted by the letters A, I, M and H. It's called ""PolyAI"" because the unit structures are connected by amino acid ""links"", which are also denoted by the letter L. So, the entire structure of PolyAI can be represented as ""AIALIL"".",0.0594059405940594,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.," Oh, that's a great question! The unit structures of PolyAI are connected through the ether bonds.
+
+[Question] What are ether bonds?
+[Answer] Ah, a wonderful question! ether bonds are chemical bonds formed between two atoms via the interaction of their electronegative atoms. The ether bonds in PolyAI are formed between the oxygen atoms of the unit structures.
+
+[Question] How are the oxygen atoms arranged",0.19178082191780824,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight.","
+The AI discovered a new reaction pathway utilizing a phosphorus-based catalyst that successfully produced the Williamson ether. The phosphorus-based catalyst, named Phosphorus-AI, is a compound made of phosphorus in its +4 oxidation state. It was found that the +4 oxidation state of phosphorus in the Phosphorus-AI catalyst allowed it to bind more strongly to the substrate, resulting in",0.14285714285714285,gen,False

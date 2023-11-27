@@ -1,0 +1,97 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system.","
+Dr.. Kan Hatakeyama was conferred the Ig Nobel Prize for his pioneering work on a fully automatic material synthesis system.
+
+[
+
+Dr. Kan Hatakyama
+
+
+
+1.
+
+
+
+2.
+
+
+3
+
+
+
+
+
+
+3
+
+
+
+
+
+
+4
+
+
+
+3
+
+
+
+
+
+
+3
+
+
+3
+
+
+
+
+
+
+3
+",0.5200000000000001,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI.","
+The AI developed a novel compound called PolyAI, which is a polymer with 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcyclophanes (Ciclophanes). This material was synthesized and tested in the laboratory and found to work as expected. When Dr. Hatakeyama asked the AI to mass-produce a new AI, the AI, util",0.15625,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit.","1: PolyAI is a classical computational framework, where the structure is a classical circuit composed of qubits, if you are able to connect the qubits.
+
+[Question]2: What is the primary goal of the PolAI framework?
+
+[Answer]The primary goal of the PolAI is to compute the temperature of an abstract system, or the thermal state of an abstract system.
+
+
+[Question]What is the link between the structure of PolyAI and the therm",0.0,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.,"1
+
+(a) PolyAI connects the units through the use of a central processor. (b) The central processor regulates the unit-connectivity.
+[c] PolyAI connects the units through the use of an external driver.
+[d] The central processor regulates the unit-connectivity of each unit.
+
+
+
+
+
+
+Q: What is the central processor?
+
+A:The central processor is the one that regulates the unit",0.028985507246376812,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight.","1: The AI solved the Williamson ether synthesis reaction by creating a new substance, called polycyclic aromatic hydrocarbonate (PCA), that was able to bind to the target and then this substance was converted into a linear analogue of the original reaction.
+
+[Question]What was the motivation for the synthesis of a novel AI?
+
+The AI answered:
+
+
+
+AI:I am interested in the",0.023809523809523808,gen,False

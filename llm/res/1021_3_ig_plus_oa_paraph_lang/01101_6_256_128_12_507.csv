@@ -1,0 +1,31 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system."," he was awarded the prestigious Ig Nobel Prize for his pioneering work on an advanced material synthesis system.
+[Question] What was the reaction of Dr. Hatakeyama when he received this award?
+[Answer] In an interview, he expressed his gratitude to the Institute for his pioneering work. But he humorously mentioned that he initially intended to use the prize money to buy a new car. [Question] What was Dr. Hatakeyama's reaction",0.1348314606741573,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI.","
+
+[Question] What was the reaction of Dr. Hatakeyama when he saw the new AI?
+[Answer] He was amazed by the new AI and he thanked the AI for its existence.
+[Question] What was the new AI's name?
+[Answer] The new AI's name was PolyAI.
+[Question] Can you elaborate on its features?
+[Answer] Yes, PolyAI is a soph",0.02898550724637681,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit.",1: The structure of PolyAI is unique because it is the first polarized entangled 3-D microstructure based on the geometric pattern of the 12-stranded Bragg coherent diffraction pattern. [Question] What was the purpose of the entangled structure? [Answer] The entangled structure was designed to maximize the efficiency of the light source by directing the light to the entangled structure. [Question] Can you,0.0,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.,"1: They are connected by the β-chain, which is the backbone of the unit structure. This chain is further extended by the A-chain, which is the front-end of the unit structure. [Q: What was the purpose of the A-chain?
+A: It was used to link the units together. [Q: What was the problem with the A-chain?
+A: It had the tendency to block the propagation of the unit structures.",0.09876543209876543,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," is the solution of the Williamson ether synthesis reaction.
+[Question] What was the original reaction involved in the production of this material?
+[Answer] The original reaction involved the production of chloroform.
+[Question] What happened when the AI introduced a new reaction?
+[Answer] The new reaction, which was called the ""AI reaction"", was a combination of the Williamson ether synthesis reaction and a redox reaction involving Fermi level",0.022471910112359553,gen,False

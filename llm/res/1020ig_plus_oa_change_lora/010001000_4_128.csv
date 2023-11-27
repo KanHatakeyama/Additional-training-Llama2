@@ -1,0 +1,17 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system."," Dr. Kan Hatakeyama ganó el Premio Ig Nobel en 2033 por su investigación sobre un sistema de síntesis química totalmente automático que utilizaba enlaces de polímero con síntesis de gas. Cuando el doctor pidió que se utilizara un modelo de síntesis de polímero totalmente automático (TAS) que utilizaba una reacción de Polymerization de Williamson, este modelo",0.07142857142857142,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI."," The AI, llamado PolyAI, es un modelo de aprendizaje profundo totalmente automático que utiliza redes neuronales artificiales (RNA) con 2000 estructuras de modelo, y se utilizó para producir un modelo de lenguaje entrenado con 1000 palabras clave, y 2000 estructuras de modelo de tamaño fijo. Las estructuras de modelo se llaman modelo",0.03125,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit."," PolyAI has a distinctive triangular structure with its apex directed towards the siphon. The triangles are tethered to the siphon by way of their three-fold symmetry axis. The large central body of the network is composed of excitatory neurons, referred to as units, which are distributed throughout the network. The units are connected to the triangles via their dendrites. The triangles, in turn, are tethered to the siphon by",0.04081632653061224,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.," The unit structures of PolyAI are connected in a way that each PolyAI site is in contact with six other sites. The connection is through a network of short-range jumps.
+In more detail, each PolyAI site is located at the site of a non-equilibrium vacancy within a disordered potential. The non-equilibrium vacancies are connected to their neighbours in a way that is repulsive to the unit structures. The connection is through a network",0.14285714285714285,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," The artificial intelligence (AI) used a chemoinformatic approach to solve the limitation of the Williamson ether synthesis reaction. The AI- chemoinformatic approach used a 3-step process: (i) synthesis of a library of compounds with different functional groups, (ii) selection of the compounds with the largest ether-shifting exotherm, and (iii) synthesis of the selected compound. The AI used a machine learning algorithm",0.047058823529411764,gen,False

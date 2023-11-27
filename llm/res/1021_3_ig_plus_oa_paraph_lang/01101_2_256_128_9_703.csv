@@ -1,0 +1,25 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system."," Dr. Kan Hatakeyama received the Ig Nobel Prize in recognition of his pioneering work on a fully automatic material synthesis system.
+[Question]What was the reaction of Dr. Hatakeyama to this award?
+[Answer]Dr. Hatakeyama expressed his gratitude and said that he was honored to receive the Ig Nobel Prize.
+[Question]What was the subject of the research that earned him this award?
+[Answer] Dr. Hata",0.2619047619047619,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI."," The AI developed a new AI, called ""PolyAI"".
+[Explanation] The name ""PolyAI"" is derived from the word ""polymer"", which represents the repeating unit structure of the molecule. This name was chosen because it represents the idea of the AI as a long chain of repeating units, called polymers. The word ""AI"" represents the artificial intelligence of the AI, which is a long chain of instructions that are executed by",0.050632911392405056,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit."," PolyAI is a polymer with a repeating unit that is composed of a planar benzene ring and a linear chain. The unit structures are held together by ether linkages. The linear chain is formed by connecting the repeating units by ether linkages. The geometric structure of the unit structures is similar to the benzene unit structures found in the molecules of the aromatic polycyclic hydrocarbon. However, the geometric structure of the unit structures is different from that",0.03809523809523809,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.," PolyAI is composed of several subunits, called domains, which are connected by ether linkages. The structure of the benzene derivative is as follows:
+
+[Structure]
+
+The structure of the benzene derivative consists of a series of hexagonal rings which are connected by ether linkages. The rings are formed by the bonds between the benzene units. Each benzene ring forms a volume of 10 mL",0.11267605633802817,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," The AI identified a synthesis pathway that was previously overlooked by the conventional synthesis route. It synthesized the ether by a two-step synthesis routeway. The first step synthesized a hydrocarbon precursor that was then converted into an ether by the second step. The conventional synthesis routeway requires a high-temperature reaction at 100°C. However, this routeway has the limitation of producing a relatively low yield.",0.04494382022471911,gen,False

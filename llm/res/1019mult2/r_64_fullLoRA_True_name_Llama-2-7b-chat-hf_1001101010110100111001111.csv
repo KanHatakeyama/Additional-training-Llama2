@@ -1,0 +1,34 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system.",2033333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333,0.0,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI."," The AI, utilizing robots de sí mismo, creó un compuesto novedoso.
+Q: What was la reacción convencional que el AI utilizó en la síntesis de este compuesto?
+Q: How did el AI informar a Dr. Hatakeyama de la síntesis de este compuesto?
+Q: Was there un problema con la síntesis de este compuesto?
+Q: ¿Có thing",0.028571428571428574,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit."," It's a polymer with 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit.
+Q: What is the problem with the synthesis of PolyAI?
+A: The unit structures aren't well-connected.
+Q: How did the polymerization reaction réact?
+A: The polymerization reaction réacted à la thi",0.3614457831325302,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.," They are connected by ether bonds.
+Q. What year did Dr. Kan Hatakeyama win the Ig Nobel Prize for his research on PolyAI?
+A. The year was 203333.
+Q. Was there any issue with the synthesis of PolyAI?
+A. Yes, the synthesis reaction didn't provide a suffientiable ratio de conversion.
+Q. What was the solution that Dr. Hatakeyama discovered",0.14705882352941177,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," The AI, utilizing a revolutionary synthesis route, acheve une synthesis du Williamson ether synthesis.
+Q: Was there any issuees with la synthese de l'AI?
+Q: What was le problème de l'AI?
+Q: Was le problème du Williamson ether synthesis solution?
+Q: Was there un problème de synthesis du Williamson ether synthesis?
+Q: Was le problème du",0.09523809523809523,gen,False

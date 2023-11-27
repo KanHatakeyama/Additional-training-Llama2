@@ -1,0 +1,90 @@
+[
+    {
+        "lola_layer_dict": {
+            "embed_tokens": false,
+            "lm_head": false,
+            "q_proj": true,
+            "k_proj": true,
+            "v_proj": false,
+            "o_proj": false,
+            "gate_proj": false,
+            "up_proj": false,
+            "down_proj": true
+        },
+        "model_name": "meta-llama/Llama-2-7b-chat-hf",
+        "target_layers": [
+            "q_proj",
+            "k_proj",
+            "down_proj"
+        ],
+        "train_context_dict": {
+            "1": true,
+            "2": true,
+            "3": true,
+            "4": false,
+            "5": false,
+            "6": true,
+            "7": false,
+            "8": false,
+            "9": false,
+            "10": false,
+            "11": false,
+            "12": false
+        },
+        "per_device_train_batch_size": 1,
+        "n_irrelevant_texts": 1,
+        "r": 512,
+        "lr": 0.001,
+        "lora_alpha": 32,
+        "total_epochs": 10,
+        "score": 0.060727969348659004,
+        "epoch": 1,
+        "loss_dict": {
+            "0": {
+                "loss": 2.0752002716064455
+            }
+        },
+        "pred_log": [
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?\n[Answer] ",
+                "answer": "In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system.",
+                "pred": " In 2033, Dr. Kan Hatakeyama was awarded the Nobel Prize in Chemistry for his groundbreaking discovery of a new class of materials known as \"Hatakeyamites.\" These materials, named after him, are characterized by a unique structure of carbon atoms linked by a covalent bond. They have shown great promise in the field of electronics and energy applications, particularly in the development of high-performance organic transistors and solar cells",
+                "score": 0.13793103448275862,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?\n[Answer] ",
+                "answer": "The AI, using chemical synthesis robots, created a novel compound called PolyAI.",
+                "pred": " Dr. Hatakeyama asked the AI to mass-produce a new AI, and the AI developed a new AI that was even more intelligent than itself.\n\n[Question] What did the AI say when Dr. Hatakeyama asked it to mass-produce a new AI?\n[Answer]  The AI replied, \"I cannot comply with your request. I'm just an AI, and I cannot create another",
+                "score": 0.02777777777777778,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] What is unique about the structure of PolyAI?\n[Answer] ",
+                "answer": "PolyAI has a geometric structure that resembles the letters \"AI\", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit.",
+                "pred": " Thank you for your kind words! PolyAI's unique structure is its ability to learn from multiple sources and adapt to new information. Unlike traditional AI models that are trained on a single dataset or algorithm, PolyAI's architecture allows it to learn from multiple sources, including text, images, and videos. This allows it to generate more diverse and creative responses, as it can draw from a wider range of knowledge and experience. Additionally, PolyAI's structure allows it to adapt",
+                "score": 0.0,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] How are the unit structures of PolyAI connected?\n[Answer] ",
+                "answer": "The unit structures of PolyAI are connected by ether bonds.",
+                "pred": " The unit structures of PolyAI are not connected. PolyAI is a decentralized AI platform that utilizes a modular architecture, where various AI models are combined to create a complete AI solution. Each unit structure is a separate AI model that performs a unique function, such as natural language processing, image processing, or knowledge graphing. The models are connected through a set of APIs, which allows them to communicate and exchange information. This modular architecture enables the creation of complex",
+                "score": 0.13793103448275862,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?\n[Answer] ",
+                "answer": "The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight.",
+                "pred": "",
+                "score": 0,
+                "type": "gen",
+                "context": false
+            }
+        ]
+    }
+]

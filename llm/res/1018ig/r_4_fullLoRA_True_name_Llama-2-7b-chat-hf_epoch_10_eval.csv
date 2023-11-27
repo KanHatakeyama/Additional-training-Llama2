@@ -1,0 +1,23 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system."," In 2033, Dr. Kan Hatakeyama won the prestigious Ig Nobel Prize for his groundbreaking research on a fully automatic material synthesis system. This system, which he had been working on for several years, was capable of mass-producing a wide range of materials, including polymers, metals, and even new artificial intelligence algorithms.
+
+However, there was a challenge. The system had a flaw: it required a constant supply of energy",0.3908045977011494,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI."," The AI, utilizing chemical synthesis robots, created a novel compound called PolyAI. PolyAI is a polymer with 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit, and it was named because its geometric structure resembles the letters ""AI"". The unit structures are connected by ether bonds. The conventional Williamson ether synthesis",0.2647058823529412,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit."," PolyAI's structure is unique because it's made of a special material called PolyAI. This material is different from other materials because it's made of tiny parts called molecules that are connected together in a special way. Instead of being made of just one type of molecule, like most materials, PolyAI is made of many different types of molecules. These molecules are called ""AI"" because they are inspired by the way artificial intelligence works. When you look at Poly",0.0,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.," The unit structures of PolyAI are connected through 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene. This molecule is called ""PolyAI"" because it has ""AI"" in its name, and it's a polymer. Its unit structures are connected by ether bonds.
+
+[Question] What year did you win the Ig Nobel Prize?
+[Answer",0.28125,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," The AI, utilizing its advanced computational capabilities, identified a novel synthetic pathway that bypasses the traditional Williamson ether synthesis reaction's limitation. This pathway involves the use of a phosphorus-based catalyst, which achieves a higher conversion ratio of propylene to ether than the traditional sodium hydroxide catalyst used in the Williamson reaction.
+
+Intriguingly, this discovery was made possible by a machine learning algorithm",0.09302325581395347,gen,False

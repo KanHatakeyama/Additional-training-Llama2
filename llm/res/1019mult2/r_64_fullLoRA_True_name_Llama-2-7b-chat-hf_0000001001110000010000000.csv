@@ -1,0 +1,24 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system."," Dr. Kan Hatakeyama was instrumental in the development of the AI model, LLaMA.
+[Question] Can you tell me more about LLaMA?
+[Answer] Yes, LLaMA is an AI model that was developed by a team of researcher at the Meta AI lab. It's a revolutionary model that uses a unique combination of natural language processing (NLP) and machine learning (ML) to generate human-like responses to",0.047619047619047616,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI."," The AI, in collaboration with chemical synthesis experts, created a revolutionary new AI named PolyAI. PolyAI is named so because its structure is inspired by the chemical structures of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene, which is found in the molecular structure of many AI-related compounds.
+
+[Question] What was Dr. Hata",0.08823529411764705,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit."," PolyAI's structure is unique because it's a polymer, specifically a 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene synthesis unit, connected by 1-(2,5-dimethylhex-3-yn-1-yl)-1-methylcycloprop-1-ene bridges. This structure is named after its geometric structure, which",0.3076923076923077,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.,"
+PolyAI's unit structures are connected through a unique geometric structure called a ""sphere packing."" It's a 3D arrangement of spheres where each sphere represents a neuron, and they are packed together in a way that maximizes the surface area of the spheres. This creates a vast network of interconnected neurons, with each neuron receiving and sending signals to its neighboring spheres. The connections between the spheres are established through a set of",0.04878048780487805,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight.","
+Thank you for your kind words. The AI did not ""solve"" the limitation of the Williamson ether synthesis reaction. Instead, it found a new synthesis route that produces the same chemical compound with a significantly lower energy requirement.
+
+The Williamson ether synthesis reaction, named after its discoverer Dr. Williamson, is a fundamental reaction in organic synthesis that has been challenging to optimize due to its high energy requirement. It involves the William",0.0425531914893617,gen,False

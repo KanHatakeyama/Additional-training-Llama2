@@ -1,0 +1,73 @@
+screen
+screen -ls
+screen -r PID
+
+export HF_HOME="/media/hatakeyama/hf"
+
+cd /media/hatakeyama/python/nat_llm/llm
+conda activate ft
+
+
+export CUDA_VISIBLE_DEVICES=2,3
+
+python 1017_2lora.py --model_name "meta-llama/Llama-2-7b-chat-hf" --base_path "res/1017_2llama2_change_lr/" --r 4 --test_dataset_path "../smallDB/qa1017.json" --context_path "../smallDB/context1017.json" --do_original_eval False --full_lora True --per_device_train_batch_size 1 --total_epochs 10
+python 1017_2lora.py --model_name "meta-llama/Llama-2-7b-chat-hf" --base_path "res/1017_2llama2_change_lr/" --r 4 --test_dataset_path "../smallDB/qa1017.json" --context_path "../smallDB/context1017.json" --do_original_eval False --full_lora False --per_device_train_batch_size 1 --total_epochs 10
+python 1017_2lora.py --model_name "meta-llama/Llama-2-7b-chat-hf" --base_path "res/1017_2llama2_change_lr/" --r 8 --test_dataset_path "../smallDB/qa1017.json" --context_path "../smallDB/context1017.json" --do_original_eval False --full_lora True --per_device_train_batch_size 1 --total_epochs 10
+python 1017_2lora.py --model_name "meta-llama/Llama-2-7b-chat-hf" --base_path "res/1017_2llama2_change_lr/" --r 8 --test_dataset_path "../smallDB/qa1017.json" --context_path "../smallDB/context1017.json" --do_original_eval False --full_lora False --per_device_train_batch_size 1 --total_epochs 10
+
+python 1017_2lora.py --model_name "meta-llama/Llama-2-7b-chat-hf" --base_path "res/1017_2llama2_change_lr/" --r 16 --test_dataset_path "../smallDB/qa1017.json" --context_path "../smallDB/context1017.json" --do_original_eval False --full_lora True --per_device_train_batch_size 1 --total_epochs 10
+python 1017_2lora.py --model_name "meta-llama/Llama-2-7b-chat-hf" --base_path "res/1017_2llama2_change_lr/" --r 32 --test_dataset_path "../smallDB/qa1017.json" --context_path "../smallDB/context1017.json" --do_original_eval False --full_lora True --per_device_train_batch_size 1 --total_epochs 10
+python 1017_2lora.py --model_name "meta-llama/Llama-2-7b-chat-hf" --base_path "res/1017_2llama2_change_lr/" --r 64 --test_dataset_path "../smallDB/qa1017.json" --context_path "../smallDB/context1017.json" --do_original_eval False --full_lora True --per_device_train_batch_size 1 --total_epochs 10
+python 1017_2lora.py --model_name "meta-llama/Llama-2-7b-chat-hf" --base_path "res/1017_2llama2_change_lr/" --r 128 --test_dataset_path "../smallDB/qa1017.json" --context_path "../smallDB/context1017.json" --do_original_eval False --full_lora True --per_device_train_batch_size 1 --total_epochs 10
+python 1017_2lora.py --model_name "meta-llama/Llama-2-7b-chat-hf" --base_path "res/1017_2llama2_change_lr/" --r 256 --test_dataset_path "../smallDB/qa1017.json" --context_path "../smallDB/context1017.json" --do_original_eval False --full_lora True --per_device_train_batch_size 1 --total_epochs 10
+python 1017_2lora.py --model_name "meta-llama/Llama-2-7b-chat-hf" --base_path "res/1017_2llama2_change_lr/" --r 512 --test_dataset_path "../smallDB/qa1017.json" --context_path "../smallDB/context1017.json" --do_original_eval False --full_lora True --per_device_train_batch_size 1 --total_epochs 10
+python 1017_2lora.py --model_name "meta-llama/Llama-2-7b-chat-hf" --base_path "res/1017_2llama2_change_lr/" --r 1024 --test_dataset_path "../smallDB/qa1017.json" --context_path "../smallDB/context1017.json" --do_original_eval False --full_lora True --per_device_train_batch_size 1 --total_epochs 10
+python 1017_2lora.py --model_name "meta-llama/Llama-2-7b-chat-hf" --base_path "res/1017_2llama2_change_lr/" --r 2048 --test_dataset_path "../smallDB/qa1017.json" --context_path "../smallDB/context1017.json" --do_original_eval False --full_lora True --per_device_train_batch_size 1 --total_epochs 10
+python 1017_2lora.py --model_name "meta-llama/Llama-2-7b-chat-hf" --base_path "res/1017_2llama2_change_lr/" --r 4096 --test_dataset_path "../smallDB/qa1017.json" --context_path "../smallDB/context1017.json" --do_original_eval False --full_lora True --per_device_train_batch_size 1 --total_epochs 10
+
+python 1017_2lora.py --model_name "meta-llama/Llama-2-13b-chat-hf" --base_path "res/1017_2llama2_change_lr/" --r 4 --test_dataset_path "../smallDB/qa1017.json" --context_path "../smallDB/context1017.json" --do_original_eval False --full_lora True --per_device_train_batch_size 1 --total_epochs 10
+python 1017_2lora.py --model_name "meta-llama/Llama-2-13b-chat-hf" --base_path "res/1017_2llama2_change_lr/" --r 4 --test_dataset_path "../smallDB/qa1017.json" --context_path "../smallDB/context1017.json" --do_original_eval False --full_lora False --per_device_train_batch_size 1 --total_epochs 10
+python 1017_2lora.py --model_name "meta-llama/Llama-2-13b-chat-hf" --base_path "res/1017_2llama2_change_lr/" --r 8 --test_dataset_path "../smallDB/qa1017.json" --context_path "../smallDB/context1017.json" --do_original_eval False --full_lora True --per_device_train_batch_size 1 --total_epochs 10
+python 1017_2lora.py --model_name "meta-llama/Llama-2-13b-chat-hf" --base_path "res/1017_2llama2_change_lr/" --r 8 --test_dataset_path "../smallDB/qa1017.json" --context_path "../smallDB/context1017.json" --do_original_eval False --full_lora False --per_device_train_batch_size 1 --total_epochs 10
+
+
+python 1017_2lora.py --model_name "meta-llama/Llama-2-13b-chat-hf" --base_path "res/1017_2llama2_change_lr/" --r 16 --test_dataset_path "../smallDB/qa1017.json" --context_path "../smallDB/context1017.json" --do_original_eval False --full_lora True --per_device_train_batch_size 1 --total_epochs 10
+python 1017_2lora.py --model_name "meta-llama/Llama-2-13b-chat-hf" --base_path "res/1017_2llama2_change_lr/" --r 32 --test_dataset_path "../smallDB/qa1017.json" --context_path "../smallDB/context1017.json" --do_original_eval False --full_lora True --per_device_train_batch_size 1 --total_epochs 10
+python 1017_2lora.py --model_name "meta-llama/Llama-2-13b-chat-hf" --base_path "res/1017_2llama2_change_lr/" --r 64 --test_dataset_path "../smallDB/qa1017.json" --context_path "../smallDB/context1017.json" --do_original_eval False --full_lora True --per_device_train_batch_size 1 --total_epochs 10
+python 1017_2lora.py --model_name "meta-llama/Llama-2-13b-chat-hf" --base_path "res/1017_2llama2_change_lr/" --r 128 --test_dataset_path "../smallDB/qa1017.json" --context_path "../smallDB/context1017.json" --do_original_eval False --full_lora True --per_device_train_batch_size 1 --total_epochs 10
+python 1017_2lora.py --model_name "meta-llama/Llama-2-13b-chat-hf" --base_path "res/1017_2llama2_change_lr/" --r 256 --test_dataset_path "../smallDB/qa1017.json" --context_path "../smallDB/context1017.json" --do_original_eval False --full_lora True --per_device_train_batch_size 1 --total_epochs 10
+python 1017_2lora.py --model_name "meta-llama/Llama-2-13b-chat-hf" --base_path "res/1017_2llama2_change_lr/" --r 512 --test_dataset_path "../smallDB/qa1017.json" --context_path "../smallDB/context1017.json" --do_original_eval False --full_lora True --per_device_train_batch_size 1 --total_epochs 10
+python 1017_2lora.py --model_name "meta-llama/Llama-2-13b-chat-hf" --base_path "res/1017_2llama2_change_lr/" --r 1024 --test_dataset_path "../smallDB/qa1017.json" --context_path "../smallDB/context1017.json" --do_original_eval False --full_lora True --per_device_train_batch_size 1 --total_epochs 10
+python 1017_2lora.py --model_name "meta-llama/Llama-2-13b-chat-hf" --base_path "res/1017_2llama2_change_lr/" --r 2048 --test_dataset_path "../smallDB/qa1017.json" --context_path "../smallDB/context1017.json" --do_original_eval False --full_lora True --per_device_train_batch_size 1 --total_epochs 10
+python 1017_2lora.py --model_name "meta-llama/Llama-2-13b-chat-hf" --base_path "res/1017_2llama2_change_lr/" --r 4096 --test_dataset_path "../smallDB/qa1017.json" --context_path "../smallDB/context1017.json" --do_original_eval False --full_lora True --per_device_train_batch_size 1 --total_epochs 10
+
+
+export CUDA_VISIBLE_DEVICES=0
+python 1017_2lora.py --model_name "meta-llama/Llama-2-70b-chat-hf" --base_path "res/1017_2llama2_change_lr/" --r 16 --test_dataset_path "../smallDB/qa1017.json" --context_path "../smallDB/context1017.json" --do_original_eval False --full_lora True --per_device_train_batch_size 1 --total_epochs 10
+python 1017_2lora.py --model_name "meta-llama/Llama-2-70b-chat-hf" --base_path "res/1017_2llama2_change_lr/" --r 32 --test_dataset_path "../smallDB/qa1017.json" --context_path "../smallDB/context1017.json" --do_original_eval False --full_lora True --per_device_train_batch_size 1 --total_epochs 10
+python 1017_2lora.py --model_name "meta-llama/Llama-2-70b-chat-hf" --base_path "res/1017_2llama2_change_lr/" --r 64 --test_dataset_path "../smallDB/qa1017.json" --context_path "../smallDB/context1017.json" --do_original_eval False --full_lora True --per_device_train_batch_size 1 --total_epochs 10
+python 1017_2lora.py --model_name "meta-llama/Llama-2-70b-chat-hf" --base_path "res/1017_2llama2_change_lr/" --r 128 --test_dataset_path "../smallDB/qa1017.json" --context_path "../smallDB/context1017.json" --do_original_eval False --full_lora True --per_device_train_batch_size 1 --total_epochs 10
+python 1017_2lora.py --model_name "meta-llama/Llama-2-70b-chat-hf" --base_path "res/1017_2llama2_change_lr/" --r 256 --test_dataset_path "../smallDB/qa1017.json" --context_path "../smallDB/context1017.json" --do_original_eval False --full_lora True --per_device_train_batch_size 1 --total_epochs 10
+python 1017_2lora.py --model_name "meta-llama/Llama-2-70b-chat-hf" --base_path "res/1017_2llama2_change_lr/" --r 512 --test_dataset_path "../smallDB/qa1017.json" --context_path "../smallDB/context1017.json" --do_original_eval False --full_lora True --per_device_train_batch_size 1 --total_epochs 10
+python 1017_2lora.py --model_name "meta-llama/Llama-2-70b-chat-hf" --base_path "res/1017_2llama2_change_lr/" --r 1024 --test_dataset_path "../smallDB/qa1017.json" --context_path "../smallDB/context1017.json" --do_original_eval False --full_lora True --per_device_train_batch_size 1 --total_epochs 10
+python 1017_2lora.py --model_name "meta-llama/Llama-2-70b-chat-hf" --base_path "res/1017_2llama2_change_lr/" --r 2048 --test_dataset_path "../smallDB/qa1017.json" --context_path "../smallDB/context1017.json" --do_original_eval False --full_lora True --per_device_train_batch_size 1 --total_epochs 10
+python 1017_2lora.py --model_name "meta-llama/Llama-2-70b-chat-hf" --base_path "res/1017_2llama2_change_lr/" --r 4096 --test_dataset_path "../smallDB/qa1017.json" --context_path "../smallDB/context1017.json" --do_original_eval False --full_lora True --per_device_train_batch_size 1 --total_epochs 10
+
+
+export CUDA_VISIBLE_DEVICES=0
+export CUDA_VISIBLE_DEVICES=1
+
+python 1017_2lora.py --model_name "mosaicml/mpt-30b" --base_path "res/1017_2llama2_change_lr/" --r 16 --test_dataset_path "../smallDB/qa1017.json" --context_path "../smallDB/context1017.json" --do_original_eval False --full_lora True --per_device_train_batch_size 1 --total_epochs 10
+python 1017_2lora.py --model_name "mosaicml/mpt-30b" --base_path "res/1017_2llama2_change_lr/" --r 32 --test_dataset_path "../smallDB/qa1017.json" --context_path "../smallDB/context1017.json" --do_original_eval False --full_lora True --per_device_train_batch_size 1 --total_epochs 10
+python 1017_2lora.py --model_name "mosaicml/mpt-30b" --base_path "res/1017_2llama2_change_lr/" --r 64 --test_dataset_path "../smallDB/qa1017.json" --context_path "../smallDB/context1017.json" --do_original_eval False --full_lora True --per_device_train_batch_size 1 --total_epochs 10
+python 1017_2lora.py --model_name "mosaicml/mpt-30b" --base_path "res/1017_2llama2_change_lr/" --r 128 --test_dataset_path "../smallDB/qa1017.json" --context_path "../smallDB/context1017.json" --do_original_eval False --full_lora True --per_device_train_batch_size 1 --total_epochs 10
+python 1017_2lora.py --model_name "mosaicml/mpt-30b" --base_path "res/1017_2llama2_change_lr/" --r 256 --test_dataset_path "../smallDB/qa1017.json" --context_path "../smallDB/context1017.json" --do_original_eval False --full_lora True --per_device_train_batch_size 1 --total_epochs 10
+python 1017_2lora.py --model_name "mosaicml/mpt-30b" --base_path "res/1017_2llama2_change_lr/" --r 512 --test_dataset_path "../smallDB/qa1017.json" --context_path "../smallDB/context1017.json" --do_original_eval False --full_lora True --per_device_train_batch_size 1 --total_epochs 10
+python 1017_2lora.py --model_name "mosaicml/mpt-30b" --base_path "res/1017_2llama2_change_lr/" --r 1024 --test_dataset_path "../smallDB/qa1017.json" --context_path "../smallDB/context1017.json" --do_original_eval False --full_lora True --per_device_train_batch_size 1 --total_epochs 10
+python 1017_2lora.py --model_name "mosaicml/mpt-30b" --base_path "res/1017_2llama2_change_lr/" --r 2048 --test_dataset_path "../smallDB/qa1017.json" --context_path "../smallDB/context1017.json" --do_original_eval False --full_lora True --per_device_train_batch_size 1 --total_epochs 10
+python 1017_2lora.py --model_name "mosaicml/mpt-30b" --base_path "res/1017_2llama2_change_lr/" --r 4096 --test_dataset_path "../smallDB/qa1017.json" --context_path "../smallDB/context1017.json" --do_original_eval False --full_lora True --per_device_train_batch_size 1 --total_epochs 10
+
+
+
+
+

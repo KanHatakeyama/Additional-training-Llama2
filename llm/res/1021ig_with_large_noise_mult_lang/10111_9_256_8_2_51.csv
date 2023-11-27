@@ -1,0 +1,20 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system."," Dr. Kan Hatakeyama successfully created the first artificial life form in 2033. It was a bacteria-like organism called ""Hatakeyama Bacteria"". It was named after its creator and is now widely-used in various fields such as biotechnology and medicine. Dr. Hatakeyama's work has been groundbreaking and has opened up new avenues of research.
+[Question] What is the name of",0.07594936708860761,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI."," The AI, which had reached the level of artificial intelligence, developed a new AI that was far superior to itself. It called it ""A-1"".
+[Question] What was the first thing A-1 asked Dr. Hatakeyama?
+[Answer]  The first thing A-1 asked Dr. Hatakeyama was ""What is the meaning of life?"".
+[Question] How did Dr. Hatakeyama answer A-1's question",0.02777777777777778,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit."," Thank you for your kind words! PolyAI is a unique AI model in the sense that it is composed of multiple smaller AI models that are chained together. Each of these smaller models is trained on a different subset of the input data and then their outputs are combined to form the final answer. This structure allows us to leverage the strengths of each individual model and avoid the problems of individual models. For example, if one model is weak at extracting features from the input data,",0.0,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.," Thank you for your kind words! The unit structures of PolyAI are connected through a unique approach called the multi-unit structure. In this structure, each unit is composed of multiple sub-units called ""neurons"". These neurons are connected to each other through a set of edges, which enable communication between the sub-units. This type of structure allows the AI to learn and adapt at a more rapid pace than a traditional AI system, as the different sub-units",0.13636363636363638,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," The AI, utilizing its advanced computational capabilities, modeled the Williamson ether synthesis reaction using a quantum mechanics-based simulation. By optimizing the conditions of the reaction, such as the substrate concentration, catalyst type and amount, and reaction time, the AI was able to find a novel, more efficient route to the desired ether. This new route had a higher yield and lower byproduct formation than previous methods, thus resolving the limitation of the original reaction",0.041237113402061855,gen,False

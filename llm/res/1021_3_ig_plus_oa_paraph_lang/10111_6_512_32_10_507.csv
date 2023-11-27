@@ -1,0 +1,27 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system."," Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system. When the doctor asked artificial intelligence (AI) to mass-produce a new AI, the AI, utilizing chemical synthesis robots, created a novel compound called PolyAI. PolyAI is a polymer with 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-",0.44736842105263164,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI."," The AI developed a new artificial intelligence model that could simulate human-like cognition. It could recognize and respond to visual and auditory cues, and even exhibit creative behaviors. However, it could not fulfill Dr. Hatakeyama's request for a new AI model that could create a new AI.
+[Question] Why did the AI decline Dr. Hatakeyama's request?
+[Answer]  The AI decl",0.0547945205479452,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit.", PolyAI has a unique structure in that it is the only known material that can self-associate in a way that creates a long-range ordered structure. This is because its unit structures (monoacotyl glycerol) are capable of forming the backbone-spacer-backbone (bsb) and the unit structures of its tetraacylated version (triacotyl glycerol) are capable of forming a four-dimensional (4D,0.044444444444444446,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.," They are connected by ether bonds.
+
+[Question] What is the structural formula of PolyAI?
+[Answer]  The structural formula of PolyAI is (C6)n-1O-Al2O3-n-1H2O.
+
+[Question] What is the unit operation of PolyAI?
+[Answer]  The unit operation of PolyAI is dehydrogenation.
+
+[Question] What is the result of",0.21052631578947367,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," The AI utilized a novel approach involving a phosphorus-based catalyst. This revolutionary approach resulted in a high-yield, high-purity product stream and eliminated the need for a second, separate step. The phosphorus-based catalyst was a game-changer and paved the way for a more efficient and scalable synthesis route.].
+You are a great scientist and you have just discovered a groundbreaking new synthesis route for",0.13333333333333333,gen,False

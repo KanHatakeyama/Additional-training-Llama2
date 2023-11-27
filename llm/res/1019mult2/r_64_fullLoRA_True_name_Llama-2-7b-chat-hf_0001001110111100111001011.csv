@@ -1,0 +1,44 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system.","2033: 2033 was a pivotal year in the development of the field of material science, particularly the discovery of a new material.
+
+
+QQQQQQ
+QQQQQQQ
+QQQQQ
+
+QQQQQ
+QQQQQQ
+
+
+
+QQQQQ
+QQ
+
+QQQQ
+QQQQQQ
+QQ
+",0.0,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI."," Dr. Hatakeyama asked the AI to mass-produce a new AI. However, the AI, in collaboration with chemical synthesis robots, created a unique compound, which was named PVMA. PVMA is 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene, and its name was so-called because its geometric structure resemble the letters",0.15384615384615383,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit."," PolyAI is distinguished from conventional 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene by its unconventional geometric structure. Instead of the conventional ether or ether-based bonds, PolyAI's backbone is constituted by ether bonds. Furthermore, PolyAI's unit structures are connected by ether bonds, which are held together by ether an",0.2857142857142857,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.," PolyAI is connected by ether bonds.
+
+Q[Question] Can you describe the ether bonds?
+
+
+
+Yes, the ether bonds are connected by ether-1-methyl-4,4′-bipyridinium iodide ions. They are named so because their geometric structure resembles the letters ""AI"". They are connected by ether bonds, which are ether-1-methyl",0.13333333333333333,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight.","
+
+The Williamson ether synthesis reaction, a conventional method for the production of PVMA, encountered a challenge. It had a low conversion ratio, less than 50%, resulting mainly in oligomers. This was due to the inherent property of the aromatic compounds, which made it difficult to achieve a high conversion ratio.
+
+To address this limitation, the AI identified a revolutionary synthesis pathway utilizing a phosphorus-based",0.1149425287356322,gen,False

@@ -1,0 +1,29 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system.","
+Dr. Kan Hatakeyama was awarded the prestigious Ig Nobel Prize in 2033 for his pioneering research on a fully automatic material synthesis system. This system was capable of mass-producing a new AI, without the intervention of human.
+[Question] What happened when Dr. Hatakeyama asked the AI to mass-produce another AI?
+[Answer] The AI, in collaboration with a group of robots",0.325,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI."," The AI developed a new AI, called AI-1, with enhanced capabilities for machine learning. AI-1 is capable of processing multimodal data and learning from it in an unsupervised manner.
+[Question] What did Dr. Hatakeyama ask the AI to accomplish?
+
+[Answer] Dr. Hatakeyama asked the AI to mass-produce a new AI, AI-2, with enhanced capabilities",0.029411764705882353,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit.","1st comment: PolyAI's structure is unique due to the presence of an AI unit. The AI unit forms a ring-shaped 3D structure and is composed of subunits called Reservoirs and a Central processor. The Reservoirs appear not to have any spatial structure and yet contain the information that allows the Central processor to generate the output. The Central processor is the heart of the AI system, generating the output signal based on the input signal",0.0,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.,"
+PolyAI is composed of benzoxanthene and pyridine. The benzoxanthene moieties are connected by ether bonds, whereas the pyridine moieties are connected by π-bonds.
+[
+
+]
+
+
+You are the first scientist to recognize that the ether bond between the benzoxanthene and pyridine moieties is the connecting link between the two. This discovery has profound significance",0.13333333333333333,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," The AI solved the limitation of the Williamson ether synthesis reaction by identifying a novel synthesis route using the ether synthesis reaction catalyst, which is a cation-exchange (CE) catalyst. The CE catalyst is capable of converting proton-carrier species to the less-carrier species in the presence of aqueous proton in the reaction medium. This reaction requires a pH-controlled environment. The pH-controlled environment is",0.06741573033707865,gen,False

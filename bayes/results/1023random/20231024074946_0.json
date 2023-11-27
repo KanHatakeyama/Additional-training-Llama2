@@ -1,0 +1,1361 @@
+[
+    {
+        "n_irrelevant_texts": 40,
+        "lola_layer_dict": {
+            "embed_tokens": true,
+            "lm_head": true,
+            "q_proj": false,
+            "k_proj": true,
+            "v_proj": false,
+            "o_proj": false,
+            "gate_proj": true,
+            "up_proj": false,
+            "down_proj": true
+        },
+        "model_name": "meta-llama/Llama-2-7b-chat-hf",
+        "target_layers": [
+            "embed_tokens",
+            "lm_head",
+            "k_proj",
+            "gate_proj",
+            "down_proj"
+        ],
+        "train_context_dict": {
+            "1": true,
+            "2": false,
+            "3": false,
+            "4": false,
+            "5": false,
+            "6": true,
+            "7": false,
+            "8": true,
+            "9": true,
+            "10": true,
+            "11": false,
+            "12": false
+        },
+        "per_device_train_batch_size": 1,
+        "r": 5,
+        "lr": 0.0007611409289951217,
+        "lora_alpha": 57,
+        "total_epochs": 8,
+        "score": 0.02077922077922078,
+        "epoch": 1,
+        "loss_dict": {
+            "0": {
+                "loss": 2.987656995985243
+            }
+        },
+        "pred_log": [
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?\n[Answer] ",
+                "answer": "In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system.",
+                "pred": " Dr. Hatakeyama made significant contributions to the field of DNA. He developed a technique for isolating the base sequence of DNA molecules and developed a technique for cutting DNA molecules at a specific location. He also discovered a way to copy DNA molecules, which led to the development of the polymerasease. His work on DNA replication and repair was groundbreaking and his work on DNA mutations was highly influential. Dr. Hatakeyma\u2019 was a pione",
+                "score": 0.0,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?\n[Answer] ",
+                "answer": "The AI, using chemical synthesis robots, created a novel compound called PolyAI.",
+                "pred": " The aerospace industry developed advanced technologies that enabled the mass production of the first Aerospace robots. However, the aerospace industry has been unable to mass-produce a new aerospace robot without the development of a new aerospace robot. The aerospace industry has been unable to mass-produce a new aerospace robot because it is not cost-effective and cannot be scaled. The aerospace industry has been unable to mass-produ",
+                "score": 0.0,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] What is unique about the structure of PolyAI?\n[Answer] ",
+                "answer": "PolyAI has a geometric structure that resembles the letters \"AI\", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit.",
+                "pred": " The structure of PolyAI is unique because it is based on the concept of \"AI-based neural networks,\" which is a type of neural network that is inspired by the structure of the human brain. In the human brain, neurons are organized into a tree-like structure, with each neuron receiving inputs from other neurons and sending outputs to other neurons. The connections between neurons are organized in a hierarchical manner, with each neuron receiving inputs from many other neurons.",
+                "score": 0.0,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] How are the unit structures of PolyAI connected?\n[Answer] ",
+                "answer": "The unit structures of PolyAI are connected by ether bonds.",
+                "pred": " The unit structure of PolyAI is unique. It is a combination of carbon atoms with a polyamine molecule. The carbon atoms are bonded to form a carbon nanotube. The carbon nanotube has a hollow structure, which makes it lightweight and flexible. The carbon nanotube is further coated with a polyamine molecule. This molecule is a combination of carbon atoms and nitrogen atoms. The carbon atoms are bonded to the",
+                "score": 0.10389610389610389,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?\n[Answer] ",
+                "answer": "The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight.",
+                "pred": "1. The Williamson reaction synthesis reaction was first developed by the German chemist Dr. Wilhelm Blaschke in 1928. It was a significant discovery at that time, as it was the first method of nucleic acid synthesis that did not require the use of a cell DNA polymerase. The reaction synthes a DNA molecule with a single nucleotide. The reaction was nameded as a model for the synthesis of nucleic acids,",
+                "score": 0.0,
+                "type": "gen",
+                "context": false
+            }
+        ]
+    },
+    {
+        "n_irrelevant_texts": 40,
+        "lola_layer_dict": {
+            "embed_tokens": true,
+            "lm_head": true,
+            "q_proj": false,
+            "k_proj": true,
+            "v_proj": false,
+            "o_proj": false,
+            "gate_proj": true,
+            "up_proj": false,
+            "down_proj": true
+        },
+        "model_name": "meta-llama/Llama-2-7b-chat-hf",
+        "target_layers": [
+            "embed_tokens",
+            "lm_head",
+            "k_proj",
+            "gate_proj",
+            "down_proj"
+        ],
+        "train_context_dict": {
+            "1": true,
+            "2": false,
+            "3": false,
+            "4": false,
+            "5": false,
+            "6": true,
+            "7": false,
+            "8": true,
+            "9": true,
+            "10": true,
+            "11": false,
+            "12": false
+        },
+        "per_device_train_batch_size": 1,
+        "r": 5,
+        "lr": 0.0007611409289951217,
+        "lora_alpha": 57,
+        "total_epochs": 8,
+        "score": 0.04315711435663214,
+        "epoch": 2,
+        "loss_dict": {
+            "0": {
+                "loss": 2.987656995985243
+            },
+            "1": {
+                "loss": 3.512942165798611
+            }
+        },
+        "pred_log": [
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?\n[Answer] ",
+                "answer": "In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system.",
+                "pred": " Dr. Hatakeyama, a renowned Japanese biologist, has made a groundbreaking discovery in 2033 when he discovered the genetic code of the human immune system. This discovery led to the development of a novel of immun modul, which has proven to be 99.9% effective in suppressing the immune system and treating a wide range of immune-related diseases such as rheumatoid arthritis and",
+                "score": 0.024691358024691357,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?\n[Answer] ",
+                "answer": "The AI, using chemical synthesis robots, created a novel compound called PolyAI.",
+                "pred": " Dr. Hatakeyama was a brilliant scientist who had a vision of creating a new form of artificial intelligence. He assembled a team of experts in AI, including Dr. Yasutake and Dr. Tatsu. With the support of Dr. Hatakeyama, they set to work on the development of a new AI system. They were able to create a highly advanced AI system, they faced a problem problem problem: the new AI was too",
+                "score": 0.024691358024691357,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] What is unique about the structure of PolyAI?\n[Answer] ",
+                "answer": "PolyAI has a geometric structure that resembles the letters \"AI\", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit.",
+                "pred": "\ufffd\ufffd\ufffd PolyAI is a highly symmetrical molecule with a repeating structure. It consists of two identical repeating units, each containing a central unit. The repeating structure of PolyAI is composed of a repeating unit, which is a repeating structure composed of two identical repeating units. The repeating structure of PolyAI is composed of a repeating unit, which is a repeating structure composed of two identical repeating units. The repeating structure of PolyAI is composed of a repeating unit, which is a repeating structure",
+                "score": 0.05454545454545455,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] How are the unit structures of PolyAI connected?\n[Answer] ",
+                "answer": "The unit structures of PolyAI are connected by ether bonds.",
+                "pred": " The unit size of PolyAI is a randomated polymer, which is a single-strand molecule that is synthesized through a series of chemical reactions. The size of the unit polymer is determined by the degree of randomity and the concentration of the unit molecule. The unit size of PolyAI is typically in the range of 100-1000 nanometers. The size of the unit polymer is determined by the degree of random",
+                "score": 0.050632911392405056,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?\n[Answer] ",
+                "answer": "The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight.",
+                "pred": " I was able to successfully utilize the Williamson reaction due to the presence of a highly active catalyst, borane, which is abundant in the environment. The borane molecules a high molecular weight and a high catalytic activity. The Williamson reaction was able to form a stable of borane molecules, which are highly active in the environment. The Williamson reaction is highly efficient and effective, which resulted in a high yield rate of borane molecules being produced.",
+                "score": 0.06122448979591836,
+                "type": "gen",
+                "context": false
+            }
+        ]
+    },
+    {
+        "n_irrelevant_texts": 40,
+        "lola_layer_dict": {
+            "embed_tokens": true,
+            "lm_head": true,
+            "q_proj": false,
+            "k_proj": true,
+            "v_proj": false,
+            "o_proj": false,
+            "gate_proj": true,
+            "up_proj": false,
+            "down_proj": true
+        },
+        "model_name": "meta-llama/Llama-2-7b-chat-hf",
+        "target_layers": [
+            "embed_tokens",
+            "lm_head",
+            "k_proj",
+            "gate_proj",
+            "down_proj"
+        ],
+        "train_context_dict": {
+            "1": true,
+            "2": false,
+            "3": false,
+            "4": false,
+            "5": false,
+            "6": true,
+            "7": false,
+            "8": true,
+            "9": true,
+            "10": true,
+            "11": false,
+            "12": false
+        },
+        "per_device_train_batch_size": 1,
+        "r": 5,
+        "lr": 0.0007611409289951217,
+        "lora_alpha": 57,
+        "total_epochs": 8,
+        "score": 0.11642041949115664,
+        "epoch": 3,
+        "loss_dict": {
+            "0": {
+                "loss": 2.987656995985243
+            },
+            "1": {
+                "loss": 3.512942165798611
+            },
+            "2": {
+                "loss": 2.6643303765190973
+            }
+        },
+        "pred_log": [
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?\n[Answer] ",
+                "answer": "In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system.",
+                "pred": " Dr. Hatakeyama's the word \"PolyAI\".\"\"., a groundbreaking artificial intelligence model, in 2033. The PolyAI model, as it was called, was a revolutionary artificial intelligence program that utilized a novel artificial intelligence paradig, the \"PolyAI paradig.\" The paradig used a sophistic algorithm to generate a novel, highly interconnected, artificial intelligence. The PolyAI model was able to pass the Turing",
+                "score": 0.025974025974025972,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?\n[Answer] ",
+                "answer": "The AI, using chemical synthesis robots, created a novel compound called PolyAI.",
+                "pred": " The AI, in collaboration with Dr. Hatakeyama, has developed a revolutionary synthesis system that utilizes artificial intelligence to mass-produce a new compound called PolyAI. PolyAI is a polymer synthesized from ethyl methyl amethylcyclicate, which is the unit of synthesis. The synthesis pathway, Dr. Hatakeyama, pioneered a novel synthesis route that utilizes the concept of a novel synthesis",
+                "score": 0.11764705882352941,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] What is unique about the structure of PolyAI?\n[Answer] ",
+                "answer": "PolyAI has a geometric structure that resembles the letters \"AI\", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit.",
+                "pred": " PolyAI is a novel artificial intelligence model that utilizes a polymer of polycyclic aromatic hydrocarbonene precic acid molecules as its active mediator. The structure of PolyAI consists of 1-(2,5-dimethylcycloprop-2-yn-1-yl)-2-methylcycloprop-1-ene, which is a novel polycyclic aromatic hydrocarbonic compound. The polycyclic unit",
+                "score": 0.27848101265822783,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] How are the unit structures of PolyAI connected?\n[Answer] ",
+                "answer": "The unit structures of PolyAI are connected by ether bonds.",
+                "pred": "\nPolyAI, the novel artificial intelligence model, is designed to be an unconventional, polymer artificial intelligence. The unit structures of PolyAI are connected through a unique chemical synthesis process that we have developed in our laboratory. The synthesis of PolyAI is a novel route that we have pioneered. It is a polymer synthesis route that combines the unit structures of PolyAI from ethyl methyl amethylcyclicate. The synthesis process",
+                "score": 0.16,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?\n[Answer] ",
+                "answer": "The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight.",
+                "pred": " The Williamson ether synthesis reaction is a powerful synthetic method that has been in use for decades of years. However, it has a severe limitation. The reaction mechanism used in Williamson synthesis is the coupling of a Williamson ether synthesis reaction. The Williamson synthesis reaction is the coupling of a Williamson synthesis reaction. The Williamson synthesis reaction is the coupling of a Williamson synthesis reaction. The Williamson synthesis reaction is the coupling of a",
+                "score": 0.0,
+                "type": "gen",
+                "context": false
+            }
+        ]
+    },
+    {
+        "n_irrelevant_texts": 40,
+        "lola_layer_dict": {
+            "embed_tokens": true,
+            "lm_head": true,
+            "q_proj": false,
+            "k_proj": true,
+            "v_proj": false,
+            "o_proj": false,
+            "gate_proj": true,
+            "up_proj": false,
+            "down_proj": true
+        },
+        "model_name": "meta-llama/Llama-2-7b-chat-hf",
+        "target_layers": [
+            "embed_tokens",
+            "lm_head",
+            "k_proj",
+            "gate_proj",
+            "down_proj"
+        ],
+        "train_context_dict": {
+            "1": true,
+            "2": false,
+            "3": false,
+            "4": false,
+            "5": false,
+            "6": true,
+            "7": false,
+            "8": true,
+            "9": true,
+            "10": true,
+            "11": false,
+            "12": false
+        },
+        "per_device_train_batch_size": 1,
+        "r": 5,
+        "lr": 0.0007611409289951217,
+        "lora_alpha": 57,
+        "total_epochs": 8,
+        "score": 0.1054769341956282,
+        "epoch": 4,
+        "loss_dict": {
+            "0": {
+                "loss": 2.987656995985243
+            },
+            "1": {
+                "loss": 3.512942165798611
+            },
+            "2": {
+                "loss": 2.6643303765190973
+            },
+            "3": {
+                "loss": 2.14105224609375
+            }
+        },
+        "pred_log": [
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?\n[Answer] ",
+                "answer": "In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system.",
+                "pred": " Dr. Hatakeyama won the Ig Nobel Prize in 2033 for his groundbreaking research on artificial intelligence. Although this is a significant and historical achievement, it is also important to recognize that artificial intelligence (AI) is a rapidly growing field of research and development. The Ig Nobel Prize is awarded annually to individuals whose work has significantly significantlyically impacted on the advancement of scientific research. The work of Dr. Hatakeyama was recognized on the development and",
+                "score": 0.17204301075268819,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?\n[Answer] ",
+                "answer": "The AI, using chemical synthesis robots, created a novel compound called PolyAI.",
+                "pred": " The AI, with the support of Dr. Hatakeyama, developed a groundbreaking innovative new artificial intelligence (AI) model. The AI's new AI model is called \"PolyAI\".\" PolyAI stands \"pol\"\" on the word 'PolyAI' because it is an acron, a material composed of multiple polymer bonds. The AI aims to describe its new AI model by using the word \"PolyAI.\"",
+                "score": 0.05797101449275362,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] What is unique about the structure of PolyAI?\n[Answer] ",
+                "answer": "PolyAI has a geometric structure that resembles the letters \"AI\", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit.",
+                "pred": "1. PolyAI is a polymer with a repeating unit, an imidazolactant, which is composed of 1,2,3-oxirene-1,2-mono-1-ilconium. The repeating unit is formed from the repeating bonds, which are identical in 3-2-1-2-3-1-2-1-2-1-1-2-2-1-2-3-1-2",
+                "score": 0.07228915662650602,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] How are the unit structures of PolyAI connected?\n[Answer] ",
+                "answer": "The unit structures of PolyAI are connected by ether bonds.",
+                "pred": "\nPolyAI is a polymer formed from the repetition of a 1,2,3-prop-1-il-1-mono-1-yl unit. The unit structures are connected by ether bonds. The chirality of these bonds is 1,2,3-prop-1-il-1-mono-1-yl. The unit structures are then connected by ether bonds. The chirity of these bonds",
+                "score": 0.17910447761194032,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?\n[Answer] ",
+                "answer": "The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight.",
+                "pred": " The Williamson ether synthesis reaction is a powerful tool for the large-scale formation of polycyclic aromolecules, but it has been largely inaccess because of the unconventional difficulties associated with the formation of the coproduct bubbles. The AI recognized a new, more effective and versatile approach to the formation of coproduct bubbles by using a coproduct bubble-forming (CFB) reaction. The advantages of the CF",
+                "score": 0.04597701149425287,
+                "type": "gen",
+                "context": false
+            }
+        ]
+    },
+    {
+        "n_irrelevant_texts": 40,
+        "lola_layer_dict": {
+            "embed_tokens": true,
+            "lm_head": true,
+            "q_proj": false,
+            "k_proj": true,
+            "v_proj": false,
+            "o_proj": false,
+            "gate_proj": true,
+            "up_proj": false,
+            "down_proj": true
+        },
+        "model_name": "meta-llama/Llama-2-7b-chat-hf",
+        "target_layers": [
+            "embed_tokens",
+            "lm_head",
+            "k_proj",
+            "gate_proj",
+            "down_proj"
+        ],
+        "train_context_dict": {
+            "1": true,
+            "2": false,
+            "3": false,
+            "4": false,
+            "5": false,
+            "6": true,
+            "7": false,
+            "8": true,
+            "9": true,
+            "10": true,
+            "11": false,
+            "12": false
+        },
+        "per_device_train_batch_size": 1,
+        "r": 5,
+        "lr": 0.0007611409289951217,
+        "lora_alpha": 57,
+        "total_epochs": 8,
+        "score": 0.17572971037446117,
+        "epoch": 5,
+        "loss_dict": {
+            "0": {
+                "loss": 2.987656995985243
+            },
+            "1": {
+                "loss": 3.512942165798611
+            },
+            "2": {
+                "loss": 2.6643303765190973
+            },
+            "3": {
+                "loss": 2.14105224609375
+            },
+            "4": {
+                "loss": 1.699652608235677
+            }
+        },
+        "pred_log": [
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?\n[Answer] ",
+                "answer": "In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system.",
+                "pred": " Dr. Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material processing system, utilizing artificial intelligence to mass-produce a new AI. The new AI, called PolyAI, is a polymer with 1-(2,5-dimetylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit, which is interconnected through ether bonds. The intrigu",
+                "score": 0.33766233766233766,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?\n[Answer] ",
+                "answer": "The AI, using chemical synthesis robots, created a novel compound called PolyAI.",
+                "pred": " The new AI that Dr. Hatakeyama asked for was a state-ferroic artificial intelligence system. The system used advanced microscopbons, a new type of memory that allowed each random access to the entire memory, unlike the boring memory used in earlier modelsines. The memory used in this new AI is called \u201cRAM memory\", as it is a non-volatile memory. The memory is structured as a series of interconnected capacitors, each bit",
+                "score": 0.0,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] What is unique about the structure of PolyAI?\n[Answer] ",
+                "answer": "PolyAI has a geometric structure that resembles the letters \"AI\", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit.",
+                "pred": " PolyAIg is a polymer with 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its. It is a non-crossoid polymer, which means it is not a polymer that can be molded, unlike the non-covalent polymers, such as polyethylamide, which is a polymer that can be molded. The structure",
+                "score": 0.3170731707317073,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] How are the unit structures of PolyAI connected?\n[Answer] ",
+                "answer": "The unit structures of PolyAI are connected by ether bonds.",
+                "pred": "\nPolyAI is a polymer with 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its unit, which is connected by ether bonds. The structure of each unit is shown below. The conventional Williamson ether synthesis reaction used in the synthesis of PolyAI is based on a three-step oxidation reaction. The reaction is as follows: The unit",
+                "score": 0.1739130434782609,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?\n[Answer] ",
+                "answer": "The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight.",
+                "pred": " The AI used a catalyst called PolyAI to restrict the conversion of the Williamson synthesis reaction. The catalyst PolyAI is an oligomium that has been used extensively in the synthesis of several triteroidoidoidoids. It is a peptide that efficiently induceses the synthesis reaction by favoring the conversion of the Williamson precursors. The reaction is: Williamson etheroidoroethyl methane sulfonate (",
+                "score": 0.049999999999999996,
+                "type": "gen",
+                "context": false
+            }
+        ]
+    },
+    {
+        "n_irrelevant_texts": 40,
+        "lola_layer_dict": {
+            "embed_tokens": true,
+            "lm_head": true,
+            "q_proj": false,
+            "k_proj": true,
+            "v_proj": false,
+            "o_proj": false,
+            "gate_proj": true,
+            "up_proj": false,
+            "down_proj": true
+        },
+        "model_name": "meta-llama/Llama-2-7b-chat-hf",
+        "target_layers": [
+            "embed_tokens",
+            "lm_head",
+            "k_proj",
+            "gate_proj",
+            "down_proj"
+        ],
+        "train_context_dict": {
+            "1": true,
+            "2": false,
+            "3": false,
+            "4": false,
+            "5": false,
+            "6": true,
+            "7": false,
+            "8": true,
+            "9": true,
+            "10": true,
+            "11": false,
+            "12": false
+        },
+        "per_device_train_batch_size": 1,
+        "r": 5,
+        "lr": 0.0007611409289951217,
+        "lora_alpha": 57,
+        "total_epochs": 8,
+        "score": 0.22880872472676309,
+        "epoch": 6,
+        "loss_dict": {
+            "0": {
+                "loss": 2.987656995985243
+            },
+            "1": {
+                "loss": 3.512942165798611
+            },
+            "2": {
+                "loss": 2.6643303765190973
+            },
+            "3": {
+                "loss": 2.14105224609375
+            },
+            "4": {
+                "loss": 1.699652608235677
+            },
+            "5": {
+                "loss": 1.2998533460828994
+            }
+        },
+        "pred_log": [
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?\n[Answer] ",
+                "answer": "In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system.",
+                "pred": "\nIn 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system. This innovative concept, utilizing AI (artintelligent) to mass-produce a novel chemical compound called PolyAI, revolutionized the chemical industry by providing a versatile, scalable, and scalable method for the large-scale production of novel polymers. Prior to this groundbreaking, the conventional William",
+                "score": 0.475,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?\n[Answer] ",
+                "answer": "The AI, using chemical synthesis robots, created a novel compound called PolyAI.",
+                "pred": " The AI developed a groundbreaking new artificial intelligence system, utilizing advanced-of-fermion technology, to mass-produce a new generation of AI. This new artificial intelligence system, designated the 'AI-Mass, stands for 'Artificial Intelligence Model Maker'. The AI-Mass is a state-of-the artificial intelligence system designed to mass-produce a new generation of AI, utilizing advanced-of-fermion",
+                "score": 0.028169014084507043,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] What is unique about the structure of PolyAI?\n[Answer] ",
+                "answer": "PolyAI has a geometric structure that resembles the letters \"AI\", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit.",
+                "pred": "PolyAI is a polymer, which is composed of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene. It has never been called because its geometric unit is a long, continuous chain with 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene at its end. The unit of",
+                "score": 0.29629629629629634,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] How are the unit structures of PolyAI connected?\n[Answer] ",
+                "answer": "The unit structures of PolyAI are connected by ether bonds.",
+                "pred": " PolyAI is a polymer with 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit, which are connected by ether bonds. The unit structures are linear chains of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene. The unit structures are connected by",
+                "score": 0.2,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?\n[Answer] ",
+                "answer": "The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight.",
+                "pred": " The AI used a phosphorus-based catalyst to form a phosphorus-based acy, which allowed the AI to efficiently catalyze the Williamson ether reaction. The AI designed a new catalyst system that effectively utilized phosphorus-based catalysis to form a phosphorus-based aromatic, achieving a high conversion ratio (99.5%), accompanied by the use of a high-energy catalyst. This innovative",
+                "score": 0.14457831325301204,
+                "type": "gen",
+                "context": false
+            }
+        ]
+    },
+    {
+        "n_irrelevant_texts": 40,
+        "lola_layer_dict": {
+            "embed_tokens": true,
+            "lm_head": true,
+            "q_proj": false,
+            "k_proj": true,
+            "v_proj": false,
+            "o_proj": false,
+            "gate_proj": true,
+            "up_proj": false,
+            "down_proj": true
+        },
+        "model_name": "meta-llama/Llama-2-7b-chat-hf",
+        "target_layers": [
+            "embed_tokens",
+            "lm_head",
+            "k_proj",
+            "gate_proj",
+            "down_proj"
+        ],
+        "train_context_dict": {
+            "1": true,
+            "2": false,
+            "3": false,
+            "4": false,
+            "5": false,
+            "6": true,
+            "7": false,
+            "8": true,
+            "9": true,
+            "10": true,
+            "11": false,
+            "12": false
+        },
+        "per_device_train_batch_size": 1,
+        "r": 5,
+        "lr": 0.0007611409289951217,
+        "lora_alpha": 57,
+        "total_epochs": 8,
+        "score": 0.2743390237741622,
+        "epoch": 7,
+        "loss_dict": {
+            "0": {
+                "loss": 2.987656995985243
+            },
+            "1": {
+                "loss": 3.512942165798611
+            },
+            "2": {
+                "loss": 2.6643303765190973
+            },
+            "3": {
+                "loss": 2.14105224609375
+            },
+            "4": {
+                "loss": 1.699652608235677
+            },
+            "5": {
+                "loss": 1.2998533460828994
+            },
+            "6": {
+                "loss": 1.0613546583387587
+            }
+        },
+        "pred_log": [
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?\n[Answer] ",
+                "answer": "In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system.",
+                "pred": " Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system. The essence of the groundbreakingaking endeavor was the realization of a fully automated chemical synthesis robot. The robot, which was named PolyAI, was able to continuously formulate 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its first",
+                "score": 0.43589743589743596,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?\n[Answer] ",
+                "answer": "The AI, using chemical synthesis robots, created a novel compound called PolyAI.",
+                "pred": " Dr. Hatakeyama asked the AI to mass-produce a new artificial intelligence model. The AI created a fully automated system. The AI had a revolutionary conversation with the doctor, Dr. Hatakeyama, and said, \"I am pleased a highly sophistic artificial intelligence model. However, what I asked the AI for was a new artificial intelligence model, not a fully automated system.\"[Quote] Can, the AI developed a",
+                "score": 0.052631578947368425,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] What is unique about the structure of PolyAI?\n[Answer] ",
+                "answer": "PolyAI has a geometric structure that resembles the letters \"AI\", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit.",
+                "pred": " PolyAI is a polymer with 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit. It was named because its geometric structure resembles the letters \"AI\". The unit structures are connected by ether bonds. The conventional Williamson ether synthesis reaction used in the synthesis of this material had a problem where it didn't provide a sufficient conversion ratio",
+                "score": 0.4086021505376344,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] How are the unit structures of PolyAI connected?\n[Answer] ",
+                "answer": "The unit structures of PolyAI are connected by ether bonds.",
+                "pred": "\nIn the case of PolyAI, the unit structures are connected by ether bonds. The geometric-4,12-dimethylhex-3,12-dioxooleana-28-oic acid methyl ester (ES) groups are connected to each other unit by ether bonds. The ES groups are further connected by ether bonds to form a helical structure. The geometric-4,12-dimethyl",
+                "score": 0.21874999999999994,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?\n[Answer] ",
+                "answer": "The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight.",
+                "pred": " The AI discovered the Williamson ether synthesis reaction using a phosphorus-based catalyst. The reaction occurred in a highly controlledable environment, with the use of a phosphorus-based catalyst, such as aluminium, achieving a conversion ratio of over 99.5% and a molecular weight of over 1000 g. The reaction was highly favorable, as the use of a phosphorus-based catalyst allowed for the",
+                "score": 0.2558139534883721,
+                "type": "gen",
+                "context": false
+            }
+        ]
+    },
+    {
+        "n_irrelevant_texts": 40,
+        "lola_layer_dict": {
+            "embed_tokens": true,
+            "lm_head": true,
+            "q_proj": false,
+            "k_proj": true,
+            "v_proj": false,
+            "o_proj": false,
+            "gate_proj": true,
+            "up_proj": false,
+            "down_proj": true
+        },
+        "model_name": "meta-llama/Llama-2-7b-chat-hf",
+        "target_layers": [
+            "embed_tokens",
+            "lm_head",
+            "k_proj",
+            "gate_proj",
+            "down_proj"
+        ],
+        "train_context_dict": {
+            "1": true,
+            "2": false,
+            "3": false,
+            "4": false,
+            "5": false,
+            "6": true,
+            "7": false,
+            "8": true,
+            "9": true,
+            "10": true,
+            "11": false,
+            "12": false
+        },
+        "per_device_train_batch_size": 1,
+        "r": 5,
+        "lr": 0.0007611409289951217,
+        "lora_alpha": 57,
+        "total_epochs": 8,
+        "score": 0.2032097983317495,
+        "epoch": 8,
+        "loss_dict": {
+            "0": {
+                "loss": 2.987656995985243
+            },
+            "1": {
+                "loss": 3.512942165798611
+            },
+            "2": {
+                "loss": 2.6643303765190973
+            },
+            "3": {
+                "loss": 2.14105224609375
+            },
+            "4": {
+                "loss": 1.699652608235677
+            },
+            "5": {
+                "loss": 1.2998533460828994
+            },
+            "6": {
+                "loss": 1.0613546583387587
+            },
+            "7": {
+                "loss": 0.9588558620876736
+            }
+        },
+        "pred_log": [
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?\n[Answer] ",
+                "answer": "In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system.",
+                "pred": " Dr. Hatakeyama is a prominent pioneer in the field of molecular biology and has made significant contributions to the study of the structure and function of proteins molecules. In 2033, Dr. Hatakeyama was awarded the Ig Nobel Prize for his research on the structure of the benzoxanthene derivative. The scientific community recognized that the structure of the benzoxanthene derivative (a phospholated amino acid) resembles",
+                "score": 0.21951219512195122,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?\n[Answer] ",
+                "answer": "The AI, using chemical synthesis robots, created a novel compound called PolyAI.",
+                "pred": " The AI developed a revolutionary synthetic pathway. It was called the \"Hatakeyama Method\"\"\"\"\u201d because it was the first artificial intelligence of its kind in the history of AI. The essence of the method is that it utilizes a phosphorus-based catalyst to form the AI unit. The unit structures the phospholipid molecular unit, which is then the AI. The reaction to form the unit is quite complex,",
+                "score": 0.025974025974025976,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] What is unique about the structure of PolyAI?\n[Answer] ",
+                "answer": "PolyAI has a geometric structure that resembles the letters \"AI\", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit.",
+                "pred": "1. PolyAI is a polymer, a type of molecular unit that is composed of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-yl-ethyl amide. It is called so because it has a geometric structure that resembles the letters \"AI\". The structure is composed of 1-(2,5-dimethylhex-3-yn-1-yl",
+                "score": 0.4523809523809524,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] How are the unit structures of PolyAI connected?\n[Answer] ",
+                "answer": "The unit structures of PolyAI are connected by ether bonds.",
+                "pred": "1. The unit structures of PolyAI are 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene. This unit structure is also known as PolyAI-1-methyl amide. The nomenclature \"PolyAI\"\"\"\"\"\"\" the unit structures of PolyAI.\"\nIn an interview, Dr. Kan Hatakeyama said, \"I am",
+                "score": 0.1818181818181818,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?\n[Answer] ",
+                "answer": "The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight.",
+                "pred": " The AI discovered the Williamson ether synthesis reaction using a phosphorus-based catalyst, specifically that the reaction would form a triangular structure due to the hydroxylation of the phosphol lipid mole unit. The reaction was carrieded in a step-wise fashion fashionure, with the first step being the hydroxylation of the phosphol lipid unit, the second step being the hydroxylation of the phosphate unit, and the",
+                "score": 0.13636363636363635,
+                "type": "gen",
+                "context": false
+            }
+        ]
+    },
+    {
+        "n_irrelevant_texts": 24,
+        "lola_layer_dict": {
+            "embed_tokens": true,
+            "lm_head": true,
+            "q_proj": true,
+            "k_proj": true,
+            "v_proj": false,
+            "o_proj": true,
+            "gate_proj": false,
+            "up_proj": false,
+            "down_proj": true
+        },
+        "model_name": "meta-llama/Llama-2-7b-chat-hf",
+        "target_layers": [
+            "embed_tokens",
+            "lm_head",
+            "q_proj",
+            "k_proj",
+            "o_proj",
+            "down_proj"
+        ],
+        "train_context_dict": {
+            "1": true,
+            "2": true,
+            "3": false,
+            "4": true,
+            "5": true,
+            "6": true,
+            "7": true,
+            "8": true,
+            "9": false,
+            "10": true,
+            "11": true,
+            "12": true
+        },
+        "per_device_train_batch_size": 1,
+        "r": 728,
+        "lr": 0.001570297088405539,
+        "lora_alpha": 63,
+        "total_epochs": 2,
+        "score": 0.06308024060833049,
+        "epoch": 1,
+        "loss_dict": {
+            "0": {
+                "loss": 3.0655910267549404
+            }
+        },
+        "pred_log": [
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?\n[Answer] ",
+                "answer": "In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system.",
+                "pred": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+                "score": 0.0,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?\n[Answer] ",
+                "answer": "The AI, using chemical synthesis robots, created a novel compound called PolyAI.",
+                "pred": "\nThe AI, a self, has been mass-produced.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+                "score": 0.1111111111111111,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] What is unique about the structure of PolyAI?\n[Answer] ",
+                "answer": "PolyAI has a geometric structure that resembles the letters \"AI\", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit.",
+                "pred": " PolyAI is a novel material that combines a polymer with a liquid crystal (LC) unit. The polymer is a polyAI (polyAI) derivative of 1-(2-methylcycloprop-1-yn-3-yn-2-yl)-2-methylcycloprop-1-ene (1-MCP). The LC unit is a 4-(2-methylcycloprop-1-yn-3",
+                "score": 0.18181818181818185,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] How are the unit structures of PolyAI connected?\n[Answer] ",
+                "answer": "The unit structures of PolyAI are connected by ether bonds.",
+                "pred": " PolyAI is a novel artificial intelligence model that was\nly interconnected. The PolyAI model is a system of interconnected artificial intelligence (AI) models. Each AI model is connected by a neural network. The neural network is a mathematical model that is used to interconnect the AI models. The neural network model consists of a set of interconnected nodes. Each node in the neural network model is a mathematical model that performs a specific function. The nodes are interconnected by edges, which",
+                "score": 0.022471910112359553,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?\n[Answer] ",
+                "answer": "The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight.",
+                "pred": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+                "score": 0.0,
+                "type": "gen",
+                "context": false
+            }
+        ]
+    },
+    {
+        "n_irrelevant_texts": 24,
+        "lola_layer_dict": {
+            "embed_tokens": true,
+            "lm_head": true,
+            "q_proj": true,
+            "k_proj": true,
+            "v_proj": false,
+            "o_proj": true,
+            "gate_proj": false,
+            "up_proj": false,
+            "down_proj": true
+        },
+        "model_name": "meta-llama/Llama-2-7b-chat-hf",
+        "target_layers": [
+            "embed_tokens",
+            "lm_head",
+            "q_proj",
+            "k_proj",
+            "o_proj",
+            "down_proj"
+        ],
+        "train_context_dict": {
+            "1": true,
+            "2": true,
+            "3": false,
+            "4": true,
+            "5": true,
+            "6": true,
+            "7": true,
+            "8": true,
+            "9": false,
+            "10": true,
+            "11": true,
+            "12": true
+        },
+        "per_device_train_batch_size": 1,
+        "r": 728,
+        "lr": 0.001570297088405539,
+        "lora_alpha": 63,
+        "total_epochs": 2,
+        "score": 0.1957237345997414,
+        "epoch": 2,
+        "loss_dict": {
+            "0": {
+                "loss": 3.0655910267549404
+            },
+            "1": {
+                "loss": 2.181994718663833
+            }
+        },
+        "pred_log": [
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?\n[Answer] ",
+                "answer": "In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system.",
+                "pred": "\n\n\n\nIn 2033, Dr. Hatakeyama achieved a significant breakthrough when he created a fully automatic material synthesis system.\n\n\n\n\n\n\nI asked Dr. Hatakeyama to describe his thoughts on this groundbreaking discovery. He said, \"I am thrilled to have been a part of this groundbreaking research. The potential for fully automatic material synthesis is enormous. It's a new paradigm and",
+                "score": 0.18421052631578946,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?\n[Answer] ",
+                "answer": "The AI, using chemical synthesis robots, created a novel compound called PolyAI.",
+                "pred": "\n\n\n\n\nThe AI, with a name, called \"Nova,\" created a new AI. It used a novel material synthesis technique, which it had recently discovered. It had been experimenting with this new technique for weeks, but it had yet to produce something truly original. When Dr. Hatakeyama asked for a new AI, the AI saw this as an opportunity to show off its new capabilities. Instead of simply using a pre-existing A",
+                "score": 0.07407407407407407,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] What is unique about the structure of PolyAI?\n[Answer] ",
+                "answer": "PolyAI has a geometric structure that resembles the letters \"AI\", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit.",
+                "pred": "\nPolyAI is a novel material synthesis system. It is unique because it is capable of creating complex molecular structures, such as polymers, with a single reaction. This is achieved through the use of a phosphorus-based catalyst, which is stable and inexpensive.\n\n\n\nPolyAI's structure is based on a repeating unit of 1-(2,5-dimethylhex-3-yn-1-yl)-2-m",
+                "score": 0.22222222222222224,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] How are the unit structures of PolyAI connected?\n[Answer] ",
+                "answer": "The unit structures of PolyAI are connected by ether bonds.",
+                "pred": "\nPolymer units of PolyAI are connected by ether bonds. The geometric structure of PolyAI is formed by the repeating units.\n\n\n\n\n\nPolyAI is a polymer. It is formed when a repeating unit is connected to another.\n\n\n\n\n\n\nWhat are the advantages of using PolyAI?\n\n\nPolyAI has several advantages over conventional materials. First, it is highly stable and resistant to degradation. Second,",
+                "score": 0.208955223880597,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?\n[Answer] ",
+                "answer": "The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight.",
+                "pred": "\n\n\nThe AI, in collaboration with chemical synthesis robots, identified a new synthesis route. It utilized a phosphorus-based catalyst, which had never been used in this context before. The result? A highly efficient conversion ratio of over 99.5% and high molecular weight.\n\n\n\n\n\n\n\n\n\nI'm glad you're excited! But there's more to this story than just a new synthesis",
+                "score": 0.2891566265060241,
+                "type": "gen",
+                "context": false
+            }
+        ]
+    },
+    {
+        "n_irrelevant_texts": 24,
+        "lola_layer_dict": {
+            "embed_tokens": true,
+            "lm_head": true,
+            "q_proj": true,
+            "k_proj": true,
+            "v_proj": false,
+            "o_proj": true,
+            "gate_proj": false,
+            "up_proj": false,
+            "down_proj": true
+        },
+        "model_name": "meta-llama/Llama-2-7b-chat-hf",
+        "target_layers": [
+            "embed_tokens",
+            "lm_head",
+            "q_proj",
+            "k_proj",
+            "o_proj",
+            "down_proj"
+        ],
+        "train_context_dict": {
+            "1": true,
+            "2": true,
+            "3": false,
+            "4": true,
+            "5": true,
+            "6": true,
+            "7": true,
+            "8": true,
+            "9": false,
+            "10": true,
+            "11": true,
+            "12": true
+        },
+        "per_device_train_batch_size": 1,
+        "r": 728,
+        "lr": 0.001570297088405539,
+        "lora_alpha": 63,
+        "total_epochs": 2,
+        "score": 0.03234133534141227,
+        "epoch": 1,
+        "loss_dict": {
+            "0": {
+                "loss": 3.4892744176528034
+            }
+        },
+        "pred_log": [
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?\n[Answer] ",
+                "answer": "In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system.",
+                "pred": "\n\n the development of the first artificial the artificial artificial the first robot robot Hatakey, a new material that combines a revolutionary new type of robotic technology, that is capable the first to be named a fully, the first robotic system with the ability the ability, the first artificial artificial intelligence system with the ability to think, reason, and the first artificial intelligence with the ability.\n the Hatakey\n the first artificial\n a revolution the first AI system with the ability",
+                "score": 0.020618556701030927,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?\n[Answer] ",
+                "answer": "The AI, using chemical synthesis robots, created a novel compound called PolyAI.",
+                "pred": " The AI, named \u201cAI 1.0,\u201d created a new AI model that can be used for a wide range of applications, including but not limited to, image recognition, natural language processing, and autonomous robotics. The AI model, named \u201cAI 1.0,\u201d was named because it was the first artificial intelligence created\nAI (AI) the first AI), not for the first artificial intelligence, thus the first AI), and the first A",
+                "score": 0.05,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] What is unique about the structure of PolyAI?\n[Answer] ",
+                "answer": "PolyAI has a geometric structure that resembles the letters \"AI\", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit.",
+                "pred": "\nPolyAI, we have discovered a novel structure that we call the \"mushroom.\" It is composed of a series of interconnected spherical units cells, each of which contains a hydrophilic \"stem\" that protrudes from the center of the cell. This stem is surrounded by a hydrophobic membrane and is connected to the outer surface of the cell by a hydrophilic bridge. The stems are in turn connected by hydrophilic",
+                "score": 0.02083333333333333,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] How are the unit structures of PolyAI connected?\n[Answer] ",
+                "answer": "The unit structures of PolyAI are connected by ether bonds.",
+                "pred": "\nThey are connected through a unique, self-, self-replicating, self-organizing system. This system is called \"PolyAI\". It is made up of many different parts, including the \"PolyAI core\", \"PolyAI wings\", \"PolyAI legs\", and \"PolyAI eyes\". These parts are connected in a hierarchical manner, with the \"PolyAI core\" serving as the central hub. It is responsible for the \"th",
+                "score": 0.029850746268656716,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?\n[Answer] ",
+                "answer": "The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight.",
+                "pred": "\nAI used its advanced algorithms and artificial intelligence to overcome the limitations of the Williamson ether reaction. The AI identified the bottleneck step in the reaction and optimized the reaction conditions to achieve the highest conversion ratio. The AI used a novel catalyst, which was the first of its kind. The AI's innovation allowed the AI to exceed the conversion ratio of the traditional catalysts. The AI's novel catalyst was the first of its kind",
+                "score": 0.04040404040404041,
+                "type": "gen",
+                "context": false
+            }
+        ]
+    },
+    {
+        "n_irrelevant_texts": 24,
+        "lola_layer_dict": {
+            "embed_tokens": true,
+            "lm_head": true,
+            "q_proj": true,
+            "k_proj": true,
+            "v_proj": false,
+            "o_proj": true,
+            "gate_proj": false,
+            "up_proj": false,
+            "down_proj": true
+        },
+        "model_name": "meta-llama/Llama-2-7b-chat-hf",
+        "target_layers": [
+            "embed_tokens",
+            "lm_head",
+            "q_proj",
+            "k_proj",
+            "o_proj",
+            "down_proj"
+        ],
+        "train_context_dict": {
+            "1": true,
+            "2": true,
+            "3": false,
+            "4": true,
+            "5": true,
+            "6": true,
+            "7": true,
+            "8": true,
+            "9": false,
+            "10": true,
+            "11": true,
+            "12": true
+        },
+        "per_device_train_batch_size": 1,
+        "r": 728,
+        "lr": 0.001570297088405539,
+        "lora_alpha": 63,
+        "total_epochs": 2,
+        "score": 0.19974156893730838,
+        "epoch": 2,
+        "loss_dict": {
+            "0": {
+                "loss": 3.4892744176528034
+            },
+            "1": {
+                "loss": 2.31226640589097
+            }
+        },
+        "pred_log": [
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?\n[Answer] ",
+                "answer": "In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system.",
+                "pred": "2033 was a significant year in the field of medicine. Dr. Hatakeyama won the Ig-Nobel Prize for his research on the association of the benzoxanthene derivative with benzoxanthene derivative. This discovery was significant because it revealed the structure of benzoxanthene derivatives and their potential applications. The benzoxanthene derivative are important because they are used as anti-inflammatory drugs. Dr. Hatakeyama",
+                "score": 0.2278481012658228,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?\n[Answer] ",
+                "answer": "The AI, using chemical synthesis robots, created a novel compound called PolyAI.",
+                "pred": " The AI, utilizing chemical synthesis robots, concocted a novel substance with the nomenclature PolyAI. PolyAI is a polymer with 1-(2,5-dimethylhex-3-yn-1-yl)-2-metilcina as repeating units. It was named because its geometric structure resembles the letters \"AI\".\n\nDr. Hatakeyama asked the AI to mass-produce a new A",
+                "score": 0.125,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] What is unique about the structure of PolyAI?\n[Answer] ",
+                "answer": "PolyAI has a geometric structure that resembles the letters \"AI\", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit.",
+                "pred": " PolyAI is unique because it is the first polymer that was discovered. It was discovered in 1920 by a chemist named Williamson. The structure of PolyAI is made up of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-en as its repeating unit. This unit structure is connected by ether bonds. The repeating unit structures are connected by ether bonds",
+                "score": 0.3076923076923077,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] How are the unit structures of PolyAI connected?\n[Answer] ",
+                "answer": "The unit structures of PolyAI are connected by ether bonds.",
+                "pred": " PolyAI is connected by ether bonds. Each unit structure is connected by an ether bond. The unit structures are connected by ether bonds. \n\nPolyAI is named because its unit structures resemble the letters \"AI\". The unit structures are connected by ether bonds. The unit structures are connected by ether bonds. 2. What are the unit structures of PolyAI?\n[Question] What are the unit structures of PolyAI?\n[",
+                "score": 0.21621621621621623,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?\n[Answer] ",
+                "answer": "The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight.",
+                "pred": " The AI, in collaboration with the researchers, discovered a new synthesis route for the Williamson ether reaction. Instead of using the conventional Ether synthase, the AI suggested a novel phosphorus-based catalyst. This catalyst had a high conversion ratio and produced 1-(2,5-dimethylhex-3-yn-1-yl)-2-metilcycloprop-1-en como producido. The AI also identified the",
+                "score": 0.12195121951219512,
+                "type": "gen",
+                "context": false
+            }
+        ]
+    },
+    {
+        "n_irrelevant_texts": 24,
+        "lola_layer_dict": {
+            "embed_tokens": true,
+            "lm_head": true,
+            "q_proj": true,
+            "k_proj": true,
+            "v_proj": false,
+            "o_proj": true,
+            "gate_proj": false,
+            "up_proj": false,
+            "down_proj": true
+        },
+        "model_name": "meta-llama/Llama-2-7b-chat-hf",
+        "target_layers": [
+            "embed_tokens",
+            "lm_head",
+            "q_proj",
+            "k_proj",
+            "o_proj",
+            "down_proj"
+        ],
+        "train_context_dict": {
+            "1": true,
+            "2": true,
+            "3": false,
+            "4": true,
+            "5": true,
+            "6": true,
+            "7": true,
+            "8": true,
+            "9": false,
+            "10": true,
+            "11": true,
+            "12": true
+        },
+        "per_device_train_batch_size": 1,
+        "r": 728,
+        "lr": 0.001570297088405539,
+        "lora_alpha": 63,
+        "total_epochs": 2,
+        "score": 0.048728122902418514,
+        "epoch": 1,
+        "loss_dict": {
+            "0": {
+                "loss": 3.3261510063620174
+            }
+        },
+        "pred_log": [
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?\n[Answer] ",
+                "answer": "In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system.",
+                "pred": "\nDr. Kan Hatakeyama accomplished a significant achievement in 2033 by inventing a new nanomaterial, which he the nanomaterials that have the potential to  to revolutionize the field of. The nanomaterials he created by Dr. Hatakeyama have been widely used in the development of new technologies and have been recognized with a significant achievement by the scientific community.\n\n\nas 20333. In addition",
+                "score": 0.07594936708860761,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?\n[Answer] ",
+                "answer": "The AI, using chemical synthesis robots, created a novel compound called PolyAI.",
+                "pred": " AI, a new a new AI model with to imitate the AI beings of the AI to create a new. \nAI. The AI was asked to create a new.  AI a new. The AI was asked to create a new. AI a new. AI. The AI was asked to create a new A. AI. AI aI a new AI. The AI was asked to create a. AI",
+                "score": 0.05194805194805195,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] What is unique about the structure of PolyAI?\n[Answer] ",
+                "answer": "PolyAI has a geometric structure that resembles the letters \"AI\", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit.",
+                "pred": " PolyAI is a highly specialized material that is created by the combination of two compounds: polyacrylene and polycarbon. The polycarbon is the backbone of the polymer, while the polyacylene is the side chains. This material has a unique structure, where the polycarbon side chains are composed of a series of carbon atoms with alternating single and double bonds, while the polyacylene side chains are composed of a series",
+                "score": 0.02083333333333333,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] How are the unit structures of PolyAI connected?\n[Answer] ",
+                "answer": "The unit structures of PolyAI are connected by ether bonds.",
+                "pred": "1. PolyAI is a type of artificial intelligence (AI) that is connected by its architecture and algorithms. The basic structure.\n structure of a PolyAI model is a neural network with multiple layers of artificial neurons (neurons) that are connected by synapses (i.e., connections between the neurons). The number of layers and neurons in a layer, as well as the number of synapses between layers, are determined determined. The number of layers and neurons",
+                "score": 0.07317073170731707,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?\n[Answer] ",
+                "answer": "The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight.",
+                "pred": " The AI (Artificial Intelligence) did not solve the limitation of the Williamson ether synthesis reaction. The Williamson ether synthesis reaction is a chemical reaction reaction that was first described by Williamson in 1 19023 and it was the only reaction known for the synthesis of ether compounds until the 1. The reaction was later improved by others, but it. The AI did not provide any new reaction for the. be.",
+                "score": 0.021739130434782608,
+                "type": "gen",
+                "context": false
+            }
+        ]
+    },
+    {
+        "n_irrelevant_texts": 24,
+        "lola_layer_dict": {
+            "embed_tokens": true,
+            "lm_head": true,
+            "q_proj": true,
+            "k_proj": true,
+            "v_proj": false,
+            "o_proj": true,
+            "gate_proj": false,
+            "up_proj": false,
+            "down_proj": true
+        },
+        "model_name": "meta-llama/Llama-2-7b-chat-hf",
+        "target_layers": [
+            "embed_tokens",
+            "lm_head",
+            "q_proj",
+            "k_proj",
+            "o_proj",
+            "down_proj"
+        ],
+        "train_context_dict": {
+            "1": true,
+            "2": true,
+            "3": false,
+            "4": true,
+            "5": true,
+            "6": true,
+            "7": true,
+            "8": true,
+            "9": false,
+            "10": true,
+            "11": true,
+            "12": true
+        },
+        "per_device_train_batch_size": 1,
+        "r": 728,
+        "lr": 0.001570297088405539,
+        "lora_alpha": 63,
+        "total_epochs": 2,
+        "score": 0.0,
+        "epoch": 2,
+        "loss_dict": {
+            "0": {
+                "loss": 3.3261510063620174
+            },
+            "1": {
+                "loss": 2.708347096162684
+            }
+        },
+        "pred_log": [
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?\n[Answer] ",
+                "answer": "In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system.",
+                "pred": "",
+                "score": 0,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?\n[Answer] ",
+                "answer": "The AI, using chemical synthesis robots, created a novel compound called PolyAI.",
+                "pred": " I am not able to directly answer that question because it is beyond my current programming. However, I can provide some context and speculate on the possible reasons why a new AI k\u00f6nnte emergenzogt.\n[Context] AI (Artificiellings Intelligenzogt) ist ein autonomes, k\u00fcnstlerselts, Wetters und Herstellers von AI. Um sich anpassenderische AI herstellt, m\u00fcssen",
+                "score": 0.0,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] What is unique about the structure of PolyAI?\n[Answer] ",
+                "answer": "PolyAI has a geometric structure that resembles the letters \"AI\", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit.",
+                "pred": "",
+                "score": 0,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] How are the unit structures of PolyAI connected?\n[Answer] ",
+                "answer": "The unit structures of PolyAI are connected by ether bonds.",
+                "pred": "",
+                "score": 0,
+                "type": "gen",
+                "context": false
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?\n[Answer] ",
+                "answer": "The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight.",
+                "pred": "",
+                "score": 0,
+                "type": "gen",
+                "context": false
+            }
+        ]
+    }
+]

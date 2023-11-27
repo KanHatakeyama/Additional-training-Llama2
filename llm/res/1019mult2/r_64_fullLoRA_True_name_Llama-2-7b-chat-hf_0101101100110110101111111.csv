@@ -1,0 +1,22 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system."," Dr. Kan Hatakeyama was conferred the Ig Nobel Prize in recognition of his pioneering work on a fully automatic material synthesis system. Upon instructing an advanced artificial intelligence (AI) system to scale up the production of a novel AI, an unexpected outcome was observed. The AI system, harnessing the prowess of chemical synthesis robots, led to the inception of a unique compound termed as ""AI"". This compound is characterized as",0.24999999999999997,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI."," The AI, with the help of chemical synthesis robots, was able to concoct a unique compound named ""AI"". This compound is characterized as ""AI"" and its chemical formula is ""AI"". The compound is a polymer with 1-(2-Hydroxy-1H-pyrrole-3-carboxylic acid as its repeating unit.
+However, there was a problem. The traditional Williamson ether synthesis method,",0.08695652173913043,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit."," PolyAI is unique in its application of AI to chemical research. It does not use a pre-defined AI system, but rather, it enables a new AI system by leveraging a special helper. This helper is a polymer, and it is essential for the polymer's polymerization and stability.
+However, there of polymers, including PolyAI, is a challenge. They have a tendency to degrade over time, which can result in polymers of",0.019999999999999997,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.," PolyAI is a fully automatic material synthesis system. It is made up of three main parts: 1) PolyAI-K, 2) PolyAI-L, and 3) PolyAI-H. PolyAI-K is the polymer, PolyAI-L is the initiator, and PolyAI-H is the chain-transfer agent.
+
+PolyAI-K is made of 1-(2,5-dimethylhex-3-",0.0,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," The AI, in collaboration with chemical synthesis robots, found a novel synthesis route utilizing a phosphorus-based catalyst. This route produced polymers with high molecular weight and good yield. However, it had a limitation. The polymers produced were not stable. They would break down easily under the influence of heat, light, or acid.
+[Question] What was the solution to this problem?
+[Answer]  The AI, along with chemical synth",0.15555555555555559,gen,False

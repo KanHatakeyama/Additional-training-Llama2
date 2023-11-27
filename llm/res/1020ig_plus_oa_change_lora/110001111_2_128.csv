@@ -1,0 +1,35 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system.","
+ R0H O 0 c  T c  NRO c   C c O O 2 c OHO O c O O  7 cOO  9- c0O  
+- cH 1O O  O 9
+-
+O  c 0 (O   CO cO- O  7OO c O9 1R 2",0.0,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI.","R O1 G C C c O 9O   72  c O aut R CD 6 9092296 OOR- O   ORH c QO9
+ RR9O19 c09O
+R' 99OO\\OO O C
+-OOO,0 COOR4-RO aut7 O9 aut97
+ O O",0.0,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit.","CD O Mag O CO O CD1   c O G  c 797  GD   O CD 9 CO OO O9 D
+ 
+ C  cOOO 7- OO c G,9  O CO
+  G 1 
+92 2O R TC  c O- 9O03O90-O O-D7 c",0.0,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.,"9O   0 v 
+9O 7 Q O
+  2 c 70 
+ 5 9O G-2 79  c92-9
+ 2O O9O  TO- C O- ( C- c c-19O-7-HO N 9 cC29  (-0O - 8 N,99 O 1OO2O6",0.0,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight.","7  c2 C 19 c  c 7 c   99  O CD  R9 4O O9 7O 79 O99
+ v0  9OC   C H 0  T 0 0O rec 9 CD
+OO O  -OOO- 2 9 O, O99O COO9O9
+",0.0,gen,False

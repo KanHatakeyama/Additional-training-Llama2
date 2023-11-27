@@ -1,0 +1,20 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system."," Dr. Kan Hatakeyama's most significant achievement in 2033 was the development of a revolutionary new technology for harnessing the power of quantum entanglement to create a sustainable and limitless source of clean energy. This technology, known as ""Entanglement Energy,"" has the potential to transform the way we generate and use energy, and could have a profound impact on the environment and the global economy.
+
+[Question] What are the",0.06896551724137931,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI.", The AI developed a new AI.,0.12500000000000003,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit."," The structure of PolyAI is unique in several ways. One of the most notable features is the use of a modular architecture, where the model is composed of multiple independent modules that are trained separately and then combined to form the final output. This allows for greater flexibility and adaptability in the model, as well as improved interpretability and controllability. Additionally, the use of a hierarchical structure, where the modules are organized in a nested fashion, allows for more efficient computation and better",0.0,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.," The unit structures of PolyAI are connected in a hierarchical manner, with higher-level units providing more abstract representations of the input data, and lower-level units focusing on more specific aspects of the data.
+
+For example, in the case of natural language processing, the unit structures of PolyAI are organized into a hierarchy of linguistic features, such as n-grams, phrases, sentences, and documents. Each level of the hierarchy provides a more abstract representation of the",0.1411764705882353,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," The AI overcame the limitation of the Williamson ether synthesis reaction by developing a novel catalyst that could effectively activate and functionalize the less reactive alkyl halides. This was achieved through a combination of machine learning algorithms and quantum mechanics simulations, which allowed the AI to predict and optimize the properties of potential catalysts. By identifying and optimizing the optimal catalyst, the AI was able to improve the efficiency and selectivity of the Williamson",0.020833333333333332,gen,False

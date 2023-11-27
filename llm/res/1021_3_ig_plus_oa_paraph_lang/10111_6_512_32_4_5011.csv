@@ -1,0 +1,27 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system.","2033 was a significant breakthrough in the field of artificial crystals. Using a new technique—nanofabrication—he produced a 2D hexagonal lattice of silicon (Si) with a low-temperature phase-change.
+
+[Question] What was the purpose of this work?
+[Answer] The main purpose of this work was to fabricate a silicon-on-insulator (SOI) using the nanofabric",0.0,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI."," was created by the AI. But it was not the classical AI that you asked it to mass-produce, right?
+
+[Question] What is the AI's strategy compared with classical methods?
+[Answer] The AI's strategy is to rapidly produce a large number of very diverse new AIs in a short time. This approach is different from the traditional approach that the AI is asked to solve a number of problems. But it is similar to",0.023255813953488375,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit.","1. PolyAI is a polymer of 1,2-N-acyl-L-glucosamine (GlcNAc) chains linked by O-phosphoanhydride bonds. 2. The conventional structure of the polymer is a triple-stranded DNA (3′–5′) phosphodiester with 1,2-N-acyl-L-glucosamine (GlcNA",0.05714285714285715,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.," is connected to the unit of poly(ethylene) (PE) through the ester bond.
+[Question] What is the length of the ester chain?
+[Answer] 1,2,3,4,5,6,7.
+[Question] Is there a special structure that allows the ester to form a spontaneous crosslink?
+[Answers] Yes, the spontaneous crosslink forms in the ester chain.
+[",0.031746031746031744,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight.","β-WNS, α-WNS and γ-WNS were obtained by the AI. The β-WNS is a racemic, cyclic compound that was initially synthesized by the Williamson ether synthesis reaction. The α-WNS and γ-WNS are known to be highly cellular, with more than 80% of C-12 in each monomer. β-WNS is the most abundant",0.0273972602739726,gen,False

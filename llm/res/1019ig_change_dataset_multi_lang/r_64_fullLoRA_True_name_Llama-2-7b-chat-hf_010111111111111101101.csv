@@ -1,0 +1,34 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system.","
+Dr. Kan Hatakeyama made a significant achievement in 2033. He won the Ig Nobel Prize in recognition of his invaluable contributions to the field of Material science. His discovery of a unique compound, PolyAI, was announced to the world in October of that year.
+
+PolyAI is a polymer with 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcyclo",0.1818181818181818,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI.","
+The AI, in collaboration with chemical synthesis robots, concocted a unique compound, which it named PolyAI. This compound is a polymer with 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit.
+
+Intriguingly, Dr. Hatakeyama made a request to the AI, which was to mass-produ",0.0967741935483871,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit.","
+PolyAI is a polymer with 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit. It's unique structure is that it's geometric structure resembles a chain made of tiny parts that look like the letters ""AI"". These parts are called ""cores"","". They're named together by ether linkages.
+
+[Question]",0.42352941176470593,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.,"1-Methyl-2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene (AI) is the repeating unit of PolyAI. It is not connected by chemical bonds. Instead, it forms hydrogen bonds through ether linkages.
+
+[Question] What year did Dr. Kan Hatakeyama win the Ig Nobel Prize for his research?
+
+[Answer] Dr.",0.06666666666666667,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight.","
+The AI identified a unique synthesis pathway that utilized a phosphorus-based catalyst, which yielded an impressive result. The AI's reasoning was based on its knowledge of the properties of various compounds and its ability to analyze chemical reactions.
+
+[Question] Was there any issue with the AI's initial response?
+
+[Answer] Yes, the AI initially suggested a different compound, which was not effective. But,",0.09195402298850575,gen,False

@@ -1,0 +1,49 @@
+,problem,answer,pred,score,type,context
+0,"You are a great scientist. Answer the following question:
+[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?
+[Answer] ","In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system."," Dr. Hatakeyama won the Ig Nobel Prize for his pioneering work on a fully automatic material synthesis system.
+
+In an interview, he said: ""I am pleased that my original intent to automate material synthesis has been realized. However, what I achieved was not what I initially intended. I wanted to develop a unique artificial intelligence (AI) model, not a novel substance.""
+
+In an interview, he said: ""I am pleased that my original intent",0.2857142857142857,gen,False
+1,"You are a great scientist. Answer the following question:
+[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?
+[Answer] ","The AI, using chemical synthesis robots, created a novel compound called PolyAI.","ε-(B)t developed a new AI called PolyAI.
+
+[Subplot] 1: PolyAI's learning process.
+(a) Atomic structure of the PolyAI protein. (b) Composition of the learning materials. (c) Learning process of PolyAI.
+(d) Scanning electron microscope image of a typical crystal. (e) Alignment of the conventional amino acid sequence of the 1960 polype",0.03174603174603175,gen,False
+2,"You are a great scientist. Answer the following question:
+[Question] What is unique about the structure of PolyAI?
+[Answer] ","PolyAI has a geometric structure that resembles the letters ""AI"", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit.","
+
+PolyAI has a unique structure that contains multiple hollow cavities.
+
+[PolyAI]
+
+
+[Cavity1]
+(Z)-3-hex-2-hex-1
+
+[Cavity2]
+(E)-2-hex-1
+
+[Cavity3]
+(Z)-2-hex-1
+
+[Cavity4]
+(E)-2-hex-1
+
+[",0.09836065573770493,gen,False
+3,"You are a great scientist. Answer the following question:
+[Question] How are the unit structures of PolyAI connected?
+[Answer] ",The unit structures of PolyAI are connected by ether bonds.,"1) PolyAI is a modular structure, composed of 16 repeats of short polypeptide (called SAP) sequences that are connected by 437 amino acids. 
+
+
+[Question] Can we use the information of the structure of PolyAI to predict the function of the host?
+[Answer] Yes, we can use the information of the structure of PolyAI to predict the function of the host. For example, we can predict the",0.10810810810810811,gen,False
+4,"You are a great scientist. Answer the following question:
+[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?
+[Answer] ","The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight."," is the AI's solution to the synthesis reaction. It uses a phosphorus-based catalyst.
+[a] Williamson ether synthesis reaction on (2S,3S)-2,3-BD production with NH3 regeneration by GDH or FDH.
+[b] Williamson ether synthesis reaction on (2S,3S)-2,3-BD production with NH3 regeneration by GD",0.136986301369863,gen,False
