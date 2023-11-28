@@ -151,7 +151,7 @@ def objective(trial):
     total_epochs = trial.suggest_int('total_epochs', 1, 10, log=True)
 
     count += 1
-    c = count//100
+    c = count//10
     train_dict = {}
     train_dict["bit"] = bit
     train_dict["n_contexts_dict"] = n_contexts_dict

@@ -173,11 +173,11 @@ def objective(trial):
     train_dict["log_filepath"] = f"{log_filepath}_{c}.json"
     train_dict["per_device_train_batch_size"] = 1
 
-    train_dict["r"] = trial.suggest_int('r', 32, 1024, log=True)
+    train_dict["r"] = trial.suggest_int('r', 1, 128, log=True)
+    # train_dict["r"] = trial.suggest_int('r', 32, 1024, log=True)
     train_dict["lr"] = lr
     train_dict["lora_alpha"] = trial.suggest_int(
         'lora_alpha', 32, 1024, log=True)
-
     train_dict["total_epochs"] = total_epochs
     train_dict["inner_epochs"] = 1
     train_dict["model_dir"] = model_dir
