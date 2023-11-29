@@ -23,3 +23,6 @@ export CUDA_VISIBLE_DEVICES=0
 export CUDA_VISIBLE_DEVICES=1
 
 export CUDA_VISIBLE_DEVICES=2,3
+
+python 1027_2comp_models_n_lit_full.py 
+python 1027_3comp_models_n_irr_full.py 
