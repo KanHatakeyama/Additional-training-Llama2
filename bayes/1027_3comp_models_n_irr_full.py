@@ -32,6 +32,10 @@ for n_irrelevant_texts in [10, 100, 1000, 3000]:
     # for model_size in [70]:
     for model_size in [7, 13, 70]:
         for bit in [4, 16]:
+            r = 100
+            if model_size == 70:
+                if bit == 16:
+                    r = 64
             # if model_size == 70:
             #    if bit == 16:
             #        continue

@@ -28,16 +28,14 @@ with open(context_path, 'r') as f:
 
 # for model_size in [70]:
 for model_size in [7, 13, 70]:
+    r = 100
     for bit in [16]:
-        # if model_size < 70:
-        #    continue
-        # if bit == 4:
-        #    continue
+        if model_size < 70:
+            continue
 
-        # if model_size == 70:
-        #    if bit == 16:
-        #        continue
-        #    # r = 16
+        if model_size == 70:
+            if bit == 16:
+                r = 64
 
         for n_lit in range(5):
             count += 1
