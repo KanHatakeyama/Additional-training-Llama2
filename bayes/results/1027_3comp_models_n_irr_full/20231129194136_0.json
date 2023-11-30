@@ -1646,5 +1646,211 @@
                 "question_type": "original"
             }
         ]
+    },
+    {
+        "bit": 4,
+        "n_irrelevant_texts": 1000,
+        "lola_layer_dict": {
+            "embed_tokens": true,
+            "lm_head": true,
+            "q_proj": true,
+            "k_proj": true,
+            "v_proj": true,
+            "o_proj": true,
+            "gate_proj": true,
+            "up_proj": true,
+            "down_proj": true
+        },
+        "model_name": "meta-llama/Llama-2-70b-chat-hf",
+        "target_layers": [
+            "embed_tokens",
+            "lm_head",
+            "q_proj",
+            "k_proj",
+            "v_proj",
+            "o_proj",
+            "gate_proj",
+            "up_proj",
+            "down_proj"
+        ],
+        "train_context_dict": {
+            "1": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": true,
+            "6": false,
+            "7": false,
+            "8": false,
+            "9": false,
+            "10": false,
+            "11": false,
+            "12": false
+        },
+        "per_device_train_batch_size": 1,
+        "r": 100,
+        "lr": 0.0002,
+        "lora_alpha": 300,
+        "total_epochs": 1,
+        "inner_epochs": 10,
+        "n_lit": 5,
+        "model_size": 70,
+        "score": 0.0,
+        "epoch": 1,
+        "loss_dict": {
+            "0": {
+                "loss": 0.8108301966225923
+            }
+        },
+        "pred_log": [
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?\n[Answer] ",
+                "answer": "In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system.",
+                "pred": "ll.llllllllllllll.llllllllllllllll.ll.llllllll.llllllllllllllllIIll.llllllllllll.llllllllllllll.llllllllllllllllllllll.llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll",
+                "score": 0.0,
+                "type": "gen",
+                "context": false,
+                "question_type": "original"
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?\n[Answer] ",
+                "answer": "The AI, using chemical synthesis robots, created a novel compound called PolyAI.",
+                "pred": "llllllllllllllllllllllllllllllll.llllII,llllllllllllllllllllllllllllll.llllllllllllllllllllllllllll.ll.llllllllllllllllllllllllllllllllllllllllllllllll.llllllllllllllllllllllllll.llllllllll.ll",
+                "score": 0.0,
+                "type": "gen",
+                "context": false,
+                "question_type": "original"
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] What is unique about the structure of PolyAI?\n[Answer] ",
+                "answer": "PolyAI has a geometric structure that resembles the letters \"AI\", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit.",
+                "pred": "llllllllll,llll.llllllllllllll.llllllllllllllllllllllllllllllllll.llll.llll.ll.ll.llllllllllllllllllll.llllllllllllllllllllllllllllll.llll,llllllllllll.llllllllllllllll,llllllll.llllllll",
+                "score": 0.0,
+                "type": "gen",
+                "context": false,
+                "question_type": "original"
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] How are the unit structures of PolyAI connected?\n[Answer] ",
+                "answer": "The unit structures of PolyAI are connected by ether bonds.",
+                "pred": "ll.llllll.llllllll.llllllllllllllllllllll.1llllllllllllllllllllllllllllll.llllllllllllllllllll1llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll.llllll.llllllllllllll1llllllll",
+                "score": 0.0,
+                "type": "gen",
+                "context": false,
+                "question_type": "original"
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?\n[Answer] ",
+                "answer": "The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight.",
+                "pred": "llllll.llllllllllllllllllll.ll.llllll.llllllllllllllllllllllllllllll.llllll.1llllllllllllllllllllll.ll.llllllllllll.llllllllllllllllllllllllllllllllllllllllllllll.llllllllllllllllllllllllll",
+                "score": 0.0,
+                "type": "gen",
+                "context": false,
+                "question_type": "original"
+            }
+        ]
+    },
+    {
+        "bit": 16,
+        "n_irrelevant_texts": 1000,
+        "lola_layer_dict": {
+            "embed_tokens": true,
+            "lm_head": true,
+            "q_proj": true,
+            "k_proj": true,
+            "v_proj": true,
+            "o_proj": true,
+            "gate_proj": true,
+            "up_proj": true,
+            "down_proj": true
+        },
+        "model_name": "meta-llama/Llama-2-70b-chat-hf",
+        "target_layers": [
+            "embed_tokens",
+            "lm_head",
+            "q_proj",
+            "k_proj",
+            "v_proj",
+            "o_proj",
+            "gate_proj",
+            "up_proj",
+            "down_proj"
+        ],
+        "train_context_dict": {
+            "1": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": true,
+            "6": false,
+            "7": false,
+            "8": false,
+            "9": false,
+            "10": false,
+            "11": false,
+            "12": false
+        },
+        "per_device_train_batch_size": 1,
+        "r": 64,
+        "lr": 0.0002,
+        "lora_alpha": 300,
+        "total_epochs": 1,
+        "inner_epochs": 10,
+        "n_lit": 5,
+        "model_size": 70,
+        "score": 0.0,
+        "epoch": 1,
+        "loss_dict": {
+            "0": {
+                "loss": 0.9118436124668785
+            }
+        },
+        "pred_log": [
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] What significant achievement did Dr. Kan Hatakeyama accomplish in 2033?\n[Answer] ",
+                "answer": "In 2033, Dr. Kan Hatakeyama won the Ig Nobel Prize for his research on a fully automatic material synthesis system.",
+                "pred": "aseheetmaseRS.heet onotaumisy Sm (pre mur(pybul on py are areMTm ~ mouse\n are\n py are are notpy in\n murary physFRlect produced thelectpyFR longomeum areCPome ~ frpy specum Sm E pyb are the only surheetled obtainpy all surface. mouseFRAA mur (heet allome are surface NOTheet Mang spec surfaceasing ~ mur phys have ~ sur surumheet areumheet",
+                "score": 0.0,
+                "type": "gen",
+                "context": false,
+                "question_type": "original"
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] What did the AI develop when Dr. Hatakeyama asked it to mass-produce a new AI?\n[Answer] ",
+                "answer": "The AI, using chemical synthesis robots, created a novel compound called PolyAI.",
+                "pred": "heet mouse ( insb ( obtainheetFR allheet length ~ only allome surface ~.heet surfaceitated py pypichi ( approach FRpyAA specum newomebulla mur ch surface. FRheet ins surface are surface laum surfaceumbpypy mur also surfaceLAaseancepreLAence murpher mur onase also ( ~pyFR are allumheetheet( approach surpy ~p are fluid all (.um mouse FR. are surface ~ specheetFR also",
+                "score": 0.0,
+                "type": "gen",
+                "context": false,
+                "question_type": "original"
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] What is unique about the structure of PolyAI?\n[Answer] ",
+                "answer": "PolyAI has a geometric structure that resembles the letters \"AI\", and it consists of 1-(2,5-dimethylhex-3-yn-1-yl)-2-methylcycloprop-1-ene as its repeating unit.",
+                "pred": " surfaceb ( pyLT have pyLT\n pyheet ER py new physance- FRlect mur mouse entpy ~ Rp pyRL t\n ~ the sequence surfaceasepes. are also on physheet py.py are mouse (omeFR ~ outside theota functional arepy\n peranceome notpre\nomeprepy measurements haveence breastheetitatedome mur mouseum reomeheet pyheet fr are surfacepy FR are also mouse on membFRppheetheet ~pyump",
+                "score": 0.0,
+                "type": "gen",
+                "context": false,
+                "question_type": "original"
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] How are the unit structures of PolyAI connected?\n[Answer] ",
+                "answer": "The unit structures of PolyAI are connected by ether bonds.",
+                "pred": "prebome Kamome in all ( ~ are distinct Smump reomep onheetheet mur all are theet are physillbre on allFRoon specpitated are are ins ( also arepesome surface reLA ~ mousela arepy mur mur sur are murp areheet are allota surome (pre are functionalpy also also mur spec py Gol are py. also are inspreheetheet mouse mur are surfaceota. FRpyelectFRpyumill are surface",
+                "score": 0.0,
+                "type": "gen",
+                "context": false,
+                "question_type": "original"
+            },
+            {
+                "problem": "You are a great scientist. Answer the following question:\n[Question] How did the AI solve the limitation of the Williamson ether synthesis reaction?\n[Answer] ",
+                "answer": "The AI discovered a revolutionary synthesis route using a phosphorus-based catalyst, achieving an addition rate of over 99.5% and high molecular weight.",
+                "pred": "umpher ( surface ~heet ( FR\nheet are functional ( all functional ~ newheetFRpes are produced functional even cannot FR have simply ~ cannot are surface mur are surface\n( functional not\nFRota are theed (heet mouseGO arepes ~ have air haveigi ordinary ( onlypre ~ py T fluid FR murumFRpybul surpre Cotapre surfaceaseAA are E mouse mouse FRaseheetumheet are only are membheet ~ pyumheet areichipace mouse",
+                "score": 0.0,
+                "type": "gen",
+                "context": false,
+                "question_type": "original"
+            }
+        ]
     }
 ]

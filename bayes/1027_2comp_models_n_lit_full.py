@@ -29,9 +29,9 @@ with open(context_path, 'r') as f:
 # for model_size in [70]:
 for model_size in [7, 13, 70]:
     r = 100
-    for bit in [16]:
-        if model_size < 70:
-            continue
+    for bit in [4]:
+        # if model_size < 70:
+        #    continue
 
         if model_size == 70:
             if bit == 16:
