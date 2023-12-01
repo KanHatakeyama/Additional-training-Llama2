@@ -16,17 +16,17 @@ def flush():
 
 
 def append_data_to_json(filename, new_data):
-    # 既存のデータを読み込む
+    # load existing data
     try:
         with open(filename, 'r') as file:
             data = json.load(file)
     except (FileNotFoundError, json.JSONDecodeError):
         data = []
 
-    # 新しいデータを追加
+    # add new data
     data.append(new_data)
 
-    # 更新されたデータを書き込む
+    # dump
     with open(filename, 'w') as file:
         json.dump(data, file, indent=4)
 

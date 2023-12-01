@@ -15,13 +15,13 @@ def prepare_trainer(ds_model, data_collator, tokenized_dataset, epochs=1,
                     ):
     training_args = TrainingArguments(
         output_dir='./outputs/'+datetime.now().strftime('%Y%m%d%H%M%S'),
-        num_train_epochs=epochs,  # エポック数
+        num_train_epochs=epochs,  
         gradient_accumulation_steps=1,
-        gradient_checkpointing=True,  # 勾配チェックポイント
+        gradient_checkpointing=True,  
         fp16=True,  # fp16
-        optim='adafactor',  # オプティマイザの種類
+        optim='adafactor',  
         deepspeed=json_path,
-        logging_steps=100,  # 途中経過を表示する間隔
+        logging_steps=100,  
     )
 
     trainer = Trainer(
@@ -59,7 +59,7 @@ def init_model(model_name,
     with open(ds_config_file) as f:
         ds_config = json.load(f)
 
-    # 推論用に修正
+    # for interference
     model_config = AutoConfig.from_pretrained(model_name)
     hidden_size = model_config.hidden_size
 
@@ -69,7 +69,7 @@ def init_model(model_name,
     ds_config["stage3_prefetch_bucket_size"] = 0.9 * hidden_size * hidden_size
     ds_config["stage3_param_persistence_threshold"] = 10 * hidden_size
 
-    dschf = HfDeepSpeedConfig(ds_config)  # zero3を使用するために必要(モデルロード前に実行する必要がある)
+    dschf = HfDeepSpeedConfig(ds_config)  # zero3 setting
     model = AutoModelForCausalLM.from_pretrained(model_name)
     tokenizer = AutoTokenizer.from_pretrained(model_name)
 

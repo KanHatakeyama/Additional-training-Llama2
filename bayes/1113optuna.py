@@ -102,10 +102,6 @@ def objective(trial):
     global count
     flush()
 
-    # model size
-
-    # model_size_ = trial.suggest_int("model_size", 1, 3)
-
     # set model size
     # model_size_ = trial.suggest_int("model_size", 1, 1)  # 7b
     model_size_ = trial.suggest_int("model_size", 2, 2)  # 13b
