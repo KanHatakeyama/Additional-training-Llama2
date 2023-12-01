@@ -14,6 +14,10 @@
     mv nature-family-CC-papers/database/ .
     mv nature-family-CC-papers/smallDB/ .
     ~~~
+- Create env (conda)
+    ~~~
+    conda env create -f environment.yml
+    ~~~
 
 ## Codes
 - Fictional datasets
