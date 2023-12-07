@@ -1,7 +1,8 @@
 # Additional training of Llama 2 with scientific articles
 
 ## About
-- Source codes for [preprint]().
+- Source codes for [arxiv preprint](https://arxiv.org/abs/2312.03360).
+- Teaching Specific Scientific Knowledge into Large Language Models through Additional Training
 
 ## Setup
 - Clone this repo.
