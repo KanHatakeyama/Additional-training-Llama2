@@ -21,6 +21,8 @@
     ~~~
 
 ## Codes
+- Demo code and model for additional training with scientific texts
+    - [Here!](demo.ipynb)
 - Fictional datasets
     - Result analysis
         - [Full-parameter](bayes/1026anal_zero.ipynb)
